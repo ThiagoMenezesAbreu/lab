@@ -1,0 +1,231 @@
+---
+ID_DEL_TEXTO: 'ID_DEL_TEXTO Texto'
+admin_no_permission: 'You do not have permission to access <strong>%s</strong>'
+bazar-description-seo: 'Crowdfunding solidarity gifts at Goteo.org'
+bazar-title-seo: 'Presentes solidários :: Goteo.org'
+blog-comments: Comentários
+blog-main-header: 'Goteo Blog'
+calendar-calls-category: Calls
+calendar-events-category: Eventos
+calendar-home-hour: para
+calendar-home-title: 'Next event'
+calendar-net-category: 'Networks & Politics'
+calendar-projects-category: Projetos
+calendar-share: Compartilhar
+calendar-workshops-category: Workshops
+couldn: 'Text couldn'
+error-contact-email-invalid: 'O email inserido não é válido'
+error-image-name: 'Erro no nome do arquivo'
+error-image-size: 'Erro no tamanho do arquivo'
+error-image-size-too-large: 'Imagem muito grande.'
+error-image-tmp: 'Erro no carregamento do arquivo'
+error-image-type: 'Apenas JPG, PNG, e imagens GIF são permitidos.'
+error-image-type-not-allowed: 'Apenas .jpg, .png, e imagens .gih são permitidos.'
+error-register-email-exists: 'Email já cadastrado.'
+error-register-pasword-empty: 'Digite a senha'
+error-user-email-confirm: 'A confirmação do email deve ser igual ao email.'
+error-user-email-empty: 'O campo email é obrigatório'
+error-user-email-exists: 'Já existe um usuário cadastrado com esse email'
+error-user-email-invalid: 'Email inválido.'
+error-user-email-token-invalid: 'Código incorreto'
+error-user-password-confirm: 'As senhas não coincidem'
+error-user-password-empty: 'Campo senha obrigatório'
+error-user-password-invalid: 'A senha não atende os requisitos mínimos de segurança, a senha deve ter ao menos 6 caracteres.'
+error-user-id-invalid: 'Usuário inválido. Use apenas caracteres a-z 0-9'
+error-user-id-exists: 'Já existe um usuário cadastrado com esse nome de usuário'
+error-user-wrong-password: 'Senha incorreta.'
+explain-project-progress: 'Este gráfico explica de forma visual o nível de dados que você inseriu junto com uma avaliação básica concluída pelo sistema. Para poder enviar o projeto, você precisa atingir pelo menos 80%. Os critérios que fazem o aumento da “temperatura” têm a ver com a informação relevante que você fornece, a mídia, imagens e links que você digita, o grau de abertura da licença que você escolhe, a coerência de sua estimativa com relação ao trabalho. que precisa ser realizado, etc. Não se esqueça de aproveitar as dicas à direita que o guiarão pelo processo.'
+fancybox: 'Fancybox text'
+goteo-return-button: 'Voltar para Goteo'
+guide-dashboard-user-access: 'Você pode alterar as informações com as quais você faz login na sua conta do Goteo.'
+guide-dashboard-user-personal: "Você só deve preencher esses dados se tiver criado um projeto e quiser que ele seja co-financiado e suportado pelo Goteo. A informação desta parte é necessária para contatá-lo no caso de você obter o financiamento necessário, e para que a renda possa ser feita."
+guide-project-contract-information: 'As informações nesta seção são necessárias para que possamos contatá-lo se você obtiver o financiamento necessário e poder fazer o depósito. No caso de organizações, recomendamos que o representante da organização seja formalmente credenciado (por exemplo, por meio dos estatutos ou um certificado do secretário com um OK do presidente, no caso de associações).'
+guide-project-images: 'As fotos podem ser fotografias, capturas de tela, contornos, ilustrações, storyboards, etc. (sua licença de autoria deve ser compatível com o que você escolher na seção. Você pode carregar quantos quiser'
+guide-project-rewards: "<strong>Nesta seção, você deve estabelecer o que o projeto está oferecendo aos seus co-financiadores.</strong>"
+guide-project-supports: '<strong>Nesta seção, você especificará quais outros apoios, além do financiamento, serão necessários para concluir o projeto. </strong><br><br>Eles podem consistir de colaboração ou assistência de outras pessoas (traduções, organização, promoção, etc.) ou talvez empréstimos específicos (de material, transporte, hardware, etc.)'
+guide-project-invests: 'Nesta seção você será capaz de gerenciar seus co-financiadores, as recompensas que eles escolheram e contatá-los se você precisar.'
+header-about-side: 'O que nos inspira'
+home-posts-header: Notícias
+horizontal-project-investors: 'co-financiadores'
+horizontal-project-percent: 'Financiado'
+horizontal-project-reached: 'Alcançado'
+invest-individual-header: 'Você pode recusar receber recompensas pela sua contribuição ou selecionar aquelas que correspondam ou estejam abaixo do valor que você inseriu.'
+login-register-conditions: 'Para concluir o cadastro, você deve aceitar os <a href="/legal/terms">Termos e condições de uso</a>, <a href="/legal/privacy">Privacidade</a> & <a href="/legal/cookies">Políticas de Cookies</a>.'
+login-register-accept-newsletter: 'Se inscreva'
+login-accept-conditions: 'Eu aceito <a href="/legal/terms">termos e condições de uso</a>, <a href="/legal/privacy">Privacidade</a> e <a href="/legal/cookies">Políticas de cookies</a>.'
+mandatory-cost-field-type: 'Você deve selecionar o tipo de custo'
+mandatory-individual_reward-field-amount: 'Você tem que especificar o valor que se qualifica para a recompensa'
+mandatory-project-costs: 'Estes devem ser divididos em pelo menos dois grupos.'
+mandatory-register-field-email: 'Insira um email válido'
+mark-pending: 'Marcar como transação pendente'
+meta-description-index: 'Goteo is an open network for crowdfunding, collaborations and training, leader in social innovation. With 2 rounds and fiscal advantages for donors!'
+node-menu-home: Node
+overview-field-about: 'Main features and goals of the crowdfunding campaign'
+overview-field-motivation: 'Por quê isso é importante?'
+profile-about-header: 'Sobre mim'
+project-invest-total: 'Total de contribuições'
+project-messages-send_message-your_answer: 'Escreva sua resposta'
+project-messages-send_message_support-your_answer: 'Escreva aqui sua mensagem de colaboração para %s'
+regular-add: Novo Recore
+regular-all: Todos
+regular-admin_board: 'Painel administrativo'
+regular-allsome: 'all/some of'
+regular-anonymous: Anônimo
+regular-ask: Pergunte
+regular-submit: Enviar
+regular-by: 'Por:'
+regular-calendar: Calendário
+regular-cancel: Cancelar
+regular-cancel-back: 'Cancelar e voltar'
+regular-back: 'Go back'
+regular-channel: Canal
+regular-collaborate: Colaborar
+regular-content: Conteúdo
+regular-continue-question: 'Continar?'
+regular-create: 'Criar um projeto'
+regular-date: Data
+regular-date_in: Data de entrada
+regular-date_out: Data de lançamento
+regular-days: dias
+regular-delete: Apagar
+regular-description: Descrição
+regular-discover: 'Descobrir projetos'
+regular-discard: 'Descartar'
+regular-download-pdf: 'Baixar PDF'
+regular-download: Baixar
+regular-actions: Ações
+regular-edit: Editar
+regular-email: Email
+regular-join: 'Junte-se'
+regular-facebook: Facebook
+regular-faq: 'Perguntas frequentes'
+regular-female: Mulher
+regular-first: Primeiro
+regular-from: para
+regular-getit: Pegue
+regular-go_up: Upload
+regular-google: Google+
+regular-header: Cabeçalho
+regular-header-about: 'Sobre Goteo'
+regular-header-blog: Blog
+regular-header-faq: FAQ
+regular-header-glossary: 'Glossário de termos de uso no Goteo'
+regular-hello: Olá
+regular-here: aqui
+regular-help: Ajuda
+regular-home: Iniciar
+regular-id: Identificador (ID)
+regular-im: Eu sou
+regular-instagram: Instagram
+regular-invest: Contribuir
+regular-invest_it: 'Co-financiar este político'
+regular-investing: Contribuir
+regular-lang: Idioma
+regular-last: Último
+regular-license: Licença
+regular-linkedin: LinkedIn
+regular-loading: Carregando...
+regular-login: Entrar
+regular-logout: 'Sair'
+regular-looks_for: 'olhar para:'
+regular-main-header: Goteo.org
+regular-male: Homem
+regular-others: Outros
+regular-manage_board: 'Painel da agência de processamento'
+regular-mandatory: 'Campo obrigatório!'
+regular-media_legend: Chave
+regular-menu: Menu
+regular-menu-personal: Meu menu
+regular-message-clipboard-fail: 'Selecione e cole este link'
+regular-message_fail: 'Erro ao enviar mensagem'
+regular-message_success: 'Messagem enviada corretamente'
+regular-months: months
+regular-more_info: 'Plus d''info'
+regular-news: 'Notícias'
+regular-no: 'Não'
+regular-of: de
+regular-preview: Prévisulização
+regular-projects: projetos
+regular-published_no: Esboço
+regular-published_yes: Publicado
+regular-read_more: 'Saiba mais'
+regular-recent-activity: Atividades Recentes
+regular-recomended_by: 'Projeto recomendado por:'
+regular-review_board: 'Painel de prévisualizações'
+regular-round: 'Round'
+regular-save: Salvar
+regular-schedule: Agendar
+regular-search: Pesquisar
+regular-search-user: Pesquisar um usuário
+regular-search-desc: 'Pesquisar'
+regular-search-tooltip: 'Digite as palavras chaves e tecle enter'
+regular-see_all: 'Ver tudo'
+regular-see_blog: Blog
+regular-see_details: 'Ver detalhes'
+regular-see_more: 'Ver mais'
+regular-send_message: 'Enviar mensagem'
+regular-share-facebook: 'Goteo no Facebook'
+regular-share-rss: RSS/Blog
+regular-share-twitter: 'Siga-nos no Twitter'
+regular-share_this: 'Compartilhar no:'
+regular-sorry: 'Pedimos desculpas'
+regular-spread: Broadcasting
+regular-status: Situação
+regular-template: Modelo
+regular-thanks: Obrigado
+regular-title: Título
+regular-text: Texto
+regular-media: Video (Youtube, Vimeo)
+regular-total: Total
+regular-translate: Traduzir
+regular-translations: 'Traduções'
+regular-translate_board: 'Painel de traduções'
+regular-twitter: Twitter
+regular-url: URL
+regular-view: View
+regular-view_project: 'Ver projeto'
+regular-web: Site
+regular-weeks: semanas
+regular-year: Ano
+regular-yes: "Sim"
+regular-name: Nome
+regular-image: Imagem
+regular-images: Imagnss
+regular-load-more: 'Carregar mais'
+regular-analytics: 'Google Analytics'
+regular-facebook-pixel: 'Facebook Pixel'
+regular-call: Matchfunding
+regular-num-comments: '%s comments'
+regular-manage: 'Manage'
+regular-no-edit-permissions: Você não tem permissões para editar isso!
+regular-messages: Mensagens
+regular-unknown: Unknown
+regular-input: Entrada
+regular-amount: Montante
+regular-copied: 'Copiado!'
+regular-remember-me: 'Lembrar-me'
+regular-next: Próximo
+regular-previous: Anterir
+session-about-to-expire: 'Sua sessão vai expirar em 10 minutos, deseja recarregar?'
+session-expired: 'Sessão expirada.'
+stories-user-project: '%s, para o político: %s'
+support-our-mission: 'APOIE NOSSA MISSÃO'
+tooltip: 'Tooltip text'
+tooltip-dashboard-user-access_data: 'Estes são seus dados de login atuais. A única coisa que você não pode mudar é o seu nome de usuário.'
+tooltip-dashboard-user-change_email: 'Altere o endereço de e-mail no qual você recebe mensagens do Goteo.'
+tooltip-dashboard-user-change_password: 'Altere sua senha que você usa para fazer login no Goteo.'
+tooltip-dashboard-user-confirm_email: 'Confirme o novo endereço de email.'
+tooltip-dashboard-user-confirm_password: 'Confirme a nova senha'
+tooltip-dashboard-user-new_email: 'Digite o novo email.'
+tooltip-dashboard-user-new_password: 'Nova senha.'
+tooltip-dashboard-user-user_password: 'Senha atual.'
+tooltip-project-schedule: 'Calendário de produção para o seu projeto. Lembre-se de que você deve indicar apenas novas tarefas, não aquelas que já foram concluídas.'
+translate-home-guide: 'Nota para o tradutor'
+user-account-inactive: 'Conta desativada.'
+user-activate-fail: 'Erro ao ativar conta'
+user-changeemail-invalid-token: 'Ação expirada ou já processada'
+user-changeemail-fail: 'Erro ao alterar email'
+user-register-success: 'Cadastro efetuado com sucesso. Verifique sua caixa de entrada.'
+validate-project-social_rewards: 'Você precisa especificar pelo menos um benefício coletivo'
+validate-project-total-costs: "O custo máximo não pode exceder mais de 50% do custo mínimo. Você aumenta os custos básicos ou diminui os custos adicionais."
+user-promoter: 'O promotor'

@@ -1,0 +1,107 @@
+---
+admin-action: 'Ação administrativa'
+admin-NO: 'Não'
+admin-YES: "Sim"
+admin-account-amount: 'Quantidade doada'
+admin-account-change-user: 'Trocar usuário'
+admin-account-change-user-confirm: 'Tem certeza de que deseja alterar o usuário da contribuição? O novo usuário será:'
+admin-account-convert-to-pool: 'Converter para carteira'
+admin-account-convert-to-pool-confirm: 'Isso eliminará o projeto associado a essa contribuição e será como se fosse uma compra de carteira. TODAS AS DOAÇÕES ASSOCIADAS SERÃO PERDIDAS. Deseja continuar?'
+admin-account-convert-to-pool-ko: 'Não foi possível converter a doação para a carteira: %s'
+admin-account-convert-to-pool-ok: 'Doação convertida para dinheiro'
+admin-account-detail: 'Detalhes da Transação'
+admin-account-donation: Doação
+admin-account-edit-reward: 'Gerenciar return/address'
+admin-account-invalid-invest: 'Doação [%s] não encontrada!'
+admin-account-invest-date: 'Data da doação'
+admin-account-invest-non-pool-refundable: 'Esta doação não pode ser reembolsada na carteira virtual. Você só pode reembolsar as doações no status "Cobrado"'
+admin-address: Destinatário
+admin-all: Todos
+admin-back: Voltar
+admin-back-detail: 'Voltar para detalhes'
+admin-back-list: 'Voltar para lista'
+admin-contents: 'Textos e traduções'
+admin-empty-list: 'Nenhum resultado encontrado'
+admin-mailing-back-to-list: 'Voltar para mensagens'
+admin-mailing-created: 'Criado em'
+admin-mailing-new-massive: 'Você criou uma nova lista de discussão para %TOTAL% usuários'
+admin-mailing-status: 'Status de entrega automática'
+admin-mailing-subject: Assunto
+admin-mailing-view-and-activate: 'Veja o post admin para começar a enviar'
+admin-mailing-view-in-newsletter: 'Veja o post admin'
+admin-filters: 'Filtros'
+admin-remove-filters: 'Remover Filtros'
+admin-sponsors: Services
+admin-status: Status
+admin-text-type: 'Processar o texto como'
+admin-text-type-html: HTML
+admin-text-type-md: Markdown
+admin-text-type-plain: 'Plaintext'
+admin-user: Usuário
+admin-users: Usuários
+admin-yes: "Sim"
+admin-impersonate: Impersonate
+admin-impersonate-user: Impersonate %s
+admin-project: Projeto
+admin-main: Menu
+admin-legacy: Legado
+admin-projects: Projeto
+admin-invests: Contribuições
+admin-consultants: Consultores
+admin-project-express-discard: 'Descarte expresso'
+admin-project-express-discard-desc: 'Alterar o status do projeto para Descartar e envia um ema'
+admin-project-express-discard-sure: 'O projeto será descartado e o proprietário receberá um email, ok?'
+admin-project-to-review: 'Para rever'
+admin-project-to-review-desc: 'Alterar o status do projeto para Revisão pendente'
+admin-project-to-review-sure: 'O dono não poderá mais editar o projeto, ok?'
+admin-project-view-in-admin: 'Ver em admin'
+admin-project-to-negotiation: 'Para negociar'
+admin-project-to-negotiation-desc: 'Alterar o status do projeto para edição'
+admin-project-to-negotiation-sure: 'ALERTA! O projeto está em campanha! Esta ação irá cancelar a publicação do projeto, Ok?'
+admin-project-to-publish: 'Publicar'
+admin-project-to-publish-desc: 'Alterar o status do projeto para "Em campanha"'
+admin-project-to-publish-sure: 'Projeto vai começar sua campanha, ok?'
+admin-project-derivation-discard: 'Descarte e Derivação'
+admin-project-derivation-discard-desc: 'Alterar o status do projeto para Descartar e envia um e-mail derivado para outras plataformas'
+admin-project-derivation-discard-sure: 'O projeto será descartado e o dono receberá um e-mail derivando para outras plataformas, ok?'
+admin-home-title: Administrar Goteo
+
+admin-already-impersonating: 'Você já está representando um usuário. Por favor, feche a sessão primeiro!'
+admin-rebase-user: 'Alterar o id do usuário'
+admin-edit-name: 'Alterar nome'
+admin-edit-roles: 'Alterar permissão'
+admin-send-email: 'Enviar email'
+admin-show-roles-info: 'O que cada papel pode fazer'
+admin-user-roles: 'Lista de permissões de usuários'
+admin-view-user-projects: 'Todos projetos do usuário'
+admin-view-user-invests: 'Todas as doações do usuário'
+admin-user-hidden: 'Privado (oculto)'
+admin-user-active: 'Conta ativa'
+admin-user-warning: 'Atenção: Estas operações são executadas sem aviso prévio ao usuário'
+admin-user-wallet-amount: 'Crédito da carteira'
+admin-user-create-invest: 'Criar doação'
+admin-mailing: 'Mailing'
+admin-user-no-mailing: 'Nenhum email enviado'
+admin-view-user-mailing: 'Todos emails'
+admin-role-change-forbidden: 'Você não tem permissão para gerenciar a função %ROLE% neste usuári'
+
+admin-users-global-search: 'Id, nome, email or projeto'
+admin-title-id: Id
+admin-title-name: Nome
+admin-title-fullname: Nome
+admin-title-about: Sobre
+admin-title-location: Localização
+admin-title-email: Email
+admin-title-password: Senha
+admin-title-avatar: Avatar
+admin-title-roles: Permissões
+admin-title-amount: Investido
+admin-title-info: Informações
+
+admin-all-project-referers: 'Origem das visitas às páginas do projeto'
+admin-all-invests-referers: 'Origem das visitas em contribuições bem sucedidas para projetos'
+admin-all-call-referers: 'Origem das visitas para combinar páginas de financiamento'
+admin-all-project-devices: 'Dispositivo usado nas páginas do projeto'
+admin-all-invests-devices: 'Dispositivo usado em contribuições bem-sucedidas para projetos'
+admin-all-call-devices: 'Dispositivo usado em páginas de correspondência de partidas'
+

@@ -1,0 +1,1875 @@
+Date: Fri, 25 May 2018 20:24:14 +0200
+To: dev@example.com
+From: Goteo Sender <noreply@example.com>
+Reply-To: Goteo Sender <noreply@example.com>
+Subject: [LOCAL] WebApp error in [//191.252.113.207:8081]
+Message-ID: <fae46593f9d33f44c2824199d6913e23@6fb9658abb89>
+X-Mailer: PHPMailer 5.2.26 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_fae46593f9d33f44c2824199d6913e23"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_fae46593f9d33f44c2824199d6913e23
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+INFO
+Message:
+
+Matched route "admin-module-routing".
+
+Time:
+
+2018-05-25 20:24:13
+
+Channel:
+
+main
+
+Context:
+
+route_parameters:
+
+{
+    "_controller":=0A"Goteo\\Controller\\AdminController::routingAction",
+    "uri": "",
+    "id": "texts",
+    "_route": "admin-module-routing"
+}
+
+request_uri:
+
+http://191.252.113.207:8081/admin/texts?filter=3DBuscar&amp;group=3Dcosts&a=
+mp;text=3D
+
+Extra:
+
+memory_usage:
+
+2 MB
+
+mhash:
+
+matched-route-admin-module-routing
+
+uid:
+
+31a2af45
+
+session:
+
+7dfdg7cq
+
+token:
+
+4cdf3155
+
+ip:
+
+192.168.255.42
+
+method:
+
+GET
+
+user:
+
+root
+
+lang:
+
+pt
+
+currency:
+
+USD
+
+ERROR
+Message:
+
+USER NOTICE: 'Illegal string offset 'type'' at=0A/application/Resources/tem=
+plates/legacy/admin/texts/list.html.php=0A29:
+  /application/.tmp/index_dev.php 64 calling run()
+  /application/src/Goteo/Application/App.php 178=0Acalling handle()
+ =0A/application/vendor/symfony/http-kernel/HttpKernel.php=0A57 calling han=
+dleRaw()
+ =0A/application/vendor/symfony/http-kernel/HttpKernel.php=0A135 calling ro=
+utingAction()
+ =0A/application/src/Goteo/Controller/AdminController.php=0A141 calling opt=
+ionAction()
+ =0A/application/src/Goteo/Controller/AdminController.php=0A507 calling get=
+()
+  /application/src/Goteo/Core/View.php 114 calling=0Arender()
+  /application/src/Goteo/Core/View.php 78 calling=0Ainclude()
+
+Time:
+
+2018-05-25 20:24:14
+
+Channel:
+
+main
+
+Extra:
+
+memory_usage:
+
+2 MB
+
+mhash:
+
+user-notice-illegal-string-offset-type-at-applicat
+
+uid:
+
+31a2af45
+
+session:
+
+7dfdg7cq
+
+token:
+
+4cdf3155
+
+ip:
+
+192.168.255.42
+
+method:
+
+GET
+
+user:
+
+root
+
+lang:
+
+pt
+
+currency:
+
+USD
+
+ERROR
+Message:
+
+USER NOTICE: 'Illegal string offset 'type'' at=0A/application/Resources/tem=
+plates/legacy/admin/texts/list.html.php=0A37:
+  /application/.tmp/index_dev.php 64 calling run()
+  /application/src/Goteo/Application/App.php 178=0Acalling handle()
+ =0A/application/vendor/symfony/http-kernel/HttpKernel.php=0A57 calling han=
+dleRaw()
+ =0A/application/vendor/symfony/http-kernel/HttpKernel.php=0A135 calling ro=
+utingAction()
+ =0A/application/src/Goteo/Controller/AdminController.php=0A141 calling opt=
+ionAction()
+ =0A/application/src/Goteo/Controller/AdminController.php=0A507 calling get=
+()
+  /application/src/Goteo/Core/View.php 114 calling=0Arender()
+  /application/src/Goteo/Core/View.php 78 calling=0Ainclude()
+
+Time:
+
+2018-05-25 20:24:14
+
+Channel:
+
+main
+
+Extra:
+
+memory_usage:
+
+2 MB
+
+mhash:
+
+user-notice-illegal-string-offset-type-at-applicat
+
+uid:
+
+31a2af45
+
+session:
+
+7dfdg7cq
+
+token:
+
+4cdf3155
+
+ip:
+
+192.168.255.42
+
+method:
+
+GET
+
+user:
+
+root
+
+lang:
+
+pt
+
+currency:
+
+USD
+
+INFO
+Message:
+
+Request
+
+Time:
+
+2018-05-25 20:24:14
+
+Channel:
+
+main
+
+Context:
+
+code:
+
+200
+
+agent:
+
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36=0A(KHTML, like Gecko) Ch=
+rome/66.0.3359.139=0ASafari/537.36
+
+referer:
+
+http://191.252.113.207:8081/admin/texts
+
+path:
+
+/admin/texts
+
+query:
+
+filter=3DBuscar&amp;group=3Dcosts&amp;text=3D
+
+user:
+
+root
+
+time:
+
+1.178817987442
+
+route:
+
+admin-module-routing
+
+controller:
+
+Goteo\Controller\AdminController
+
+action:
+
+routingAction
+
+Extra:
+
+memory_usage:
+
+2 MB
+
+mhash:
+
+request
+
+uid:
+
+31a2af45
+
+session:
+
+7dfdg7cq
+
+token:
+
+4cdf3155
+
+ip:
+
+192.168.255.42
+
+method:
+
+GET
+
+user:
+
+root
+
+lang:
+
+pt
+
+currency:
+
+USD
+
+Array
+(
+    [_SERVER] =3D> Array
+        (
+            [HOSTNAME] =3D> 6fb9658abb89
+            [TERM] =3D> linux
+            [PATH] =3D>=0A/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin=
+:/sbin:/bin
+            [_] =3D> /usr/sbin/php-fpm7.1
+            [GOTEO_CONFIG_FILE] =3D>=0A/application/config/local-docker-set=
+tings.yml
+            [PWD] =3D> /application
+            [SHLVL] =3D> 2
+            [HOME] =3D> /home/goteo
+            [DEBUG] =3D> 1
+            [USER] =3D> goteo
+            [HTTP_COOKIE] =3D> goteo_cookies=3Dok;=0Agoteo_user=3Droot;=0Ag=
+oteo-local=3D7dfdg7cq8ua4n6i04kb3p461i8;=0Auid=3D31a2af45
+            [HTTP_ACCEPT_LANGUAGE] =3D>=0Aen-US,en;q=3D0.9
+            [HTTP_ACCEPT_ENCODING] =3D> gzip,=0Adeflate
+            [HTTP_REFERER] =3D>=0Ahttp://191.252.113.207:8081/admin/texts
+            [HTTP_ACCEPT] =3D>=0Atext/html,application/xhtml+xml,applicatio=
+n/xml;q=3D0.9,image/webp,image/apng,*/*;q=3D0.8
+            [HTTP_USER_AGENT] =3D> Mozilla/5.0 (X11;=0ALinux x86_64) AppleW=
+ebKit/537.36 (KHTML, like=0AGecko) Chrome/66.0.3359.139 Safari/537.36
+            [HTTP_UPGRADE_INSECURE_REQUESTS] =3D> 1
+            [HTTP_CONNECTION] =3D> keep-alive
+            [HTTP_HOST] =3D> 191.252.113.207:8081
+            [REDIRECT_STATUS] =3D> 200
+            [SERVER_NAME] =3D>=20
+            [SERVER_PORT] =3D> 80
+            [SERVER_ADDR] =3D> 172.19.0.3
+            [REMOTE_PORT] =3D> 56722
+            [REMOTE_ADDR] =3D> 192.168.255.42
+            [SERVER_SOFTWARE] =3D> nginx/1.13.12
+            [GATEWAY_INTERFACE] =3D> CGI/1.1
+            [REQUEST_SCHEME] =3D> http
+            [SERVER_PROTOCOL] =3D> HTTP/1.1
+            [DOCUMENT_ROOT] =3D> /application/.tmp
+            [DOCUMENT_URI] =3D>=0A/index_dev.php//admin/texts
+            [REQUEST_URI] =3D>=0A/admin/texts?group=3Dcosts&text=3D&filter=
+=3DBuscar
+            [SCRIPT_NAME] =3D> /index_dev.php
+            [CONTENT_LENGTH] =3D>=20
+            [CONTENT_TYPE] =3D>=20
+            [REQUEST_METHOD] =3D> GET
+            [QUERY_STRING] =3D>=0Agroup=3Dcosts&text=3D&filter=3DBuscar
+            [PHP_VALUE] =3D>=0Aerror_log=3D/var/log/nginx/application_php_e=
+rrors.log
+            [SCRIPT_FILENAME] =3D>=0A/application/.tmp/index_dev.php
+            [FCGI_ROLE] =3D> RESPONDER
+            [PHP_SELF] =3D> /index_dev.php
+            [REQUEST_TIME_FLOAT] =3D>=0A1527272652.3148
+            [REQUEST_TIME] =3D> 1527272652
+        )
+
+    [_SESSION] =3D> Array
+        (
+            [_sf2_attributes] =3D> Array
+                (
+                    [init_time] =3D> 1527272653
+                    [lang] =3D> pt
+                    [currency] =3D> USD
+                    [origin.ua] =3D> Array
+                        (
+                            [tag] =3D> Chrome
+                            [category] =3D> Linux
+                            [type] =3D> ua
+                        )
+
+                    [origin.referer] =3D> Array
+                        (
+                            [tag] =3D> json
+                            [category] =3D> internal
+                            [type] =3D> referer
+                        )
+
+                    [user] =3D> Goteo\Model\User=0AObject
+                        (
+                            [id] =3D> root
+                            [lang] =3D> en
+                            [node] =3D> goteo
+                            [nodeData] =3D>=20
+                            [userid] =3D>=20
+                            [email] =3D>=20
+                            [password] =3D>=20
+                            [birthyear] =3D>=20
+                            [gender] =3D>=20
+                            [entity_type] =3D>=20
+                            [legal_entity] =3D>=20
+                            [name] =3D> Sysadmin
+                            [location] =3D>=20
+                            [avatar] =3D>=0AGoteo\Model\Image Object
+                                (
+                                    [id] =3D>=0Ala_gota.png
+                                    [name] =3D>=0Ala_gota.png
+                                    [type] =3D>=20
+                                    [tmp] =3D>=20
+                                    [error] =3D>=20
+                                    [size] =3D>=20
+                                    [quality] =3D>=0A92
+                                   =0A[dir_originals] =3D> images/
+                                    [dir_cache] =3D>=0Acache/
+                                   =0A[fallback_image] =3D>=0AiVBORw0KGgoAA=
+AANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC3ElEQVRYhb2XW1PiMBzF/f6POiMMBZO0KdBFZEBH=
+nWGViKy7IIEtCmgvn+XsQ5tYLlIuZR8yfUib88v5X5qc+L6PLIfneQvPtHGStXgQBPr5XwA8z9t=
+JMBMAtcvJZKKFkxDb2n+wA+2fj/j9Z7AAdXQHlND7dA7Oy7i9u4fnh3pu+d2jOSCenkEoA+dluJ=
+P3vcOwM4Ba+PLyCpyXQShDvd5YeSfDKgiX7A9wVW9ocUIsGMUS+v1XHZ6jJaHneRCiq8UpM2EYB=
+Lm8Ac7LmM0+di7HnQCGchyJEwuUchjFEnJ5A4RYsO0KHKeG6XS+E0QqgLJzOJJwnBooM0GIhYJx=
+gVy+AEIscF6NoJiJVusGs9lH9g7c3t1H4pTFOy/oKlCOUMrBeRlXS0l5sANCdMFMC4QyFEsXMIo=
+lCNGFlGNQZibEqxqi0+lkA9DrvUTZHu98ueTUnG07X+GIE3Q6nx0O0Gxe62x3nNrCXBAEC2FQEC=
+pUj52ndIBNGeu6blTnBkEuX9AdL/mNbTsaglL+lQ/MXHFrowMq25OLu64LwyA4zxXgODXd85ONh=
+jIzEo93rSA4r6Ja/bEdQFI0ubiUUtd5q3UDzw/jNpt8Z4zBYAApJYZyjKEcw7IqsO0KOC8flgNS=
+yjjBosU+vSCG/dzwzRi2XdFh2Qsg+TNJtt2hHG8sV9/30ek8gTETlJloNq+3A0javpyUyQYUJVX=
+4Laz7NlnIh9Ho7/YOfPcfV2GgzMTp2Tlu7+4xn3+uQAxHEvV6I2pMcWKmia8Nwbqy7IguTs/Oo0=
+7HTHBuo91+QLv9ACG6Cy5RykEoQ6/3sh/Ad/Fttx90bAmxdKmp9qtcIpRBCLHWzb0B1Oj1XnSMt=
+biCogzN5jX6g+FKYmYGEI0Q/f4rhOjiunWDer2B7vMvvL1NFwSPciZMu/XsczlJBVh33t+0u8yP=
+ZOt6RJrIUQ6lnuchDMO1c/tcyXYG2PfqlTb+AaY7ymbFQPTOAAAAAElFTkSuQmCC
+                                   =0A[fp:Goteo\Model\Image:private] =3D>=
+=0AGoteo\Library\FileHandler\LocalFile Object
+                                        (
+                                           =0A[path:protected] =3D> /applic=
+ation/var/data/images/
+                                           =0A[link:protected] =3D>=20
+                                        )
+
+                                   =0A[cache:Goteo\Model\Image:private] =3D=
+>=20
+                                   =0A[Table:protected] =3D>=20
+                                    [hash] =3D>=0A461066ccb93dbf09116c8bdc8=
+e85b56e
+                                )
+
+                            [user_avatar] =3D>=20
+                            [about] =3D>=20
+                            [contribution] =3D>=20
+                            [keywords] =3D>=20
+                            [active] =3D> 1
+                            [confirmed] =3D> 1
+                            [hide] =3D> 1
+                            [facebook] =3D>=20
+                            [google] =3D>=20
+                            [twitter] =3D>=20
+                            [identica] =3D>=20
+                            [linkedin] =3D>=20
+                            [instagram] =3D>=20
+                            [amount] =3D>=20
+                            [worth] =3D> 0
+                            [rememberme] =3D>=0A2fe835e14f96888b77fbf176f49=
+caa146cbdd29268c6382fd9b2a903f0b8b9c9
+                            [created] =3D>=0A2017-11-18 01:39:13
+                            [modified] =3D>=0A2018-05-25 17:21:29
+                            [interests] =3D> Array
+                                (
+                                )
+
+                            [webs] =3D> Array
+                                (
+                                )
+
+                            [roles] =3D> Array
+                                (
+                                    [checker] =3D>=0AstdClass Object
+                                        (
+                                            [id]=0A=3D> checker
+                                            [name]=0A=3D> Revisor de proyec=
+tos
+                                        )
+
+                                    [manager] =3D>=0AstdClass Object
+                                        (
+                                            [id]=0A=3D> manager
+                                            [name]=0A=3D> Gestor de contrat=
+os
+                                        )
+
+                                    [root] =3D>=0AstdClass Object
+                                        (
+                                            [id]=0A=3D> root
+                                            [name]=0A=3D> ROOT
+                                        )
+
+                                    [superadmin]=0A=3D> stdClass Object
+                                        (
+                                            [id]=0A=3D> superadmin
+                                            [name]=0A=3D> Super administrad=
+or
+                                        )
+
+                                    [translator]=0A=3D> stdClass Object
+                                        (
+                                            [id]=0A=3D> translator
+                                            [name]=0A=3D> Traductor de cont=
+enidos
+                                        )
+
+                                    [user] =3D>=0AstdClass Object
+                                        (
+                                            [id]=0A=3D> user
+                                            [name]=0A=3D> Usuario registrad=
+o
+                                        )
+
+                                )
+
+                            [Table:protected] =3D>=0Auser
+                            [num_invested] =3D>=20
+                            [num_owned] =3D>=20
+                            [translangs] =3D> Array
+                                (
+                                    [ca] =3D>=0ACatal=C3=A0
+                                    [de] =3D>=0ADeutsch
+                                    [el] =3D>=0A=CE=95=CE=BB=CE=BB=CE=B7=
+=CE=BD=CE=B9=CE=BA=CE=AC
+                                    [en] =3D>=0AEnglish
+                                    [es] =3D>=0AEspa=C3=B1ol
+                                    [eu] =3D>=0AEuskara
+                                    [fr] =3D>=0AFran=C3=A7ais
+                                    [gl] =3D> Galego
+                                    [it] =3D>=0AItaliano
+                                    [nl] =3D> Dutch
+                                    [pt] =3D>=0APortugu=C3=AAs
+                                )
+
+                            [all_roles_nodes] =3D>=0AArray
+                                (
+                                    [goteo] =3D>=0AArray
+                                        (
+                                            [0] =3D>=0Aroot
+                                            [1] =3D>=0Asuperadmin
+                                            [2] =3D>=0Atranslator
+                                            [3] =3D>=0Achecker
+                                            [4] =3D>=0Amanager
+                                        )
+
+                                )
+
+                            [rolesInstance] =3D>=0AGoteo\Model\User\UserRol=
+es Object
+                                (
+                                   =0A[user:protected] =3D> Goteo\Model\Use=
+r Object
+ *RECURSION*
+                                   =0A[storage:ArrayObject:private] =3D> Ar=
+ray
+                                        (
+                                           =0A[checker] =3D> Array
+                                                (
+                                                  =0A [0] =3D> create-proje=
+ct
+                                                  =0A [1] =3D> edit-project
+                                                  =0A [2] =3D> remove-proje=
+ct
+                                                  =0A [3] =3D> review-proje=
+ct
+                                                )
+
+                                           =0A[manager] =3D> Array
+                                                (
+                                                  =0A [0] =3D> create-proje=
+ct
+                                                  =0A [1] =3D> edit-project
+                                                  =0A [2] =3D> remove-proje=
+ct
+                                                  =0A [3] =3D> view-any-pro=
+ject
+                                                  =0A [4] =3D> edit-publish=
+ed-projects
+                                                )
+
+                                            [root]=0A=3D> Array
+                                                (
+                                                  =0A [0] =3D> create-proje=
+ct
+                                                  =0A [1] =3D> edit-project
+                                                  =0A [2] =3D> remove-proje=
+ct
+                                                  =0A [3] =3D> review-proje=
+ct
+                                                  =0A [4] =3D> view-any-pro=
+ject
+                                                  =0A [5] =3D> publish-proj=
+ects
+                                                  =0A [6] =3D> edit-project=
+s
+                                                  =0A [7] =3D> remove-proje=
+cts
+                                                  =0A [8] =3D> impersonate-=
+owners
+                                                  =0A [9] =3D> assign-check=
+er
+                                                  =0A [10] =3D> admin-modul=
+e-users
+                                                  =0A [11] =3D> publish-any=
+-project
+                                                  =0A [12] =3D> assign-cons=
+ultant
+                                                  =0A [13] =3D> edit-any-pr=
+oject
+                                                  =0A [14] =3D> remove-any-=
+project
+                                                  =0A [15] =3D> rebase-user=
+s
+                                                  =0A [16] =3D> impersonate=
+-users
+                                                  =0A [17] =3D> admin-modul=
+e-users
+                                                  =0A [18] =3D> admin-modul=
+e-stats
+                                                  =0A [19] =3D> admin-any-m=
+odule
+                                                  =0A [20] =3D> impersonate=
+-everyone
+                                                )
+
+                                           =0A[superadmin] =3D> Array
+                                                (
+                                                  =0A [0] =3D> create-proje=
+ct
+                                                  =0A [1] =3D> edit-project
+                                                  =0A [2] =3D> remove-proje=
+ct
+                                                  =0A [3] =3D> review-proje=
+ct
+                                                  =0A [4] =3D> view-any-pro=
+ject
+                                                  =0A [5] =3D> publish-proj=
+ects
+                                                  =0A [6] =3D> edit-project=
+s
+                                                  =0A [7] =3D> remove-proje=
+cts
+                                                  =0A [8] =3D> impersonate-=
+owners
+                                                  =0A [9] =3D> assign-check=
+er
+                                                  =0A [10] =3D> admin-modul=
+e-users
+                                                  =0A [11] =3D> publish-any=
+-project
+                                                  =0A [12] =3D> assign-cons=
+ultant
+                                                  =0A [13] =3D> edit-any-pr=
+oject
+                                                  =0A [14] =3D> remove-any-=
+project
+                                                  =0A [15] =3D> rebase-user=
+s
+                                                  =0A [16] =3D> impersonate=
+-users
+                                                  =0A [17] =3D> admin-modul=
+e-users
+                                                  =0A [18] =3D> admin-modul=
+e-stats
+                                                  =0A [19] =3D> admin-any-m=
+odule
+                                                )
+
+                                           =0A[translator] =3D> Array
+                                                (
+                                                  =0A [0] =3D> create-proje=
+ct
+                                                  =0A [1] =3D> edit-project
+                                                  =0A [2] =3D> remove-proje=
+ct
+                                                  =0A [3] =3D> translate-la=
+nguage
+                                                )
+
+                                            [user]=0A=3D> Array
+                                                (
+                                                  =0A [0] =3D> create-proje=
+ct
+                                                  =0A [1] =3D> edit-project
+                                                  =0A [2] =3D> remove-proje=
+ct
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [_csrf/autoform] =3D>=0A5h3B31ikhb5IPF4pMn6DymMnE7sio6U=
+zP_noNL9PZGs
+                    [messages] =3D> Array
+                        (
+                        )
+
+                    [admin_node] =3D> goteo
+                    [admin_filters] =3D> Array
+                        (
+                            [main] =3D> Array
+                                (
+                                )
+
+                            [texts] =3D> Array
+                                (
+                                    [group] =3D>=0Acosts
+                                    [text] =3D>=20
+                                    [filtered] =3D>=0Ayes
+                                )
+
+                            [accounts] =3D> Array
+                                (
+                                    [id] =3D>=20
+                                    [methods] =3D>=20
+                                    [status] =3D>=0Aall
+                                    [projects] =3D>=20
+                                    [name] =3D>=20
+                                    [calls] =3D>=20
+                                    [review] =3D>=20
+                                    [types] =3D>=20
+                                    [date_from] =3D>=0A
+                                    [date_until]=0A=3D>=20
+                                    [issue] =3D> all
+                                    [procStatus]=0A=3D> all
+                                    [amount] =3D>=20
+                                    [maxamount] =3D>=0A
+                                )
+
+                            [categories] =3D> Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [_sf2_flashes] =3D> Array
+                (
+                )
+
+            [_sf2_meta] =3D> Array
+                (
+                    [u] =3D> 1527272653
+                    [c] =3D> 1527269350
+                    [l] =3D> 0
+                )
+
+            [init_time] =3D> 1527272653
+            [lang] =3D> pt
+            [currency] =3D> USD
+            [origin.ua] =3D> Array
+                (
+                    [tag] =3D> Chrome
+                    [category] =3D> Linux
+                    [type] =3D> ua
+                )
+
+            [origin.referer] =3D> Array
+                (
+                    [tag] =3D> json
+                    [category] =3D> internal
+                    [type] =3D> referer
+                )
+
+            [user] =3D> Goteo\Model\User Object
+                (
+                    [id] =3D> root
+                    [lang] =3D> en
+                    [node] =3D> goteo
+                    [nodeData] =3D>=20
+                    [userid] =3D>=20
+                    [email] =3D>=20
+                    [password] =3D>=20
+                    [birthyear] =3D>=20
+                    [gender] =3D>=20
+                    [entity_type] =3D>=20
+                    [legal_entity] =3D>=20
+                    [name] =3D> Sysadmin
+                    [location] =3D>=20
+                    [avatar] =3D> Goteo\Model\Image=0AObject
+                        (
+                            [id] =3D> la_gota.png
+                            [name] =3D> la_gota.png
+                            [type] =3D>=20
+                            [tmp] =3D>=20
+                            [error] =3D>=20
+                            [size] =3D>=20
+                            [quality] =3D> 92
+                            [dir_originals] =3D>=0Aimages/
+                            [dir_cache] =3D> cache/
+                            [fallback_image] =3D>=0AiVBORw0KGgoAAAANSUhEUgA=
+AACAAAAAgCAYAAABzenr0AAAC3ElEQVRYhb2XW1PiMBzF/f6POiMMBZO0KdBFZEBHnWGViKy7II=
+EtCmgvn+XsQ5tYLlIuZR8yfUib88v5X5qc+L6PLIfneQvPtHGStXgQBPr5XwA8z9tJMBMAtcvJZ=
+KKFkxDb2n+wA+2fj/j9Z7AAdXQHlND7dA7Oy7i9u4fnh3pu+d2jOSCenkEoA+dluJP3vcOwM4Ba=
++PLyCpyXQShDvd5YeSfDKgiX7A9wVW9ocUIsGMUS+v1XHZ6jJaHneRCiq8UpM2EYBLm8Ac7LmM0=
++di7HnQCGchyJEwuUchjFEnJ5A4RYsO0KHKeG6XS+E0QqgLJzOJJwnBooM0GIhYJxgVy+AEIscF=
+6NoJiJVusGs9lH9g7c3t1H4pTFOy/oKlCOUMrBeRlXS0l5sANCdMFMC4QyFEsXMIolCNGFlGNQZ=
+ibEqxqi0+lkA9DrvUTZHu98ueTUnG07X+GIE3Q6nx0O0Gxe62x3nNrCXBAEC2FQECpUj52ndIBN=
+Geu6blTnBkEuX9AdL/mNbTsaglL+lQ/MXHFrowMq25OLu64LwyA4zxXgODXd85ONhjIzEo93rSA=
+4r6Ja/bEdQFI0ubiUUtd5q3UDzw/jNpt8Z4zBYAApJYZyjKEcw7IqsO0KOC8flgNSyjjBosU+vS=
+CG/dzwzRi2XdFh2Qsg+TNJtt2hHG8sV9/30ek8gTETlJloNq+3A0javpyUyQYUJVX4Laz7NlnIh=
+9Ho7/YOfPcfV2GgzMTp2Tlu7+4xn3+uQAxHEvV6I2pMcWKmia8Nwbqy7IguTs/Oo07HTHBuo91+=
+QLv9ACG6Cy5RykEoQ6/3sh/Ad/Fttx90bAmxdKmp9qtcIpRBCLHWzb0B1Oj1XnSMtbiCogzN5jX=
+6g+FKYmYGEI0Q/f4rhOjiunWDer2B7vMvvL1NFwSPciZMu/XsczlJBVh33t+0u8yPZOt6RJrIUQ=
+6lnuchDMO1c/tcyXYG2PfqlTb+AaY7ymbFQPTOAAAAAElFTkSuQmCC
+                           =0A[fp:Goteo\Model\Image:private] =3D>=0AGoteo\L=
+ibrary\FileHandler\LocalFile Object
+                                (
+                                   =0A[path:protected] =3D> /application/va=
+r/data/images/
+                                   =0A[link:protected] =3D>=20
+                                )
+
+                           =0A[cache:Goteo\Model\Image:private] =3D>=20
+                            [Table:protected] =3D>=20
+                            [hash] =3D>=0A461066ccb93dbf09116c8bdc8e85b56e
+                        )
+
+                    [user_avatar] =3D>=20
+                    [about] =3D>=20
+                    [contribution] =3D>=20
+                    [keywords] =3D>=20
+                    [active] =3D> 1
+                    [confirmed] =3D> 1
+                    [hide] =3D> 1
+                    [facebook] =3D>=20
+                    [google] =3D>=20
+                    [twitter] =3D>=20
+                    [identica] =3D>=20
+                    [linkedin] =3D>=20
+                    [instagram] =3D>=20
+                    [amount] =3D>=20
+                    [worth] =3D> 0
+                    [rememberme] =3D>=0A2fe835e14f96888b77fbf176f49caa146cb=
+dd29268c6382fd9b2a903f0b8b9c9
+                    [created] =3D> 2017-11-18=0A01:39:13
+                    [modified] =3D> 2018-05-25=0A17:21:29
+                    [interests] =3D> Array
+                        (
+                        )
+
+                    [webs] =3D> Array
+                        (
+                        )
+
+                    [roles] =3D> Array
+                        (
+                            [checker] =3D> stdClass=0AObject
+                                (
+                                    [id] =3D>=0Achecker
+                                    [name] =3D>=0ARevisor de proyectos
+                                )
+
+                            [manager] =3D> stdClass=0AObject
+                                (
+                                    [id] =3D>=0Amanager
+                                    [name] =3D>=0AGestor de contratos
+                                )
+
+                            [root] =3D> stdClass=0AObject
+                                (
+                                    [id] =3D> root
+                                    [name] =3D> ROOT
+                                )
+
+                            [superadmin] =3D>=0AstdClass Object
+                                (
+                                    [id] =3D>=0Asuperadmin
+                                    [name] =3D>=0ASuper administrador
+                                )
+
+                            [translator] =3D>=0AstdClass Object
+                                (
+                                    [id] =3D>=0Atranslator
+                                    [name] =3D>=0ATraductor de contenidos
+                                )
+
+                            [user] =3D> stdClass=0AObject
+                                (
+                                    [id] =3D> user
+                                    [name] =3D>=0AUsuario registrado
+                                )
+
+                        )
+
+                    [Table:protected] =3D> user
+                    [num_invested] =3D>=20
+                    [num_owned] =3D>=20
+                    [translangs] =3D> Array
+                        (
+                            [ca] =3D> Catal=C3=A0
+                            [de] =3D> Deutsch
+                            [el] =3D>=0A=CE=95=CE=BB=CE=BB=CE=B7=CE=BD=
+=CE=B9=CE=BA=CE=AC
+                            [en] =3D> English
+                            [es] =3D> Espa=C3=B1ol
+                            [eu] =3D> Euskara
+                            [fr] =3D> Fran=C3=A7ais
+                            [gl] =3D> Galego
+                            [it] =3D> Italiano
+                            [nl] =3D> Dutch
+                            [pt] =3D> Portugu=C3=AAs
+                        )
+
+                    [all_roles_nodes] =3D> Array
+                        (
+                            [goteo] =3D> Array
+                                (
+                                    [0] =3D> root
+                                    [1] =3D>=0Asuperadmin
+                                    [2] =3D>=0Atranslator
+                                    [3] =3D> checker
+                                    [4] =3D> manager
+                                )
+
+                        )
+
+                    [rolesInstance] =3D>=0AGoteo\Model\User\UserRoles Objec=
+t
+                        (
+                            [user:protected] =3D>=0AGoteo\Model\User Object
+ *RECURSION*
+                           =0A[storage:ArrayObject:private] =3D> Array
+                                (
+                                    [checker] =3D>=0AArray
+                                        (
+                                            [0] =3D>=0Acreate-project
+                                            [1] =3D>=0Aedit-project
+                                            [2] =3D>=0Aremove-project
+                                            [3] =3D>=0Areview-project
+                                        )
+
+                                    [manager] =3D>=0AArray
+                                        (
+                                            [0] =3D>=0Acreate-project
+                                            [1] =3D>=0Aedit-project
+                                            [2] =3D>=0Aremove-project
+                                            [3] =3D>=0Aview-any-project
+                                            [4] =3D>=0Aedit-published-proje=
+cts
+                                        )
+
+                                    [root] =3D>=0AArray
+                                        (
+                                            [0] =3D>=0Acreate-project
+                                            [1] =3D>=0Aedit-project
+                                            [2] =3D>=0Aremove-project
+                                            [3] =3D>=0Areview-project
+                                            [4] =3D>=0Aview-any-project
+                                            [5] =3D>=0Apublish-projects
+                                            [6] =3D>=0Aedit-projects
+                                            [7] =3D>=0Aremove-projects
+                                            [8] =3D>=0Aimpersonate-owners
+                                            [9] =3D>=0Aassign-checker
+                                            [10]=0A=3D> admin-module-users
+                                            [11]=0A=3D> publish-any-project
+                                            [12]=0A=3D> assign-consultant
+                                            [13]=0A=3D> edit-any-project
+                                            [14]=0A=3D> remove-any-project
+                                            [15]=0A=3D> rebase-users
+                                            [16]=0A=3D> impersonate-users
+                                            [17]=0A=3D> admin-module-users
+                                            [18]=0A=3D> admin-module-stats
+                                            [19]=0A=3D> admin-any-module
+                                            [20]=0A=3D> impersonate-everyon=
+e
+                                        )
+
+                                    [superadmin]=0A=3D> Array
+                                        (
+                                            [0] =3D>=0Acreate-project
+                                            [1] =3D>=0Aedit-project
+                                            [2] =3D>=0Aremove-project
+                                            [3] =3D>=0Areview-project
+                                            [4] =3D>=0Aview-any-project
+                                            [5] =3D>=0Apublish-projects
+                                            [6] =3D>=0Aedit-projects
+                                            [7] =3D>=0Aremove-projects
+                                            [8] =3D>=0Aimpersonate-owners
+                                            [9] =3D>=0Aassign-checker
+                                            [10]=0A=3D> admin-module-users
+                                            [11]=0A=3D> publish-any-project
+                                            [12]=0A=3D> assign-consultant
+                                            [13]=0A=3D> edit-any-project
+                                            [14]=0A=3D> remove-any-project
+                                            [15]=0A=3D> rebase-users
+                                            [16]=0A=3D> impersonate-users
+                                            [17]=0A=3D> admin-module-users
+                                            [18]=0A=3D> admin-module-stats
+                                            [19]=0A=3D> admin-any-module
+                                        )
+
+                                    [translator]=0A=3D> Array
+                                        (
+                                            [0] =3D>=0Acreate-project
+                                            [1] =3D>=0Aedit-project
+                                            [2] =3D>=0Aremove-project
+                                            [3] =3D>=0Atranslate-language
+                                        )
+
+                                    [user] =3D>=0AArray
+                                        (
+                                            [0] =3D>=0Acreate-project
+                                            [1] =3D>=0Aedit-project
+                                            [2] =3D>=0Aremove-project
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [redirections] =3D> Array
+                (
+                    [0] =3D> Redirection:=0Ahttp://191.252.113.207:8081/tra=
+nslate/activity?p=3D&q=3Dtes=0A=3D> /translate
+                )
+
+            [messages] =3D> Array
+                (
+                )
+
+            [admin_node] =3D> goteo
+            [admin_filters] =3D> Array
+                (
+                    [main] =3D> Array
+                        (
+                        )
+
+                    [texts] =3D> Array
+                        (
+                            [group] =3D> costs
+                            [text] =3D>=20
+                            [filtered] =3D> yes
+                        )
+
+                    [accounts] =3D> Array
+                        (
+                            [id] =3D>=20
+                            [methods] =3D>=20
+                            [status] =3D> all
+                            [projects] =3D>=20
+                            [name] =3D>=20
+                            [calls] =3D>=20
+                            [review] =3D>=20
+                            [types] =3D>=20
+                            [date_from] =3D>=20
+                            [date_until] =3D>=20
+                            [issue] =3D> all
+                            [procStatus] =3D> all
+                            [amount] =3D>=20
+                            [maxamount] =3D>=20
+                        )
+
+                    [categories] =3D> Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [_GET] =3D> Array
+        (
+            [group] =3D> costs
+            [text] =3D>=20
+            [filter] =3D> Buscar
+        )
+
+    [_COOKIE] =3D> Array
+        (
+            [goteo_cookies] =3D> ok
+            [goteo_user] =3D> root
+            [goteo-local] =3D>=0A7dfdg7cq8ua4n6i04kb3p461i8
+            [uid] =3D> 31a2af45
+        )
+
+)
+
+
+--b1_fae46593f9d33f44c2824199d6913e23
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A<meta http-equiv=3D"Content-Type" content=3D=
+"text/html; charset=3DUTF-8" />=0A<title>WebApp error in [//191.252.113.207=
+:8081]</title>=0A<style type=3D"text/css">=0A<!--=0Abody {=0A=09margin: 0px=
+;=0A=09padding: 0px;=0A=09font-family: Arial, Helvetica, sans-serif;=0A=09c=
+olor:#58595B;=0A}=0A=0A.header-bar {=0A=09width: 100%;=0A=09height: 22px;=
+=0A=09line-height:22px;=0A=09font-size:10px;=0A=09color:#cccccc;=0A=09backg=
+round-color:#58595B;=0A}=0A=0A.header-bar a {=0A=09color:#ffffff;=0A}=0A=0A=
+=0A.header {=0A=09width: 100%;=0A=09background-color:#CDE4E5;=0A=09padding-=
+top:7px;=0A=09padding-bottom:7px;=0A}=0A=0A.header-element {=0A=09margin-le=
+ft:50px;=0A=09}=0A=0A.content {=0A=09width:600px;=0A=09margin-left:50px;=0A=
+=09}=0A=0A.message {=0A=09font-size:14px;=0A=09padding-bottom:20px;=0A=09pa=
+dding-top:20px;=0A=09}=0A=0A.message-highlight-red {=0A=09color:#E32526;=0A=
+=09}=0A=0A.message-highlight-blue {=0A=09color:#20B3B2;=0A=09}=0A=0A.messag=
+e-highlight-blue a {=0A=09color:#20B3B2;=0A=09text-decoration:none;=0A=09}=
+=0A=0A.disclaimer {=0A=09font-size:11px;=0A=09color:#20B3B2;=0A=09padding-b=
+ottom:10px;=0A=09padding-top:10px;=0A=09border-bottom: 1px solid #20B3B2;=
+=0A=09border-top: 1px solid #20B3B2;=0A=09}=0A=0A.goteo-url {=0A=09font-siz=
+e:12px;=0A=09color:#20B3B2;=0A=09padding-top:10px;=0A=09padding-bottom:10px=
+;=0A=09}=0A=0A.goteo-url a {=0A=09color:#20B3B2;=0A=09text-decoration:none;=
+=0A=09}=0A=0A.descubre {=0A=09color:#E32526;=0A=09font-size:14px;=0A=09padd=
+ing-top:5px;=0A    text-transform: uppercase;=0A=09}=0A=0A.descubre a {=0A=
+=09color:#E32526;=0A=09text-decoration:none;=0A=09}=0A=0A.crea {=0A=09color=
+:#20B3B2;=0A=09font-size:14px;=0A=09padding-top:5px;=0A=09padding-bottom:10=
+px;=0A    text-transform: uppercase;=0A=09}=0A=0A.crea a {=0A=09color:#20B3=
+B2;=0A=09text-decoration:none;=0A=09}=0A=0A.follow {=0A=09font-size:11px;=
+=0A=09padding-bottom:10px;=0A=09}=0A=0A.facebook a {=0A=09color:#233E99;=0A=
+=09text-decoration:none;=0A=09}=0A=0A.twitter a {=0A=09color:#00AEEF;=0A=09=
+text-decoration:none;=0A=09}=0A=0A.rss a {=0A=09color:#F15A29;=0A=09text-de=
+coration:none;=0A=09}=0A=0A.unsuscribe {=0A=09font-size:11px;=0A=09text-ali=
+gn:right;=0A=09padding-bottom:10px;=0A=09padding-top:10px;=0A=09border-top:=
+ 1px solid #20B3B2;=0A=09}=0A=0A.unsuscribe a {=0Acolor:#20B3B2;=0A=09text-=
+decoration:none;=0A=09}=0A=0A.footer-bar {=0A=09width: 100%;=0A=09height: 2=
+2px;=0A=09line-height:22px;=0A=09font-size:10px;=0A=09color:#ffffff;=0A=09b=
+ackground-color:#58595B;=0A=09text-align:right=0A}=0A=0A.footer-bar a {=0A=
+=09color:#ffffff;=0A=09text-decoration:none=0A}=0A=0A=0A.footer-element {=
+=0A=09margin-right:50px;=0A=09}=0A=0A-->=0A</style>=0A</head>=0A=0A<body>=
+=0A=0A<div class=3D"header-bar"><span class=3D"header-element">If you can't=
+ see this message use this <a href=3D"http://191.252.113.207:8081/mail/ZWJl=
+MjQzYjJiNjVhYjI0NjZhOGQwOGVmNjVhMDg1YjHCrGRldkBleGFtcGxlLmNvbcKsMcKsMQ=3D=
+=3D">link</a></span></div><div class=3D"header"><span class=3D"header-eleme=
+nt"><img src=3D"http://191.252.113.207:8081/goteo_logo.png" alt=3D"Logo" />=
+</span></div>=0A=0A<div class=3D"content">=0A=0A<div class=3D"message">=0A =
+ <h1 style=3D"background: #468847;color: #ffffff;padding: 5px;" class=3D"mo=
+nolog-output">INFO</h1><table cellspacing=3D"1" width=3D"100%" class=3D"mon=
+olog-output"><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th=
+ style=3D"background: #cccccc" width=3D"100px">Message:</th>=0A<td style=3D=
+"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>Matched=
+ route "admin-module-routing".</pre></td>=0A</tr><tr style=3D"padding: 4px;=
+spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D=
+"100px">Time:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;=
+background: #eeeeee"><pre>2018-05-25 20:24:13</pre></td>=0A</tr><tr style=
+=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: =
+#cccccc" width=3D"100px">Channel:</th>=0A<td style=3D"padding: 4px;spacing:=
+ 0;text-align: left;background: #eeeeee"><pre>main</pre></td>=0A</tr><tr st=
+yle=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backgroun=
+d: #cccccc" width=3D"100px">Context:</th>=0A<td style=3D"padding: 4px;spaci=
+ng: 0;text-align: left;background: #eeeeee"><table cellspacing=3D"1" width=
+=3D"100%"><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th st=
+yle=3D"background: #cccccc" width=3D"100px">route_parameters:</th>=0A<td st=
+yle=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>{=
+=0A    "_controller": "Goteo\\Controller\\AdminController::routingAction",=
+=0A    "uri": "",=0A    "id": "texts",=0A    "_route": "admin-module-routin=
+g"=0A}</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: l=
+eft;">=0A<th style=3D"background: #cccccc" width=3D"100px">request_uri:</th=
+>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeee=
+ee"><pre>http://191.252.113.207:8081/admin/texts?filter=3DBuscar&amp;group=
+=3Dcosts&amp;text=3D</pre></td>=0A</tr></table></td>=0A</tr><tr style=3D"pa=
+dding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #ccccc=
+c" width=3D"100px">Extra:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-=
+align: left;background: #eeeeee"><table cellspacing=3D"1" width=3D"100%"><t=
+r style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backg=
+round: #cccccc" width=3D"100px">memory_usage:</th>=0A<td style=3D"padding: =
+4px;spacing: 0;text-align: left;background: #eeeeee"><pre>2 MB</pre></td>=
+=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th styl=
+e=3D"background: #cccccc" width=3D"100px">mhash:</th>=0A<td style=3D"paddin=
+g: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>matched-route-=
+admin-module-routing</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0=
+;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">ui=
+d:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background:=
+ #eeeeee"><pre>31a2af45</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing=
+: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px"=
+>session:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;back=
+ground: #eeeeee"><pre>7dfdg7cq</pre></td>=0A</tr><tr style=3D"padding: 4px;=
+spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D=
+"100px">token:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left=
+;background: #eeeeee"><pre>4cdf3155</pre></td>=0A</tr><tr style=3D"padding:=
+ 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" wid=
+th=3D"100px">ip:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: le=
+ft;background: #eeeeee"><pre>192.168.255.42</pre></td>=0A</tr><tr style=3D"=
+padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #ccc=
+ccc" width=3D"100px">method:</th>=0A<td style=3D"padding: 4px;spacing: 0;te=
+xt-align: left;background: #eeeeee"><pre>GET</pre></td>=0A</tr><tr style=3D=
+"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cc=
+cccc" width=3D"100px">user:</th>=0A<td style=3D"padding: 4px;spacing: 0;tex=
+t-align: left;background: #eeeeee"><pre>root</pre></td>=0A</tr><tr style=3D=
+"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cc=
+cccc" width=3D"100px">lang:</th>=0A<td style=3D"padding: 4px;spacing: 0;tex=
+t-align: left;background: #eeeeee"><pre>pt</pre></td>=0A</tr><tr style=3D"p=
+adding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cccc=
+cc" width=3D"100px">currency:</th>=0A<td style=3D"padding: 4px;spacing: 0;t=
+ext-align: left;background: #eeeeee"><pre>USD</pre></td>=0A</tr></table></t=
+d>=0A</tr></table><h1 style=3D"background: #f0ad4e;color: #ffffff;padding: =
+5px;" class=3D"monolog-output">ERROR</h1><table cellspacing=3D"1" width=3D"=
+100%" class=3D"monolog-output"><tr style=3D"padding: 4px;spacing: 0;text-al=
+ign: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">Message:</=
+th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: #ee=
+eeee"><pre>USER NOTICE: 'Illegal string offset 'type'' at /application/Reso=
+urces/templates/legacy/admin/texts/list.html.php 29:=0A  /application/.tmp/=
+index_dev.php 64 calling run()=0A  /application/src/Goteo/Application/App.p=
+hp 178 calling handle()=0A  /application/vendor/symfony/http-kernel/HttpKer=
+nel.php 57 calling handleRaw()=0A  /application/vendor/symfony/http-kernel/=
+HttpKernel.php 135 calling routingAction()=0A  /application/src/Goteo/Contr=
+oller/AdminController.php 141 calling optionAction()=0A  /application/src/G=
+oteo/Controller/AdminController.php 507 calling get()=0A  /application/src/=
+Goteo/Core/View.php 114 calling render()=0A  /application/src/Goteo/Core/Vi=
+ew.php 78 calling include()=0A</pre></td>=0A</tr><tr style=3D"padding: 4px;=
+spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D=
+"100px">Time:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;=
+background: #eeeeee"><pre>2018-05-25 20:24:14</pre></td>=0A</tr><tr style=
+=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: =
+#cccccc" width=3D"100px">Channel:</th>=0A<td style=3D"padding: 4px;spacing:=
+ 0;text-align: left;background: #eeeeee"><pre>main</pre></td>=0A</tr><tr st=
+yle=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backgroun=
+d: #cccccc" width=3D"100px">Extra:</th>=0A<td style=3D"padding: 4px;spacing=
+: 0;text-align: left;background: #eeeeee"><table cellspacing=3D"1" width=3D=
+"100%"><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=
+=3D"background: #cccccc" width=3D"100px">memory_usage:</th>=0A<td style=3D"=
+padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>2 MB</pr=
+e></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<=
+th style=3D"background: #cccccc" width=3D"100px">mhash:</th>=0A<td style=3D=
+"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>user-no=
+tice-illegal-string-offset-type-at-applicat</pre></td>=0A</tr><tr style=3D"=
+padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #ccc=
+ccc" width=3D"100px">uid:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-=
+align: left;background: #eeeeee"><pre>31a2af45</pre></td>=0A</tr><tr style=
+=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: =
+#cccccc" width=3D"100px">session:</th>=0A<td style=3D"padding: 4px;spacing:=
+ 0;text-align: left;background: #eeeeee"><pre>7dfdg7cq</pre></td>=0A</tr><t=
+r style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backg=
+round: #cccccc" width=3D"100px">token:</th>=0A<td style=3D"padding: 4px;spa=
+cing: 0;text-align: left;background: #eeeeee"><pre>4cdf3155</pre></td>=0A</=
+tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"=
+background: #cccccc" width=3D"100px">ip:</th>=0A<td style=3D"padding: 4px;s=
+pacing: 0;text-align: left;background: #eeeeee"><pre>192.168.255.42</pre></=
+td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th s=
+tyle=3D"background: #cccccc" width=3D"100px">method:</th>=0A<td style=3D"pa=
+dding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>GET</pre><=
+/td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th =
+style=3D"background: #cccccc" width=3D"100px">user:</th>=0A<td style=3D"pad=
+ding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>root</pre><=
+/td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th =
+style=3D"background: #cccccc" width=3D"100px">lang:</th>=0A<td style=3D"pad=
+ding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>pt</pre></t=
+d>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th st=
+yle=3D"background: #cccccc" width=3D"100px">currency:</th>=0A<td style=3D"p=
+adding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>USD</pre>=
+</td>=0A</tr></table></td>=0A</tr></table><h1 style=3D"background: #f0ad4e;=
+color: #ffffff;padding: 5px;" class=3D"monolog-output">ERROR</h1><table cel=
+lspacing=3D"1" width=3D"100%" class=3D"monolog-output"><tr style=3D"padding=
+: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" wi=
+dth=3D"100px">Message:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-ali=
+gn: left;background: #eeeeee"><pre>USER NOTICE: 'Illegal string offset 'typ=
+e'' at /application/Resources/templates/legacy/admin/texts/list.html.php 37=
+:=0A  /application/.tmp/index_dev.php 64 calling run()=0A  /application/src=
+/Goteo/Application/App.php 178 calling handle()=0A  /application/vendor/sym=
+fony/http-kernel/HttpKernel.php 57 calling handleRaw()=0A  /application/ven=
+dor/symfony/http-kernel/HttpKernel.php 135 calling routingAction()=0A  /app=
+lication/src/Goteo/Controller/AdminController.php 141 calling optionAction(=
+)=0A  /application/src/Goteo/Controller/AdminController.php 507 calling get=
+()=0A  /application/src/Goteo/Core/View.php 114 calling render()=0A  /appli=
+cation/src/Goteo/Core/View.php 78 calling include()=0A</pre></td>=0A</tr><t=
+r style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backg=
+round: #cccccc" width=3D"100px">Time:</th>=0A<td style=3D"padding: 4px;spac=
+ing: 0;text-align: left;background: #eeeeee"><pre>2018-05-25 20:24:14</pre>=
+</td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th=
+ style=3D"background: #cccccc" width=3D"100px">Channel:</th>=0A<td style=3D=
+"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>main</p=
+re></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A=
+<th style=3D"background: #cccccc" width=3D"100px">Extra:</th>=0A<td style=
+=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><table ce=
+llspacing=3D"1" width=3D"100%"><tr style=3D"padding: 4px;spacing: 0;text-al=
+ign: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">memory_usa=
+ge:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background=
+: #eeeeee"><pre>2 MB</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0=
+;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">mh=
+ash:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;backgroun=
+d: #eeeeee"><pre>user-notice-illegal-string-offset-type-at-applicat</pre></=
+td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th s=
+tyle=3D"background: #cccccc" width=3D"100px">uid:</th>=0A<td style=3D"paddi=
+ng: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>31a2af45</pre=
+></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<t=
+h style=3D"background: #cccccc" width=3D"100px">session:</th>=0A<td style=
+=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>7dfd=
+g7cq</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: lef=
+t;">=0A<th style=3D"background: #cccccc" width=3D"100px">token:</th>=0A<td =
+style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre=
+>4cdf3155</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align=
+: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">ip:</th>=0A<t=
+d style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><p=
+re>192.168.255.42</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;te=
+xt-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">metho=
+d:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background:=
+ #eeeeee"><pre>GET</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;t=
+ext-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">user=
+:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: =
+#eeeeee"><pre>root</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;t=
+ext-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">lang=
+:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: =
+#eeeeee"><pre>pt</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;tex=
+t-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">curren=
+cy:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background=
+: #eeeeee"><pre>USD</pre></td>=0A</tr></table></td>=0A</tr></table><h1 styl=
+e=3D"background: #468847;color: #ffffff;padding: 5px;" class=3D"monolog-out=
+put">INFO</h1><table cellspacing=3D"1" width=3D"100%" class=3D"monolog-outp=
+ut"><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D=
+"background: #cccccc" width=3D"100px">Message:</th>=0A<td style=3D"padding:=
+ 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>Request</pre></t=
+d>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th st=
+yle=3D"background: #cccccc" width=3D"100px">Time:</th>=0A<td style=3D"paddi=
+ng: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>2018-05-25 20=
+:24:14</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: l=
+eft;">=0A<th style=3D"background: #cccccc" width=3D"100px">Channel:</th>=0A=
+<td style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee">=
+<pre>main</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align=
+: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">Context:</th>=
+=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeee=
+e"><table cellspacing=3D"1" width=3D"100%"><tr style=3D"padding: 4px;spacin=
+g: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px=
+">code:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;backgr=
+ound: #eeeeee"><pre>200</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing=
+: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px"=
+>agent:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;backgr=
+ound: #eeeeee"><pre>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHT=
+ML, like Gecko) Chrome/66.0.3359.139 Safari/537.36</pre></td>=0A</tr><tr st=
+yle=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backgroun=
+d: #cccccc" width=3D"100px">referer:</th>=0A<td style=3D"padding: 4px;spaci=
+ng: 0;text-align: left;background: #eeeeee"><pre>http://191.252.113.207:808=
+1/admin/texts</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-a=
+lign: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">path:</th=
+>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeee=
+ee"><pre>/admin/texts</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: =
+0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">q=
+uery:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;backgrou=
+nd: #eeeeee"><pre>filter=3DBuscar&amp;group=3Dcosts&amp;text=3D</pre></td>=
+=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th styl=
+e=3D"background: #cccccc" width=3D"100px">user:</th>=0A<td style=3D"padding=
+: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>root</pre></td>=
+=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th styl=
+e=3D"background: #cccccc" width=3D"100px">time:</th>=0A<td style=3D"padding=
+: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>1.178817987442<=
+/pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=
+=0A<th style=3D"background: #cccccc" width=3D"100px">route:</th>=0A<td styl=
+e=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>adm=
+in-module-routing</pre></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;te=
+xt-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">contr=
+oller:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;backgro=
+und: #eeeeee"><pre>Goteo\Controller\AdminController</pre></td>=0A</tr><tr s=
+tyle=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backgrou=
+nd: #cccccc" width=3D"100px">action:</th>=0A<td style=3D"padding: 4px;spaci=
+ng: 0;text-align: left;background: #eeeeee"><pre>routingAction</pre></td>=
+=0A</tr></table></td>=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-alig=
+n: left;">=0A<th style=3D"background: #cccccc" width=3D"100px">Extra:</th>=
+=0A<td style=3D"padding: 4px;spacing: 0;text-align: left;background: #eeeee=
+e"><table cellspacing=3D"1" width=3D"100%"><tr style=3D"padding: 4px;spacin=
+g: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=3D"100px=
+">memory_usage:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: lef=
+t;background: #eeeeee"><pre>2 MB</pre></td>=0A</tr><tr style=3D"padding: 4p=
+x;spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" width=
+=3D"100px">mhash:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align: l=
+eft;background: #eeeeee"><pre>request</pre></td>=0A</tr><tr style=3D"paddin=
+g: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc" w=
+idth=3D"100px">uid:</th>=0A<td style=3D"padding: 4px;spacing: 0;text-align:=
+ left;background: #eeeeee"><pre>31a2af45</pre></td>=0A</tr><tr style=3D"pad=
+ding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: #cccccc=
+" width=3D"100px">session:</th>=0A<td style=3D"padding: 4px;spacing: 0;text=
+-align: left;background: #eeeeee"><pre>7dfdg7cq</pre></td>=0A</tr><tr style=
+=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"background: =
+#cccccc" width=3D"100px">token:</th>=0A<td style=3D"padding: 4px;spacing: 0=
+;text-align: left;background: #eeeeee"><pre>4cdf3155</pre></td>=0A</tr><tr =
+style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D"backgro=
+und: #cccccc" width=3D"100px">ip:</th>=0A<td style=3D"padding: 4px;spacing:=
+ 0;text-align: left;background: #eeeeee"><pre>192.168.255.42</pre></td>=0A<=
+/tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=3D=
+"background: #cccccc" width=3D"100px">method:</th>=0A<td style=3D"padding: =
+4px;spacing: 0;text-align: left;background: #eeeeee"><pre>GET</pre></td>=0A=
+</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th style=
+=3D"background: #cccccc" width=3D"100px">user:</th>=0A<td style=3D"padding:=
+ 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>root</pre></td>=
+=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th styl=
+e=3D"background: #cccccc" width=3D"100px">lang:</th>=0A<td style=3D"padding=
+: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>pt</pre></td>=
+=0A</tr><tr style=3D"padding: 4px;spacing: 0;text-align: left;">=0A<th styl=
+e=3D"background: #cccccc" width=3D"100px">currency:</th>=0A<td style=3D"pad=
+ding: 4px;spacing: 0;text-align: left;background: #eeeeee"><pre>USD</pre></=
+td>=0A</tr></table></td>=0A</tr></table><hr><pre style=3D"font-size:0.8em;b=
+ackground:#f0f0f0">Array=0A(=0A    [_SERVER] =3D> Array=0A        (=0A     =
+       [HOSTNAME] =3D> 6fb9658abb89=0A            [TERM] =3D> linux=0A     =
+       [PATH] =3D> /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:=
+/bin=0A            [_] =3D> /usr/sbin/php-fpm7.1=0A            [GOTEO_CONFI=
+G_FILE] =3D> /application/config/local-docker-settings.yml=0A            [P=
+WD] =3D> /application=0A            [SHLVL] =3D> 2=0A            [HOME] =3D=
+> /home/goteo=0A            [DEBUG] =3D> 1=0A            [USER] =3D> goteo=
+=0A            [HTTP_COOKIE] =3D> goteo_cookies=3Dok; goteo_user=3Droot; go=
+teo-local=3D7dfdg7cq8ua4n6i04kb3p461i8; uid=3D31a2af45=0A            [HTTP_=
+ACCEPT_LANGUAGE] =3D> en-US,en;q=3D0.9=0A            [HTTP_ACCEPT_ENCODING]=
+ =3D> gzip, deflate=0A            [HTTP_REFERER] =3D> http://191.252.113.20=
+7:8081/admin/texts=0A            [HTTP_ACCEPT] =3D> text/html,application/x=
+html+xml,application/xml;q=3D0.9,image/webp,image/apng,*/*;q=3D0.8=0A      =
+      [HTTP_USER_AGENT] =3D> Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/53=
+7.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36=0A            [=
+HTTP_UPGRADE_INSECURE_REQUESTS] =3D> 1=0A            [HTTP_CONNECTION] =3D>=
+ keep-alive=0A            [HTTP_HOST] =3D> 191.252.113.207:8081=0A         =
+   [REDIRECT_STATUS] =3D> 200=0A            [SERVER_NAME] =3D> =0A         =
+   [SERVER_PORT] =3D> 80=0A            [SERVER_ADDR] =3D> 172.19.0.3=0A    =
+        [REMOTE_PORT] =3D> 56722=0A            [REMOTE_ADDR] =3D> 192.168.2=
+55.42=0A            [SERVER_SOFTWARE] =3D> nginx/1.13.12=0A            [GAT=
+EWAY_INTERFACE] =3D> CGI/1.1=0A            [REQUEST_SCHEME] =3D> http=0A   =
+         [SERVER_PROTOCOL] =3D> HTTP/1.1=0A            [DOCUMENT_ROOT] =3D>=
+ /application/.tmp=0A            [DOCUMENT_URI] =3D> /index_dev.php//admin/=
+texts=0A            [REQUEST_URI] =3D> /admin/texts?group=3Dcosts&text=3D&f=
+ilter=3DBuscar=0A            [SCRIPT_NAME] =3D> /index_dev.php=0A          =
+  [CONTENT_LENGTH] =3D> =0A            [CONTENT_TYPE] =3D> =0A            [=
+REQUEST_METHOD] =3D> GET=0A            [QUERY_STRING] =3D> group=3Dcosts&te=
+xt=3D&filter=3DBuscar=0A            [PHP_VALUE] =3D> error_log=3D/var/log/n=
+ginx/application_php_errors.log=0A            [SCRIPT_FILENAME] =3D> /appli=
+cation/.tmp/index_dev.php=0A            [FCGI_ROLE] =3D> RESPONDER=0A      =
+      [PHP_SELF] =3D> /index_dev.php=0A            [REQUEST_TIME_FLOAT] =3D=
+> 1527272652.3148=0A            [REQUEST_TIME] =3D> 1527272652=0A        )=
+=0A=0A    [_SESSION] =3D> Array=0A        (=0A            [_sf2_attributes]=
+ =3D> Array=0A                (=0A                    [init_time] =3D> 1527=
+272653=0A                    [lang] =3D> pt=0A                    [currency=
+] =3D> USD=0A                    [origin.ua] =3D> Array=0A                 =
+       (=0A                            [tag] =3D> Chrome=0A                =
+            [category] =3D> Linux=0A                            [type] =3D>=
+ ua=0A                        )=0A=0A                    [origin.referer] =
+=3D> Array=0A                        (=0A                            [tag] =
+=3D> json=0A                            [category] =3D> internal=0A        =
+                    [type] =3D> referer=0A                        )=0A=0A  =
+                  [user] =3D> Goteo\Model\User Object=0A                   =
+     (=0A                            [id] =3D> root=0A                     =
+       [lang] =3D> en=0A                            [node] =3D> goteo=0A   =
+                         [nodeData] =3D> =0A                            [us=
+erid] =3D> =0A                            [email] =3D> =0A                 =
+           [password] =3D> =0A                            [birthyear] =3D> =
+=0A                            [gender] =3D> =0A                           =
+ [entity_type] =3D> =0A                            [legal_entity] =3D> =0A =
+                           [name] =3D> Sysadmin=0A                         =
+   [location] =3D> =0A                            [avatar] =3D> Goteo\Model=
+\Image Object=0A                                (=0A                       =
+             [id] =3D> la_gota.png=0A                                    [n=
+ame] =3D> la_gota.png=0A                                    [type] =3D> =0A=
+                                    [tmp] =3D> =0A                         =
+           [error] =3D> =0A                                    [size] =3D> =
+=0A                                    [quality] =3D> 92=0A                =
+                    [dir_originals] =3D> images/=0A                        =
+            [dir_cache] =3D> cache/=0A                                    [=
+fallback_image] =3D> iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC3ElEQV=
+RYhb2XW1PiMBzF/f6POiMMBZO0KdBFZEBHnWGViKy7IIEtCmgvn+XsQ5tYLlIuZR8yfUib88v5X=
+5qc+L6PLIfneQvPtHGStXgQBPr5XwA8z9tJMBMAtcvJZKKFkxDb2n+wA+2fj/j9Z7AAdXQHlND7=
+dA7Oy7i9u4fnh3pu+d2jOSCenkEoA+dluJP3vcOwM4Ba+PLyCpyXQShDvd5YeSfDKgiX7A9wVW9=
+ocUIsGMUS+v1XHZ6jJaHneRCiq8UpM2EYBLm8Ac7LmM0+di7HnQCGchyJEwuUchjFEnJ5A4RYsO=
+0KHKeG6XS+E0QqgLJzOJJwnBooM0GIhYJxgVy+AEIscF6NoJiJVusGs9lH9g7c3t1H4pTFOy/oK=
+lCOUMrBeRlXS0l5sANCdMFMC4QyFEsXMIolCNGFlGNQZibEqxqi0+lkA9DrvUTZHu98ueTUnG07=
+X+GIE3Q6nx0O0Gxe62x3nNrCXBAEC2FQECpUj52ndIBNGeu6blTnBkEuX9AdL/mNbTsaglL+lQ/=
+MXHFrowMq25OLu64LwyA4zxXgODXd85ONhjIzEo93rSA4r6Ja/bEdQFI0ubiUUtd5q3UDzw/jNp=
+t8Z4zBYAApJYZyjKEcw7IqsO0KOC8flgNSyjjBosU+vSCG/dzwzRi2XdFh2Qsg+TNJtt2hHG8sV=
+9/30ek8gTETlJloNq+3A0javpyUyQYUJVX4Laz7NlnIh9Ho7/YOfPcfV2GgzMTp2Tlu7+4xn3+u=
+QAxHEvV6I2pMcWKmia8Nwbqy7IguTs/Oo07HTHBuo91+QLv9ACG6Cy5RykEoQ6/3sh/Ad/Fttx9=
+0bAmxdKmp9qtcIpRBCLHWzb0B1Oj1XnSMtbiCogzN5jX6g+FKYmYGEI0Q/f4rhOjiunWDer2B7v=
+MvvL1NFwSPciZMu/XsczlJBVh33t+0u8yPZOt6RJrIUQ6lnuchDMO1c/tcyXYG2PfqlTb+AaY7y=
+mbFQPTOAAAAAElFTkSuQmCC=0A                                    [fp:Goteo\Mod=
+el\Image:private] =3D> Goteo\Library\FileHandler\LocalFile Object=0A       =
+                                 (=0A                                      =
+      [path:protected] =3D> /application/var/data/images/=0A               =
+                             [link:protected] =3D> =0A                     =
+                   )=0A=0A                                    [cache:Goteo\=
+Model\Image:private] =3D> =0A                                    [Table:pro=
+tected] =3D> =0A                                    [hash] =3D> 461066ccb93=
+dbf09116c8bdc8e85b56e=0A                                )=0A=0A            =
+                [user_avatar] =3D> =0A                            [about] =
+=3D> =0A                            [contribution] =3D> =0A                =
+            [keywords] =3D> =0A                            [active] =3D> 1=
+=0A                            [confirmed] =3D> 1=0A                       =
+     [hide] =3D> 1=0A                            [facebook] =3D> =0A       =
+                     [google] =3D> =0A                            [twitter]=
+ =3D> =0A                            [identica] =3D> =0A                   =
+         [linkedin] =3D> =0A                            [instagram] =3D> =
+=0A                            [amount] =3D> =0A                           =
+ [worth] =3D> 0=0A                            [rememberme] =3D> 2fe835e14f9=
+6888b77fbf176f49caa146cbdd29268c6382fd9b2a903f0b8b9c9=0A                   =
+         [created] =3D> 2017-11-18 01:39:13=0A                            [=
+modified] =3D> 2018-05-25 17:21:29=0A                            [interests=
+] =3D> Array=0A                                (=0A                        =
+        )=0A=0A                            [webs] =3D> Array=0A            =
+                    (=0A                                )=0A=0A            =
+                [roles] =3D> Array=0A                                (=0A  =
+                                  [checker] =3D> stdClass Object=0A        =
+                                (=0A                                       =
+     [id] =3D> checker=0A                                            [name]=
+ =3D> Revisor de proyectos=0A                                        )=0A=
+=0A                                    [manager] =3D> stdClass Object=0A   =
+                                     (=0A                                  =
+          [id] =3D> manager=0A                                            [=
+name] =3D> Gestor de contratos=0A                                        )=
+=0A=0A                                    [root] =3D> stdClass Object=0A   =
+                                     (=0A                                  =
+          [id] =3D> root=0A                                            [nam=
+e] =3D> ROOT=0A                                        )=0A=0A             =
+                       [superadmin] =3D> stdClass Object=0A                =
+                        (=0A                                            [id=
+] =3D> superadmin=0A                                            [name] =3D>=
+ Super administrador=0A                                        )=0A=0A     =
+                               [translator] =3D> stdClass Object=0A        =
+                                (=0A                                       =
+     [id] =3D> translator=0A                                            [na=
+me] =3D> Traductor de contenidos=0A                                        =
+)=0A=0A                                    [user] =3D> stdClass Object=0A  =
+                                      (=0A                                 =
+           [id] =3D> user=0A                                            [na=
+me] =3D> Usuario registrado=0A                                        )=0A=
+=0A                                )=0A=0A                            [Tabl=
+e:protected] =3D> user=0A                            [num_invested] =3D> =
+=0A                            [num_owned] =3D> =0A                        =
+    [translangs] =3D> Array=0A                                (=0A         =
+                           [ca] =3D> Catal=C3=A0=0A                        =
+            [de] =3D> Deutsch=0A                                    [el] =
+=3D> =CE=95=CE=BB=CE=BB=CE=B7=CE=BD=CE=B9=CE=BA=CE=AC=0A                   =
+                 [en] =3D> English=0A                                    [e=
+s] =3D> Espa=C3=B1ol=0A                                    [eu] =3D> Euskar=
+a=0A                                    [fr] =3D> Fran=C3=A7ais=0A         =
+                           [gl] =3D> Galego=0A                             =
+       [it] =3D> Italiano=0A                                    [nl] =3D> D=
+utch=0A                                    [pt] =3D> Portugu=C3=AAs=0A     =
+                           )=0A=0A                            [all_roles_no=
+des] =3D> Array=0A                                (=0A                     =
+               [goteo] =3D> Array=0A                                       =
+ (=0A                                            [0] =3D> root=0A          =
+                                  [1] =3D> superadmin=0A                   =
+                         [2] =3D> translator=0A                            =
+                [3] =3D> checker=0A                                        =
+    [4] =3D> manager=0A                                        )=0A=0A     =
+                           )=0A=0A                            [rolesInstanc=
+e] =3D> Goteo\Model\User\UserRoles Object=0A                               =
+ (=0A                                    [user:protected] =3D> Goteo\Model\=
+User Object=0A *RECURSION*=0A                                    [storage:A=
+rrayObject:private] =3D> Array=0A                                        (=
+=0A                                            [checker] =3D> Array=0A     =
+                                           (=0A                            =
+                        [0] =3D> create-project=0A                         =
+                           [1] =3D> edit-project=0A                        =
+                            [2] =3D> remove-project=0A                     =
+                               [3] =3D> review-project=0A                  =
+                              )=0A=0A                                      =
+      [manager] =3D> Array=0A                                              =
+  (=0A                                                    [0] =3D> create-p=
+roject=0A                                                    [1] =3D> edit-=
+project=0A                                                    [2] =3D> remo=
+ve-project=0A                                                    [3] =3D> v=
+iew-any-project=0A                                                    [4] =
+=3D> edit-published-projects=0A                                            =
+    )=0A=0A                                            [root] =3D> Array=0A=
+                                                (=0A                       =
+                             [0] =3D> create-project=0A                    =
+                                [1] =3D> edit-project=0A                   =
+                                 [2] =3D> remove-project=0A                =
+                                    [3] =3D> review-project=0A             =
+                                       [4] =3D> view-any-project=0A        =
+                                            [5] =3D> publish-projects=0A   =
+                                                 [6] =3D> edit-projects=0A =
+                                                   [7] =3D> remove-projects=
+=0A                                                    [8] =3D> impersonate=
+-owners=0A                                                    [9] =3D> assi=
+gn-checker=0A                                                    [10] =3D> =
+admin-module-users=0A                                                    [1=
+1] =3D> publish-any-project=0A                                             =
+       [12] =3D> assign-consultant=0A                                      =
+              [13] =3D> edit-any-project=0A                                =
+                    [14] =3D> remove-any-project=0A                        =
+                            [15] =3D> rebase-users=0A                      =
+                              [16] =3D> impersonate-users=0A               =
+                                     [17] =3D> admin-module-users=0A       =
+                                             [18] =3D> admin-module-stats=
+=0A                                                    [19] =3D> admin-any-=
+module=0A                                                    [20] =3D> impe=
+rsonate-everyone=0A                                                )=0A=0A =
+                                           [superadmin] =3D> Array=0A      =
+                                          (=0A                             =
+                       [0] =3D> create-project=0A                          =
+                          [1] =3D> edit-project=0A                         =
+                           [2] =3D> remove-project=0A                      =
+                              [3] =3D> review-project=0A                   =
+                                 [4] =3D> view-any-project=0A              =
+                                      [5] =3D> publish-projects=0A         =
+                                           [6] =3D> edit-projects=0A       =
+                                             [7] =3D> remove-projects=0A   =
+                                                 [8] =3D> impersonate-owner=
+s=0A                                                    [9] =3D> assign-che=
+cker=0A                                                    [10] =3D> admin-=
+module-users=0A                                                    [11] =3D=
+> publish-any-project=0A                                                   =
+ [12] =3D> assign-consultant=0A                                            =
+        [13] =3D> edit-any-project=0A                                      =
+              [14] =3D> remove-any-project=0A                              =
+                      [15] =3D> rebase-users=0A                            =
+                        [16] =3D> impersonate-users=0A                     =
+                               [17] =3D> admin-module-users=0A             =
+                                       [18] =3D> admin-module-stats=0A     =
+                                               [19] =3D> admin-any-module=
+=0A                                                )=0A=0A                 =
+                           [translator] =3D> Array=0A                      =
+                          (=0A                                             =
+       [0] =3D> create-project=0A                                          =
+          [1] =3D> edit-project=0A                                         =
+           [2] =3D> remove-project=0A                                      =
+              [3] =3D> translate-language=0A                               =
+                 )=0A=0A                                            [user] =
+=3D> Array=0A                                                (=0A          =
+                                          [0] =3D> create-project=0A       =
+                                             [1] =3D> edit-project=0A      =
+                                              [2] =3D> remove-project=0A   =
+                                             )=0A=0A                       =
+                 )=0A=0A                                )=0A=0A            =
+            )=0A=0A                    [_csrf/autoform] =3D> 5h3B31ikhb5IPF=
+4pMn6DymMnE7sio6UzP_noNL9PZGs=0A                    [messages] =3D> Array=
+=0A                        (=0A                        )=0A=0A             =
+       [admin_node] =3D> goteo=0A                    [admin_filters] =3D> A=
+rray=0A                        (=0A                            [main] =3D> =
+Array=0A                                (=0A                               =
+ )=0A=0A                            [texts] =3D> Array=0A                  =
+              (=0A                                    [group] =3D> costs=0A=
+                                    [text] =3D> =0A                        =
+            [filtered] =3D> yes=0A                                )=0A=0A  =
+                          [accounts] =3D> Array=0A                         =
+       (=0A                                    [id] =3D> =0A               =
+                     [methods] =3D> =0A                                    =
+[status] =3D> all=0A                                    [projects] =3D> =0A=
+                                    [name] =3D> =0A                        =
+            [calls] =3D> =0A                                    [review] =
+=3D> =0A                                    [types] =3D> =0A               =
+                     [date_from] =3D> =0A                                  =
+  [date_until] =3D> =0A                                    [issue] =3D> all=
+=0A                                    [procStatus] =3D> all=0A            =
+                        [amount] =3D> =0A                                  =
+  [maxamount] =3D> =0A                                )=0A=0A              =
+              [categories] =3D> Array=0A                                (=
+=0A                                )=0A=0A                        )=0A=0A  =
+              )=0A=0A            [_sf2_flashes] =3D> Array=0A              =
+  (=0A                )=0A=0A            [_sf2_meta] =3D> Array=0A         =
+       (=0A                    [u] =3D> 1527272653=0A                    [c=
+] =3D> 1527269350=0A                    [l] =3D> 0=0A                )=0A=
+=0A            [init_time] =3D> 1527272653=0A            [lang] =3D> pt=0A =
+           [currency] =3D> USD=0A            [origin.ua] =3D> Array=0A     =
+           (=0A                    [tag] =3D> Chrome=0A                    =
+[category] =3D> Linux=0A                    [type] =3D> ua=0A              =
+  )=0A=0A            [origin.referer] =3D> Array=0A                (=0A    =
+                [tag] =3D> json=0A                    [category] =3D> inter=
+nal=0A                    [type] =3D> referer=0A                )=0A=0A    =
+        [user] =3D> Goteo\Model\User Object=0A                (=0A         =
+           [id] =3D> root=0A                    [lang] =3D> en=0A          =
+          [node] =3D> goteo=0A                    [nodeData] =3D> =0A      =
+              [userid] =3D> =0A                    [email] =3D> =0A        =
+            [password] =3D> =0A                    [birthyear] =3D> =0A    =
+                [gender] =3D> =0A                    [entity_type] =3D> =0A=
+                    [legal_entity] =3D> =0A                    [name] =3D> =
+Sysadmin=0A                    [location] =3D> =0A                    [avat=
+ar] =3D> Goteo\Model\Image Object=0A                        (=0A           =
+                 [id] =3D> la_gota.png=0A                            [name]=
+ =3D> la_gota.png=0A                            [type] =3D> =0A            =
+                [tmp] =3D> =0A                            [error] =3D> =0A =
+                           [size] =3D> =0A                            [qual=
+ity] =3D> 92=0A                            [dir_originals] =3D> images/=0A =
+                           [dir_cache] =3D> cache/=0A                      =
+      [fallback_image] =3D> iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAA=
+C3ElEQVRYhb2XW1PiMBzF/f6POiMMBZO0KdBFZEBHnWGViKy7IIEtCmgvn+XsQ5tYLlIuZR8yfU=
+ib88v5X5qc+L6PLIfneQvPtHGStXgQBPr5XwA8z9tJMBMAtcvJZKKFkxDb2n+wA+2fj/j9Z7AAd=
+XQHlND7dA7Oy7i9u4fnh3pu+d2jOSCenkEoA+dluJP3vcOwM4Ba+PLyCpyXQShDvd5YeSfDKgiX=
+7A9wVW9ocUIsGMUS+v1XHZ6jJaHneRCiq8UpM2EYBLm8Ac7LmM0+di7HnQCGchyJEwuUchjFEnJ=
+5A4RYsO0KHKeG6XS+E0QqgLJzOJJwnBooM0GIhYJxgVy+AEIscF6NoJiJVusGs9lH9g7c3t1H4p=
+TFOy/oKlCOUMrBeRlXS0l5sANCdMFMC4QyFEsXMIolCNGFlGNQZibEqxqi0+lkA9DrvUTZHu98u=
+eTUnG07X+GIE3Q6nx0O0Gxe62x3nNrCXBAEC2FQECpUj52ndIBNGeu6blTnBkEuX9AdL/mNbTsa=
+glL+lQ/MXHFrowMq25OLu64LwyA4zxXgODXd85ONhjIzEo93rSA4r6Ja/bEdQFI0ubiUUtd5q3U=
+Dzw/jNpt8Z4zBYAApJYZyjKEcw7IqsO0KOC8flgNSyjjBosU+vSCG/dzwzRi2XdFh2Qsg+TNJtt=
+2hHG8sV9/30ek8gTETlJloNq+3A0javpyUyQYUJVX4Laz7NlnIh9Ho7/YOfPcfV2GgzMTp2Tlu7=
++4xn3+uQAxHEvV6I2pMcWKmia8Nwbqy7IguTs/Oo07HTHBuo91+QLv9ACG6Cy5RykEoQ6/3sh/A=
+d/Fttx90bAmxdKmp9qtcIpRBCLHWzb0B1Oj1XnSMtbiCogzN5jX6g+FKYmYGEI0Q/f4rhOjiunW=
+Der2B7vMvvL1NFwSPciZMu/XsczlJBVh33t+0u8yPZOt6RJrIUQ6lnuchDMO1c/tcyXYG2PfqlT=
+b+AaY7ymbFQPTOAAAAAElFTkSuQmCC=0A                            [fp:Goteo\Mode=
+l\Image:private] =3D> Goteo\Library\FileHandler\LocalFile Object=0A        =
+                        (=0A                                    [path:prote=
+cted] =3D> /application/var/data/images/=0A                                =
+    [link:protected] =3D> =0A                                )=0A=0A       =
+                     [cache:Goteo\Model\Image:private] =3D> =0A            =
+                [Table:protected] =3D> =0A                            [hash=
+] =3D> 461066ccb93dbf09116c8bdc8e85b56e=0A                        )=0A=0A  =
+                  [user_avatar] =3D> =0A                    [about] =3D> =
+=0A                    [contribution] =3D> =0A                    [keywords=
+] =3D> =0A                    [active] =3D> 1=0A                    [confir=
+med] =3D> 1=0A                    [hide] =3D> 1=0A                    [face=
+book] =3D> =0A                    [google] =3D> =0A                    [twi=
+tter] =3D> =0A                    [identica] =3D> =0A                    [l=
+inkedin] =3D> =0A                    [instagram] =3D> =0A                  =
+  [amount] =3D> =0A                    [worth] =3D> 0=0A                   =
+ [rememberme] =3D> 2fe835e14f96888b77fbf176f49caa146cbdd29268c6382fd9b2a903=
+f0b8b9c9=0A                    [created] =3D> 2017-11-18 01:39:13=0A       =
+             [modified] =3D> 2018-05-25 17:21:29=0A                    [int=
+erests] =3D> Array=0A                        (=0A                        )=
+=0A=0A                    [webs] =3D> Array=0A                        (=0A =
+                       )=0A=0A                    [roles] =3D> Array=0A    =
+                    (=0A                            [checker] =3D> stdClass=
+ Object=0A                                (=0A                             =
+       [id] =3D> checker=0A                                    [name] =3D> =
+Revisor de proyectos=0A                                )=0A=0A             =
+               [manager] =3D> stdClass Object=0A                           =
+     (=0A                                    [id] =3D> manager=0A          =
+                          [name] =3D> Gestor de contratos=0A               =
+                 )=0A=0A                            [root] =3D> stdClass Ob=
+ject=0A                                (=0A                                =
+    [id] =3D> root=0A                                    [name] =3D> ROOT=
+=0A                                )=0A=0A                            [supe=
+radmin] =3D> stdClass Object=0A                                (=0A        =
+                            [id] =3D> superadmin=0A                        =
+            [name] =3D> Super administrador=0A                             =
+   )=0A=0A                            [translator] =3D> stdClass Object=0A =
+                               (=0A                                    [id]=
+ =3D> translator=0A                                    [name] =3D> Traducto=
+r de contenidos=0A                                )=0A=0A                  =
+          [user] =3D> stdClass Object=0A                                (=
+=0A                                    [id] =3D> user=0A                   =
+                 [name] =3D> Usuario registrado=0A                         =
+       )=0A=0A                        )=0A=0A                    [Table:pro=
+tected] =3D> user=0A                    [num_invested] =3D> =0A            =
+        [num_owned] =3D> =0A                    [translangs] =3D> Array=0A =
+                       (=0A                            [ca] =3D> Catal=
+=C3=A0=0A                            [de] =3D> Deutsch=0A                  =
+          [el] =3D> =CE=95=CE=BB=CE=BB=CE=B7=CE=BD=CE=B9=CE=BA=CE=AC=0A    =
+                        [en] =3D> English=0A                            [es=
+] =3D> Espa=C3=B1ol=0A                            [eu] =3D> Euskara=0A     =
+                       [fr] =3D> Fran=C3=A7ais=0A                          =
+  [gl] =3D> Galego=0A                            [it] =3D> Italiano=0A     =
+                       [nl] =3D> Dutch=0A                            [pt] =
+=3D> Portugu=C3=AAs=0A                        )=0A=0A                    [a=
+ll_roles_nodes] =3D> Array=0A                        (=0A                  =
+          [goteo] =3D> Array=0A                                (=0A        =
+                            [0] =3D> root=0A                               =
+     [1] =3D> superadmin=0A                                    [2] =3D> tra=
+nslator=0A                                    [3] =3D> checker=0A          =
+                          [4] =3D> manager=0A                              =
+  )=0A=0A                        )=0A=0A                    [rolesInstance]=
+ =3D> Goteo\Model\User\UserRoles Object=0A                        (=0A     =
+                       [user:protected] =3D> Goteo\Model\User Object=0A *RE=
+CURSION*=0A                            [storage:ArrayObject:private] =3D> A=
+rray=0A                                (=0A                                =
+    [checker] =3D> Array=0A                                        (=0A    =
+                                        [0] =3D> create-project=0A         =
+                                   [1] =3D> edit-project=0A                =
+                            [2] =3D> remove-project=0A                     =
+                       [3] =3D> review-project=0A                          =
+              )=0A=0A                                    [manager] =3D> Arr=
+ay=0A                                        (=0A                          =
+                  [0] =3D> create-project=0A                               =
+             [1] =3D> edit-project=0A                                      =
+      [2] =3D> remove-project=0A                                           =
+ [3] =3D> view-any-project=0A                                            [4=
+] =3D> edit-published-projects=0A                                        )=
+=0A=0A                                    [root] =3D> Array=0A             =
+                           (=0A                                            =
+[0] =3D> create-project=0A                                            [1] =
+=3D> edit-project=0A                                            [2] =3D> re=
+move-project=0A                                            [3] =3D> review-=
+project=0A                                            [4] =3D> view-any-pro=
+ject=0A                                            [5] =3D> publish-project=
+s=0A                                            [6] =3D> edit-projects=0A  =
+                                          [7] =3D> remove-projects=0A      =
+                                      [8] =3D> impersonate-owners=0A       =
+                                     [9] =3D> assign-checker=0A            =
+                                [10] =3D> admin-module-users=0A            =
+                                [11] =3D> publish-any-project=0A           =
+                                 [12] =3D> assign-consultant=0A            =
+                                [13] =3D> edit-any-project=0A              =
+                              [14] =3D> remove-any-project=0A              =
+                              [15] =3D> rebase-users=0A                    =
+                        [16] =3D> impersonate-users=0A                     =
+                       [17] =3D> admin-module-users=0A                     =
+                       [18] =3D> admin-module-stats=0A                     =
+                       [19] =3D> admin-any-module=0A                       =
+                     [20] =3D> impersonate-everyone=0A                     =
+                   )=0A=0A                                    [superadmin] =
+=3D> Array=0A                                        (=0A                  =
+                          [0] =3D> create-project=0A                       =
+                     [1] =3D> edit-project=0A                              =
+              [2] =3D> remove-project=0A                                   =
+         [3] =3D> review-project=0A                                        =
+    [4] =3D> view-any-project=0A                                           =
+ [5] =3D> publish-projects=0A                                            [6=
+] =3D> edit-projects=0A                                            [7] =3D>=
+ remove-projects=0A                                            [8] =3D> imp=
+ersonate-owners=0A                                            [9] =3D> assi=
+gn-checker=0A                                            [10] =3D> admin-mo=
+dule-users=0A                                            [11] =3D> publish-=
+any-project=0A                                            [12] =3D> assign-=
+consultant=0A                                            [13] =3D> edit-any=
+-project=0A                                            [14] =3D> remove-any=
+-project=0A                                            [15] =3D> rebase-use=
+rs=0A                                            [16] =3D> impersonate-user=
+s=0A                                            [17] =3D> admin-module-user=
+s=0A                                            [18] =3D> admin-module-stat=
+s=0A                                            [19] =3D> admin-any-module=
+=0A                                        )=0A=0A                         =
+           [translator] =3D> Array=0A                                      =
+  (=0A                                            [0] =3D> create-project=
+=0A                                            [1] =3D> edit-project=0A    =
+                                        [2] =3D> remove-project=0A         =
+                                   [3] =3D> translate-language=0A          =
+                              )=0A=0A                                    [u=
+ser] =3D> Array=0A                                        (=0A             =
+                               [0] =3D> create-project=0A                  =
+                          [1] =3D> edit-project=0A                         =
+                   [2] =3D> remove-project=0A                              =
+          )=0A=0A                                )=0A=0A                   =
+     )=0A=0A                )=0A=0A            [redirections] =3D> Array=0A=
+                (=0A                    [0] =3D> Redirection: http://191.25=
+2.113.207:8081/translate/activity?p=3D&q=3Dtes =3D> /translate=0A          =
+      )=0A=0A            [messages] =3D> Array=0A                (=0A      =
+          )=0A=0A            [admin_node] =3D> goteo=0A            [admin_f=
+ilters] =3D> Array=0A                (=0A                    [main] =3D> Ar=
+ray=0A                        (=0A                        )=0A=0A          =
+          [texts] =3D> Array=0A                        (=0A                =
+            [group] =3D> costs=0A                            [text] =3D> =
+=0A                            [filtered] =3D> yes=0A                      =
+  )=0A=0A                    [accounts] =3D> Array=0A                      =
+  (=0A                            [id] =3D> =0A                            =
+[methods] =3D> =0A                            [status] =3D> all=0A         =
+                   [projects] =3D> =0A                            [name] =
+=3D> =0A                            [calls] =3D> =0A                       =
+     [review] =3D> =0A                            [types] =3D> =0A         =
+                   [date_from] =3D> =0A                            [date_un=
+til] =3D> =0A                            [issue] =3D> all=0A               =
+             [procStatus] =3D> all=0A                            [amount] =
+=3D> =0A                            [maxamount] =3D> =0A                   =
+     )=0A=0A                    [categories] =3D> Array=0A                 =
+       (=0A                        )=0A=0A                )=0A=0A        )=
+=0A=0A    [_GET] =3D> Array=0A        (=0A            [group] =3D> costs=0A=
+            [text] =3D> =0A            [filter] =3D> Buscar=0A        )=0A=
+=0A    [_COOKIE] =3D> Array=0A        (=0A            [goteo_cookies] =3D> =
+ok=0A            [goteo_user] =3D> root=0A            [goteo-local] =3D> 7d=
+fdg7cq8ua4n6i04kb3p461i8=0A            [uid] =3D> 31a2af45=0A        )=0A=
+=0A)=0A</pre></div>=0A=0A<div class=3D"disclaimer">Goteo is a social networ=
+k for crowdfunding and distributed collaboration (services, infrastructures=
+, microtasks and other resources) for encouraging the independent developme=
+nt of creative and innovative initiatives that contribute to the common goo=
+d. </div>=0A=0A<div class=3D"goteo-url"><a href=3D"http://191.252.113.207:8=
+081">//191.252.113.207:8081</a></div>=0A<div class=3D"descubre"><a href=3D"=
+http://191.252.113.207:8081/discover">Descubra projetos</a></div>=0A<div cl=
+ass=3D"crea"><a href=3D"http://191.252.113.207:8081/project/create">Envie u=
+m projeto</a></div>=0A=0A<div class=3D"follow">S=C3=ADguenos en:<br />=0A  =
+<span class=3D"facebook"><a href=3D"http://www.facebook.com/pages/Goteo/268=
+491113192109">facebook</a></span> |  <span class=3D"twitter"><a href=3D"htt=
+p://twitter.com/goteofunding">twitter</a></span> |   <span class=3D"rss"><a=
+ rel=3D"alternate" type=3D"application/rss+xml" title=3D"RSS" href=3D"http:=
+//191.252.113.207:8081/rss">RSS</a></span></div>=0A=0A<div class=3D"unsuscr=
+ibe">If you don't want to receive more updates form Goteo.org, you can unsu=
+bscribe your email address with <a href=3D"http://191.252.113.207:8081/user=
+/leave?email=3Ddev@example.com">link</a></div>=0A=0A</div>=0A=0A<div class=
+=3D"footer-bar"><span class=3D"footer-element">An initiative of: <strong><a=
+ href=3D"http://platoniq.net">Platoniq</a></strong></span></div>=0A=0A<img =
+src=3D"http://191.252.113.207:8081/mail/track/ZWJlMjQzYjJiNjVhYjI0NjZhOGQwO=
+GVmNjVhMDg1YjHCrGRldkBleGFtcGxlLmNvbcKsMcKsMQ=3D=3D.gif" alt=3D"" /></body>=
+=0A</html>=0A
+
+
+--b1_fae46593f9d33f44c2824199d6913e23--
