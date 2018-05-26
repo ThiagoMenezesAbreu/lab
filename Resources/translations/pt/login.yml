@@ -1,68 +1,70 @@
----
-auth-access-forbbiden: 'You don''t have permission to access here!'
-error-register-userid: 'You have to enter a user name'
-login-access-button: Enter
-login-access-header: 'Registered user'
-login-access-password-field: Password
-login-access-username-field: 'Username'
-login-fail: 'Error'
-login-leave-button: 'Close the account'
-login-leave-header: 'Close the account'
-login-leave-message: 'Leave a message'
-login-new-user-label: 'New user?'
-login-oneclick-header: 'Log in with a single click'
-login-recover-button: Recover
-login-recover-email-field: 'Email or user name'
-login-recover-label: 'Forgot your password?'
-login-recover-link: 'Recover password'
-login-recover-modal-button: Send
-login-recover-modal-sucess: 'Done! We’ve sent you an email to %s where you''ll find a link to reestablish your password'
-login-recover-modal-text: 'Write the email you used when you registered and will send you a link to reestablish your password'
-login-recover-username-field: 'User name'
-login-register-button: Register
-login-register-confirm-field: 'Confirm email address'
-login-register-confirm_password-field: 'Confirm password'
-login-register-email-field: Email address
-login-register-header: 'New user'
-login-register-password-field: Password
-login-register-password-minlength: 'At least 6 characters'
-login-register-userid-field: 'User name'
-login-register-username-field: 'Screen name'
-login-signin-facebook: 'Log in with Facebook'
-login-signin-google: 'Log in with Google'
-login-signin-linkedin: 'Log in with LinkedIn'
-login-signin-myopenid: 'Access with myOpenID'
-login-signin-openid: 'Other Open ID server'
-login-signin-openid-go: Go
-login-signin-twitter: 'Log in with Twitter'
-login-signin-ubuntu: 'Log in with Ubuntu One'
-login-signin-view-more: 'More login options'
-login-signin-yahoo: 'Log in with Yahoo'
-login-title: 'Log in'
-oauth-confirm-user: 'Connect with existing user'
-oauth-facebook-access-denied: 'Facebook access denied'
-oauth-goteo-user-not-exists: 'That user does not exist in Goteo'
-oauth-goteo-user-password-error: 'This account already uses a different password-free login provider. If you want to use more than one login provider for this account, you need to establish a password first.'
-oauth-goteo-user-password-exists: 'That user already exists in Goteo'
-oauth-goteo-user-provider-error: 'You must use <strong>%s</strong> in order to access this user.<br>If you want to use more than one login provider for this account, you need to establish a password first.'
-oauth-import-about: 'About you'
-oauth-import-facebook: 'Link to your Facebook account'
-oauth-import-linkedin: 'Link to your LinkedIn account'
-oauth-import-location: 'Place of residence'
-oauth-import-name: Name
-oauth-import-twitter: 'Link to your Twitter account'
-oauth-import-website: 'Your websites'
-oauth-linkedin-access-denied: 'Linkedin access denied'
-oauth-login-imported-data: 'This data is also being imported, you can change it once authenticated:'
-oauth-login-welcome-from: 'Welcome to Goteo. Please check your username and email to finish the process. In case we could not import the email address (or if you change it for another) an email will be sent with an activation link for validation.'
-oauth-openid-access-denied: 'Open ID access denied'
-oauth-openid-email-required: 'Your OpenID provider must provide the email adress to continue'
-oauth-openid-not-logged: 'User disconnected from Open ID'
-oauth-token-request-error: 'There has been an error when getting data from provider'
-oauth-twitter-access-denied: 'Twitter access denied'
-oauth-unknown-provider: 'Session can''t be started with this provider'
-reset-password-new-password: 'Confirm new password'
-reset-password-old-password: 'Your new password'
-reset-password-save: Save
-reset-password-title: 'Establish a new password'
-login-alternate-ids: Other options
+---:	
+auth-access-forbbiden:	 'Você não tem permissão para acessar aqui!'
+error-register-userid:	 'É obrigatório inserir um nome de usuário'
+login-access-button:	 Entrar
+login-access-header:	 'Utilizador registado'
+login-access-password-field:	 Senha
+login-access-username-field:	 'Nome de usuário ou e-mail'
+login-fail:	 'Erro de acesso'
+login-leave-button:	 'Retirar-se'
+login-leave-header:	 'Cancelar a conta'
+login-leave-message:	 'Deixe-nos uma mensagem'
+login-new-user-label:	 'Criar um novo usuário?'
+login-oneclick-header:	 "Acesso com um único clique"
+login-recover-button:	 Recuperar
+login-recover-email-field:	 'E-mail ou nome de usuário'
+login-recover-header:	 "Preencha o campo com o e-mail que você usou para se inscrever na plataforma, muitas vezes coincidindo com o mesmo e-mail vinculado às suas redes sociais. Atenção Você receberá um e-mail no mesmo e-mail com um link direto para alterar a senha. e-mail prova que não está na pasta de spam. Se você tiver aplicado várias vezes uma nova senha sempre será enviado um e-mail com uma nova ligação de auto-gerado. Use o link no último e-mail que você recebeu. Se você não se lembra do email você pode entrar em contato conosco, não esqueça de mencionar algumas informações para facilitar a busca do seu usuário (nome completo, apelido que você costuma usar, data de registro ou se você fez uma contribuição para um projeto específico). "
+login-recover-label:	 'Esqueceu sua senha?'
+login-recover-link:	 'Recuperar senha'
+login-recover-modal-button:	 Enviar
+login-recover-modal-sucess:	 'Feito! - nós lhe enviamos um email para %s com um link para redefinir a senha. '
+login-recover-modal-text:	 'Digite o endereço de e-mail que você usou para registrar e nós lhe enviaremos um link para redefinir sua senha.'
+login-recover-username-field:	 'Login'
+login-register-button:	 Cadastre-se
+login-register-confirm-field:	 'Confirme e-mail'
+login-register-confirm_password-field:	 'Confirmar senha'
+login-register-email-field:	 Email
+login-register-header:	 'Novo usuário'
+login-register-password-field:	 Senha
+login-register-password-minlength:	 'Mínimo 6 caracteres'
+login-register-userid-field:	 'Nome de acesso'
+login-register-username-field:	 'Nome público'
+login-signin-facebook:	 'Entrar com o Facebook'
+login-signin-google:	 "Faça login com o Google"
+login-signin-linkedin:	 Entre com o LinkedIn
+login-signin-myopenid:	 'Entre com myOpenID'
+login-signin-openid:	 'Outro servidor Open ID'
+login-signin-openid-go:	 Ir
+login-signin-twitter:	 'Entre com o Twitter'
+login-signin-ubuntu:	 'Entre com o Ubuntu One'
+login-signin-view-more:	 'Mostrar mais opções de acesso'
+login-signin-yahoo:	 'Acesso com o Yahoo'
+login-title:	 'Iniciar sessão'
+oauth-confirm-user:	 'Vincular usuário existente'
+oauth-facebook-access-denied:	 'Acesso do Facebook negado'
+oauth-goteo-openid-sync-password:	 'Você está tentando vincular uma conta existente no Goteo com um provedor externo. Isso permitirá que você insira o Goteo com um único clique no futuro.<br> Na primeira vez, você deve fornecer a senha da sua conta do Goteo para confirmar sua identidade. '
+oauth-goteo-user-not-exists:	 'Esse usuário não existe no DoeJá'
+oauth-goteo-user-password-error:	 'Esta conta já usa outro provedor de login sem uma senha. Se você quiser usar mais de um provedor de login, você deve primeiro estabelecer uma senha. '
+oauth-goteo-user-password-exists:	 'Esse usuário já existe no DoeJá'
+oauth-goteo-user-provider-error:	 'Você deve usar <strong>%s</strong> para aceder a este usuário. <br> Se você quiser usar o login mais de um provedor para esta conta você deve primeiro definir uma senha.'
+oauth-import-about:	 'Acerca de você'
+oauth-import-facebook:	 'Link para sua conta do Facebook'
+oauth-import-linkedin:	 'Link para sua conta do LinkedIn'
+oauth-import-location:	 'Lugar de residência'
+oauth-import-name:	 Nome
+oauth-import-twitter:	 'Link para sua conta do Twitter'
+oauth-import-website:	 'Seus sites'
+oauth-linkedin-access-denied:	 'Acesso do Linkedin negado'
+oauth-login-imported-data:	 'Estes dados também serão importados, você pode mudá-los uma vez autenticados'
+oauth-login-welcome-from:	 'Bem-vindo ao gotejamento! Verifique seu nome de usuário e e-mail para concluir o processo. Caso você não consiga importar o e-mail ou alterá-lo para outro, você receberá um e-mail com um link de ativação para verificar sua validade. '
+oauth-openid-access-denied:	 'Acesso do Open ID negado'
+oauth-openid-email-required:	 'O provedor Open ID deve fornecer o email para continuar!'
+oauth-openid-not-logged:	 'Usuário desconectado do Open ID'
+oauth-token-request-error:	 'Ocorreu um erro ao obter as credenciais com o provedor'
+oauth-twitter-access-denied:	 'Acesso do Twitter negado'
+oauth-unknown-provider:	 'Incapaz de entrar com este provedor'
+reset-password-new-password:	 "Redigite sua nova senha"
+reset-password-old-password:	 'Sua nova senha'
+reset-password-save:	 Salvar
+reset-password-title:	 'Definir nova senha'
+login-alternate-ids:	 Outras opções

@@ -1,15 +1,15 @@
 ---
-mailer-baja: 'If you don''t want to receive more updates form Goteo.org, you can unsubscribe your email address with <a href="%s">link</a>'
-mailer-disclaimer: 'Goteo is a social network for crowdfunding and distributed collaboration (services, infrastructures, microtasks and other resources) for encouraging the independent development of creative and innovative initiatives that contribute to the common good. '
-mailer-sinoves: 'If you can''t see this message use this <a href="%s">link</a>'
-newsletter-block: 'Would you like to no longer receive newsletters from Goteo? <br> <a href="%s">Unsubscribe</a>.'
+mailer-baja: 'Se você não quiser receber mais atualizações do DoeJá.com.br, poderá cancelar a inscrição do seu endereço de e-mail com o <a href="%s">link</a>'
+mailer-disclaimer: 'O DoeJá é uma plataforma de doação para campanhas eleitorias, você pode coloborar financeiramente com a campanha do partido ou candidato que você se identifica. '
+mailer-sinoves: 'Se você não pode ver esta mensagem use este <a href="%s">link</a>'
+boletim de notícias-block: 'Gostaria de não receber mais boletins informativos do Goteo? <br> <a href="%s">Cancelar inscrição</a>.'
 
-newsletter-subscribe: 'Subscribe to our newsletter'
-newsletter-unsubscribe: 'Unsubscribe from our Newsletter'
-newsletter-unsubscribe-cancel: 'Did''nt want to unsubscribe? <a href="%s">Subscribe again</a>'
-newsletter-subscribe-cancel: 'Did''nt want to subscribe? <a href="%s">Unsubscribe</a>'
-subscribe-request-success: 'Congratulations! You have been subscribed to our newsletter (%s).'
-unsubscribe-request-success: 'You have cancelled your subscription to the newsletter (%s).'
+boletim de notícias-subscribe: 'Se inscreva na nossa boletim de notícias'
+boletim de notícias-unsubscribe: 'Cancelar inscrição da nossa Newsletter'
+boletim de notícias-unsubscribe-cancel: 'Não queria cancelar a inscrição? <a href="%s"> Inscreva-se novamente </a>'
+boletim de notícias-subscribe-cancel: 'Não queria se inscrever? <a href="%s">Cancelar inscrição</a>'
+subscribe-request-success: 'Paranéns! Você se inscreveu na nossa boletim de notícias (%s).'
+unsubscribe-request-success: 'Você cancelou a sua inscrição do nosso boletim de notícias (%s).'
 
-mailer-from: From
-mailer-to: To
+mailer-from: De
+mailer-to: Para

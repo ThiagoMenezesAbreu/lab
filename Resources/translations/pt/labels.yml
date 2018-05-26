@@ -1,172 +1,172 @@
----
-accounts-lb: Aportes
-accounts-lb-add: 'Aporte manual'
-accounts-lb-cancel: 'Cancelando aporte'
-accounts-lb-cancel-pool: 'Cancelando opción crédito'
-accounts-lb-details: 'Detalles del aporte'
-accounts-lb-execute: 'Ejecución del cargo'
-accounts-lb-list: Listando
-accounts-lb-move: 'Reubicando el aporte'
-accounts-lb-report: 'Informe de proyecto'
-accounts-lb-update: 'Cambiando el estado al aporte'
-accounts-lb-viewer: 'Viendo logs'
-banners-lb: Banner
-banners-lb-add: 'Nuevo Banner'
-banners-lb-cancel: 'Cancelando aporte'
-banners-lb-details: 'Detalles del aporte'
-banners-lb-edit: 'Editando Banner'
-banners-lb-execute: 'Ejecución del cargo'
-banners-lb-list: Listando
-banners-lb-move: 'Reubicando el aporte'
-banners-lb-report: 'Informe de proyecto'
-banners-lb-translate: 'Traduciendo Banner'
-banners-lb-update: 'Cambiando el estado al aporte'
-banners-lb-viewer: 'Viendo logs'
-blog-lb: Blog
-blog-lb-add: 'Nueva Entrada'
-blog-lb-edit: 'Editando Entrada'
-blog-lb-footer: 'Ordenando las entradas en el Footer'
-blog-lb-list: Listando
-blog-lb-reorder: 'Ordenando las entradas en Portada'
-blog-lb-translate: 'Traduciendo Entrada'
-categories-lb: Categorías
-categories-lb-add: 'Nueva Categoría'
-categories-lb-edit: 'Editando Categoría'
-categories-lb-keywords: 'Palabras clave'
-categories-lb-list: Listando
-categories-lb-translate: 'Traduciendo Categoría'
-commons-lb: 'Retornos colectivos'
-commons-lb-add: 'Nuevo retorno'
-commons-lb-edit: 'Editando retorno'
-commons-lb-info: 'Información de contacto'
-commons-lb-list: Listando
-commons-lb-report: 'Informe de proyecto'
-commons-lb-view: 'Gestión de retornos'
-criteria-lb: 'Criterios de revisión'
-criteria-lb-add: 'Nuevo Criterio'
-criteria-lb-edit: 'Editando Criterio'
-criteria-lb-list: Listando
-criteria-lb-translate: 'Traduciendo Criterio'
-faq-lb: FAQ
-faq-lb-add: 'Nueva Pregunta'
-faq-lb-edit: 'Editando Pregunta'
-faq-lb-list: Listando
-faq-lb-translate: 'Traduciendo Pregunta'
-glossary-lb: Glosario
-glossary-lb-edit: 'Editando Término'
-glossary-lb-list: Listando
-glossary-lb-translate: 'Traduciendo Término'
-home-lb: 'Elementos en portada'
-home-lb-list: 'Elementos en portada'
-icons-lb: 'Tipos de Retorno'
-icons-lb-edit: 'Editando Tipo'
-icons-lb-list: Listando
-icons-lb-translate: 'Traduciendo Tipo'
-info-lb: 'Ideas about'
-info-lb-add: 'Creando Idea'
-info-lb-edit: 'Editando Idea'
-info-lb-list: Listando
-info-lb-translate: 'Traduciendo Idea'
-licenses-lb: Licencias
-licenses-lb-add: 'Creando Idea'
-licenses-lb-edit: 'Editando Licencia'
-licenses-lb-list: Listando
-licenses-lb-translate: 'Traduciendo Licencia'
-mailing-lb: Comunicaciones
-mailing-lb-edit: 'Escribiendo contenido'
-mailing-lb-list: 'Seleccionando destinatarios'
-mailing-lb-send: 'Comunicación enviada'
-milestones-lb: Hitos
-milestones-lb-add: 'Nuevo Hito'
-milestones-lb-edit: 'Editando Hito'
-milestones-lb-list: Listando
-milestones-lb-translate: 'Traduciendo Hito'
-news-lb: Micronoticias
-news-lb-add: 'Nueva Micronoticia'
-news-lb-edit: 'Editando Micronoticia'
-news-lb-list: Listando
-news-lb-translate: 'Traduciendo Micronoticia'
-newsletter-lb: Boletín
-newsletter-lb-detail: 'Viendo destinatarios'
-newsletter-lb-init: 'Iniciando un nuevo envío'
-newsletter-lb-list: 'Estado del envío automático'
-node-lb: 'Datos del Canal'
-node-lb-admins: 'Viendo administradores'
-node-lb-edit: Editando
-node-lb-list: 'Datos actuales'
-nodes-lb: Canales
-nodes-lb-add: 'Nuevo Canal'
-nodes-lb-admins: 'Asignando administradores del Canal'
-nodes-lb-edit: 'Gestionando Canal'
-nodes-lb-list: Listando
-pages-lb: Páginas
-pages-lb-add: 'Nueva Página'
-pages-lb-list: Listando
-pages-lb-translate: 'Traduciendo Página'
-pages-lbedit: 'Editando Página'
-projects-lb: Proyectos
-projects-lb-accounts: 'Cuentas del proyecto'
-projects-lb-assign: 'Asignando a una Convocatoria el proyecto'
-projects-lb-cancel: 'Cancelando aporte'
-projects-lb-conf: 'Configuración de campaña del proyecto'
-projects-lb-consultants: 'Cambiando asesor del proyecto'
-projects-lb-dates: 'Fechas del proyecto'
-projects-lb-execute: 'Ejecución del cargo'
-projects-lb-images: 'Imágenes del proyecto'
-projects-lb-list: Listando
-projects-lb-move: 'Moviendo a otro Nodo el proyecto'
-projects-lb-open_tags: 'Asignando una agrupación al proyecto'
-projects-lb-rebase: 'Cambiando Id de proyecto'
-projects-lb-report: 'Informe Financiero del proyecto'
-promote-lb: 'Proyectos destacados'
-promote-lb-add: 'Nuevo Destacado'
-promote-lb-edit: 'Editando Destacado'
-promote-lb-list: Listando
-promote-lb-translate: 'Traduciendo Destacado'
-recent-lb: 'Actividad reciente'
-recent-lb-list: Listando
-reviews-lb: Revisiones
-reviews-lb-add: 'Iniciando briefing'
-reviews-lb-edit: 'Editando briefing'
-reviews-lb-list: Listando
-rewards-lb: Recompensas
-rewards-lb-edit: 'Gestionando recompensa'
-rewards-lb-list: Listando
-sent-lb: 'Historial envíos'
-sent-lb-list: 'Emails enviados'
-sponsors-lb: 'Apoyos institucionales'
-sponsors-lb-add: 'Nuevo Patrocinador'
-sponsors-lb-edit: 'Editando Patrocinador'
-sponsors-lb-list: Listando
-tags-lb: 'Tags de blog'
-tags-lb-add: 'Nuevo Tag'
-tags-lb-edit: 'Editando Tag'
-tags-lb-list: Listando
-tags-lb-translate: 'Traduciendo Tag'
-templates-lb: 'Plantillas de email'
-templates-lb-edit: 'Editando Plantilla'
-templates-lb-list: Listando
-texts-lb: 'Textos interficie'
-texts-lb-edit: 'Editando Original'
-texts-lb-list: Listando
-translates-lb: 'Traducciones de proyectos'
-translates-lb-add: 'Habilitando traducción'
-translates-lb-edit: 'Asignando traducción'
-translates-lb-list: Listando
-translates-lb-translate: 'Traduciendo Texto'
-transnodes-lb: 'Traducciones de nodos'
-transnodes-lb-edit: 'Asignando traducción'
-transnodes-lb-list: Listando
-users-lb: Usuarios
-users-lb-add: 'Creando Usuario'
-users-lb-edit: 'Editando Usuario'
-users-lb-impersonate: 'Suplantando al Usuario'
-users-lb-list: Listando
-users-lb-manage: 'Gestionando Usuario'
-users-lb-move: 'Moviendo a otro Nodo el usuario'
-word-lb: 'Conteo de palabras'
-word-lb-list: Listando
-worth-lb: 'Niveles de meritocracia'
-worth-lb-edit: 'Editando Nivel'
-worth-lb-list: Listando
-stats-lb: Stats & data
+---:	
+accounts-lb:	 Contribuições
+accounts-lb-add:	 'Contribuição manual'
+accounts-lb-cancel:	 'Cancelando contribuição'
+accounts-lb-cancel-pool:	 'Cancelando opção de crédito'
+accounts-lb-details:	 'Detalhes da contribuição'
+accounts-lb-execute:	 'Execução da carga'
+accounts-lb-list:	 Listagem
+accounts-lb-move:	 'Relocando a contribuição'
+accounts-lb-report:	 'Relatório do projeto'
+accounts-lb-update:	 'Mudando o estado para a contribuição'
+accounts-lb-viewer:	 'Registros de observação'
+banners-lb:	 Banner
+banners-lb-add:	 'New Banner'
+banners-lb-cancel:	 'Cancelando contribuição'
+banners-lb-details:	 'Detalhes da contribuição'
+banners-lb-edit:	 'Banner de edição'
+banners-lb-execute:	 'Execução da carga'
+banners-lb-list:	 Listagem
+banners-lb-move:	 'Relocando a contribuição'
+banners-lb-report:	 'Relatório do projeto'
+banners-lb-translate:	 'Banner de tradução'
+banners-lb-update:	 'Mudando o estado para a contribuição'
+banners-lb-viewer:	 'Registros de observação'
+blog-lb:	 Blog
+blog-lb-add:	 'Nova entrada'
+blog-lb-edit:	 'Entrada de Edição'
+blog-lb-footer:	 'Classificando as entradas no rodapé'
+blog-lb-list:	 Listagem
+blog-lb-reorder:	 'Classificando entradas na capa'
+blog-lb-translate:	 'Entrada de tradução'
+categories-lb:	 Categorias
+categories-lb-add:	 'Nova Categoria'
+categories-lb-edit:	 'Categoria de Edição'
+categories-lb-keywords:	 'Palavras chave'
+categories-lb-list:	 Listagem
+categories-lb-translate:	 'Traduzindo Categoria'
+commons-lb:	 'Retornos coletivos'
+commons-lb-add:	 'Novo retorno'
+commons-lb-edit:	 'Editando retorno'
+commons-lb-info:	 'Informação de contato'
+commons-lb-list:	 Listagem
+commons-lb-report:	 'Relatório do projeto'
+commons-lb-view:	 'Gerenciamento de retorno'
+criteria-lb:	 'Critérios de revisão'
+criteria-lb-add:	 'Novo Critério'
+criteria-lb-edit:	 'Critérios de Edição'
+criteria-lb-list:	 Listagem
+criteria-lb-translate:	 'Critério de tradução'
+faq-lb:	 FAQ
+faq-lb-add:	 'Nova pergunta'
+faq-lb-edit:	 'Editando Pergunta'
+faq-lb-list:	 Listagem
+faq-lb-translate:	 'Traduzindo a pergunta'
+glossary-lb:	 Glossário
+glossary-lb-edit:	 'Termo de Edição'
+glossary-lb-list:	 Listagem
+glossary-lb-translate:	 'Termo de tradução'
+home-lb:	 'Elementos na capa'
+home-lb-list:	 'Elementos na capa'
+icons-lb:	 'Tipos de retorno'
+icons-lb-edit:	 'Tipo de Edição'
+icons-lb-list:	 Listagem
+icons-lb-translate:	 'Tipo de tradução'
+info-lb:	 'Idéias sobre'
+info-lb-add:	 'Criando Idéia'
+info-lb-edit:	 'Idéia de edição'
+info-lb-list:	 Listagem
+info-lb-translate:	 'Traduzir ideia'
+licenses-lb:	 Licenças
+licenses-lb-add:	 'Criando Idéia'
+licenses-lb-edit:	 'Licença de Edição'
+licenses-lb-list:	 Listagem
+licenses-lb-translate:	 'Licença de tradução'
+mailing-lb:	 Comunicações
+mailing-lb-edit:	 'Escrevendo conteúdo'
+mailing-lb-list:	 'Selecionando destinatários'
+mailing-lb-send:	 'Comunicação enviada'
+milestones-lb:	 Marcos
+milestones-lb-add:	 'New Milestone'
+milestones-lb-edit:	 'Editando Milestone'
+milestones-lb-list:	 Listagem
+milestones-lb-translate:	 'Traduzindo Milestone'
+news-lb:	 Micronoticias
+news-lb-add:	 'Nova Micronoticia'
+news-lb-edit:	 'Editando Micronoticia'
+news-lb-list:	 Listagem
+news-lb-translate:	 'Traduzindo Micronoticia'
+newsletter-lb:	 Boletim
+newsletter-lb-detail:	 'Visualizando destinatários'
+newsletter-lb-init:	 'Começando uma nova remessa'
+newsletter-lb-list:	 'Status de entrega automática'
+node-lb:	 'Dados do canal'
+node-lb-admins:	 'Visualizando administradores'
+node-lb-edit:	 Edição
+node-lb-list:	 'Dados atuais'
+nodes-lb:	 Canais
+nodes-lb-add:	 'Novo canal'
+nodes-lb-admins:	 'Atribuindo Administradores de Canal'
+nodes-lb-edit:	 'Gerenciando Canal'
+nodes-lb-list:	 Listagem
+pages-lb:	 Páginas
+pages-lb-add:	 'Nova página'
+pages-lb-list:	 Listagem
+pages-lb-translate:	 "Página de tradução"
+pages-lbedit:	 'Página de Edição'
+projects-lb:	 Projetos
+projects-lb-accounts:	 'Contas do projeto'
+projects-lb-assign:	 'Atribuindo o projeto a uma chamada'
+projects-lb-cancel:	 'Cancelando contribuição'
+projects-lb-conf:	 'Configuração de campanha do projeto'
+projects-lb-consultants:	 'Alterando o orientador do projeto'
+projects-lb-dates:	 'Datas do projeto'
+projects-lb-execute:	 'Execução da carga'
+projects-lb-images:	 'Imagens do projeto'
+projects-lb-list:	 Listagem
+projects-lb-move:	 'Movendo o projeto para outro nó'
+projects-lb-open_tags:	 'Designando um grupo para o projeto'
+projects-lb-rebase:	 'Alterando o ID do projeto'
+projects-lb-report:	 'Relatório financeiro do projeto'
+promote-lb:	 'Projetos em destaque'
+promote-lb-add:	 'Novo destaque'
+promote-lb-edit:	 'Edição em destaque'
+promote-lb-list:	 Listagem
+promote-lb-translate:	 'Traduzindo em destaque'
+recent-lb:	 'Atividade recente'
+recent-lb-list:	 Listagem
+reviews-lb:	 Comentários
+reviews-lb-add:	 'Começando briefing'
+reviews-lb-edit:	 'Briefing de edição'
+reviews-lb-list:	 Listagem
+rewards-lb:	 Recompensas
+rewards-lb-edit:	 'Gerenciando recompensa'
+rewards-lb-list:	 Listagem
+sent-lb:	 'Histórico de envio'
+sent-lb-list:	 'Emails enviados'
+sponsors-lb:	 'Apoio institucional'
+sponsors-lb-add:	 'Novo Patrocinador'
+sponsors-lb-edit:	 'Editando Patrocinador'
+sponsors-lb-list:	 Listagem
+tags-lb:	 'Blog Tags'
+tags-lb-add:	 'Nova tag'
+tags-lb-edit:	 'Tag de edição'
+tags-lb-list:	 Listagem
+tags-lb-translate:	 'Tag de tradução'
+templates-lb:	 'Modelos de email'
+templates-lb-edit:	 'Modelo de Edição'
+templates-lb-list:	 Listagem
+texts-lb:	 'Textos de interface'
+texts-lb-edit:	 'Editando Original'
+texts-lb-list:	 Listagem
+translates-lb:	 'Traduções de projetos'
+translates-lb-add:	 'Ativando a tradução'
+translates-lb-edit:	 'Atribuição de tradução'
+translates-lb-list:	 Listagem
+translates-lb-translate:	 'Translating Text'
+transnodes-lb:	 'Traduções de nós'
+transnodes-lb-edit:	 'Atribuição de tradução'
+transnodes-lb-list:	 Listagem
+users-lb:	 Usuários
+users-lb-add:	 'Criando usuário'
+users-lb-edit:	 'Editando usuário'
+users-lb-impersonate:	 'Representando o usuário'
+users-lb-list:	 Listagem
+users-lb-manage:	 'Gerenciando Usuário'
+users-lb-move:	 'Movendo o usuário para outro nó'
+word-lb:	 'Contagem de palavras'
+word-lb-list:	 Listagem
+worth-lb:	 'Níveis de meritocracia'
+worth-lb-edit:	 'Nível de Edição'
+worth-lb-list:	 Listagem
+stats-lb:	 Estatísticas e dados

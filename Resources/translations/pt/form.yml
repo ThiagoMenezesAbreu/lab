@@ -1,45 +1,45 @@
 ---
-costs-field-select-rounds: Campaign duration
+costs-field-select-rounds: Duração da campanha
 form-accept-button: OK
-form-add-button: Add
-form-ajax-info: 'This form is saved automatically while you fill it out'
-form-apply-button: Apply
-form-edit-button: Edit
-form-has-errors: 'The form contains errors, please check it and try again!'
-form-errors-info: 'Total: %s | At this step: %s'
-form-errors-total: 'There''s %s errors in total'
+form-add-button: Adicionar
+form-ajax-info: 'Este formulário é salvo automaticamente enquanto você o preenche'
+form-apply-button: Aplicar
+form-edit-button: Editar
+form-has-errors: 'O formulário contém erros, por favor verifique e tente novamente!'
+form-errors-info: 'Total: %s | Na etapa: %s'
+form-errors-total: 'Há %s errors no total'
 form-footer-errors_title: Errors
-form-image_upload-button: 'Upload image'
-form-media_send-button: 'Play video'
-form-navigation_bar-header: 'Go to'
-form-next-button: Next
-form-project-info_status-title: 'Overall status of information'
-form-project-progress-title: 'Data evaluation'
-form-project-status-title: 'Project status'
-form-project_status-campaing: 'Campaign in progress'
-form-project_status-cancel: Discarded
-form-project_status-cancelled: Canceled
-form-project_status-edit: In review
-form-project_status-expired: Closed
-form-project_status-fulfilled: 'Benefit completed'
-form-project_status-review: 'Evaluation pending'
-form-project_status-success: Funded
-form-remove-button: Remove
-form-self_review-button: Correct
-form-send_review-button: Send
-form-upload-button: Send
-help-cost-to-consultant: '- Needs some help in the costs section.<br>'
-help-license-to-consultant: '- Needs help with collective returns and licenses<br>'
-overview-extra-fields: 'Complementary fields'
-project-form-header: Form
-project-one-round: 'Single 40-day round'
+form-image_upload-button: 'Enviar imagem'
+form-media_send-button: 'Executar vídeo'
+form-navigation_bar-header: 'Ir para'
+form-next-button: Próximo
+form-project-info_status-title: 'Status geral da informação'
+form-project-progress-title: 'Avaliação de dados'
+form-project-status-title: 'Status do candidato'
+form-project_status-campaing: 'Campanha em andamento'
+form-project_status-cancel: Descartado
+form-project_status-cancelled: Cancelado
+form-project_status-edit: Em análise
+form-project_status-expired: Fechado
+form-project_status-fulfilled: 'Benefício completado'
+form-project_status-review: 'Avaliação pendente'
+form-project_status-success: Financiado
+form-remove-button: Removido
+form-self_review-button: Corrigr
+form-send_review-button: Enviar
+form-upload-button: Enviar
+help-cost-to-consultant: '- Preciso de ajuda na seção de custos.<br>'
+help-license-to-consultant: '- Preciso de ajuda com devoluções coletivas e licenças<br>'
+overview-extra-fields: 'Campos complementares'
+project-form-header: Formato
+project-one-round: 'Rodada única de 40 dias'
 project-personal-field-entity_name: 'The party on behalf of which you are acting (if applicable)'
-project-two-rounds: 'Two 40-day rounds'
+project-two-rounds: '2 rodadadas de 40 dias'
 tooltip-project-personal-entity_name: 'If you represent an entity, this is the indicated place to let it be known.'
-form-sent-success: 'Data saved successfully!'
-form-sent-error: 'An error has occurred while saving data: [%s]'
-form-confirm-exit: "Unsaved data will be lost.\nDo you wish to continue?"
-overview-extra-call: 'Complementary fields for the call %s'
+form-sent-success: 'Dados salvos!'
+form-sent-error: 'Ocorreu um erro ao salvar os dados: [%s]'
+form-confirm-exit: "Dados não salvos serão perdidos.\nDeseja continuar?"
+overview-extra-call: 'Campos complementares para a chamada %s'
 form-editor-bold: 'Bold'
 form-editor-italic: 'Italic'
 form-editor-strikethrough: 'Strikethrough'
@@ -64,7 +64,7 @@ form-editor-close: 'Close'
 form-editor-exact-location: 'Exact location'
 form-editor-change-location: 'Change'
 form-editor-change-unlocated: 'Unlocated'
-form-editor-fine-locate: 'Fine-tune the location by dragging and dropping the mark.'
-form-editor-error-locating: 'No address found!'
-form-editor-success-locating: 'Address found successfully!'
-form-dragndrop-unsupported: 'There''s been a problem while dragging files. Please, try again by clicking on the upload button'
+form-editor-fine-locate: 'Ajuste a localização arrastando e soltando a marca.'
+form-editor-error-locating: 'Nenhum endereço encontrado!'
+form-editor-success-locating: 'Endereço encontrado com sucesso!'
+form-dragndrop-unsupported: 'Houve um problema ao arrastar arquivos. Por favor, tente novamente clicando no botão de upload'

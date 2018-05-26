@@ -1,32 +1,33 @@
 ---
-node-footer-about: 'Social network for crowdfunding and collaborating with creative projects that support the commons <a href="/project/create">Do you have an open DNA project?</a>'
-node-footer-help-what: 'What is Crowdfunding?'
-node-footer-help-why: 'What''s different about Goteo'
-node-footer-investors-donate: 'Donations and tax deductions'
-node-footer-investors-invest: 'How to help a project'
-node-footer-investors-payment: 'How payments work'
-node-footer-title-creators: Campaign leaders
-node-footer-title-help: 'Need help?'
-node-footer-title-investors: Backers
-node-footer-title-social: Follow us
-node-header-sponsorby: 'With the support of:'
-node-home-calls-headers: Calls
-node-home-posts-header: News
-node-side-searcher-bycategory: 'By category'
-node-side-searcher-byreward: 'By reward'
-node-side-searcher-outdate: Urgent
-node-side-searcher-popular: Popular
-node-side-searcher-promote: Highlighted
-node-side-searcher-recent: Recent
-node-side-searcher-success: Successful
-node-side-sumcalls-budget: 'Total (all campaigns)'
-node-side-sumcalls-calls: Open
-node-side-sumcalls-campaigns: Active
-node-side-sumcalls-rest: 'Pending assignment'
-node-side-summary-active: Active
-node-side-summary-amount: 'Money collected'
-node-side-summary-investors: Backers
-node-side-summary-success: Successful
-node-side-summary-supporters: Backers
-node-stats-title: 'Impact data'
-node-projects-title: 'Projects'
+node-footer-about: 'Plataforma para arrecadação de fundo para campanhas eleitorais <a href="/project/create">Tem uma campanha aberta?</a>'
+node-footer-help-what: 'O que é Crowdfunding'
+node-footer-help-why: 'Porque devo doar'
+node-footer-investors-donate: 'Doações'
+node-footer-investors-invest: 'Como apoiar uma campanha'
+node-footer-investors-payment: 'Como funciona os pagamentos'
+node-footer-title-creators: Impulsores
+node-footer-title-help: 'Precisa de ajuda?'
+node-footer-title-investors: Cofinanciadores
+node-footer-title-social: Siga-nos
+node-header-sponsorby: 'Com o suporte de:'
+node-home-calls-headers: Chamadas
+node-home-posts-header: Novidades
+node-side-searcher-bycategory: 'Por categoría'
+node-side-searcher-byreward: 'Por retorno'
+node-side-searcher-outdate: Urgentes
+node-side-searcher-popular: Populares
+node-side-searcher-promote: Destacados
+node-side-searcher-recent: Recentes
+node-side-searcher-success: Sucesso
+node-side-sumcalls-budget: 'Total (todas as campanhas)'
+node-side-sumcalls-calls: Aberto
+node-side-sumcalls-campaigns: Ativo
+node-side-sumcalls-header: 'Matchfunding'
+node-side-sumcalls-rest: 'Em ditribição'
+node-side-summary-active: Activos
+node-side-summary-amount: 'Dinheiro arrecadado'
+node-side-summary-investors: Cofinanciadores
+node-side-summary-success: Sucesso
+node-side-summary-supporters: Colaboradores
+node-stats-title: 'Dados de impacto'
+node-projects-title: 'Campanha'

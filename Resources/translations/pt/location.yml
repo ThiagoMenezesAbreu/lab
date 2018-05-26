@@ -1,9 +1,9 @@
 ---
-dashboard-user-location-change: 'You can change your location in your user profile.'
-dashboard-user-location-locate: 'Share my location'
-dashboard-user-location-located-text: "If you do not want to share your localization data with us, simply click the next button:"
-dashboard-user-location-located-title: 'You have been correctly geolocated.'
-dashboard-user-location-unlocate: 'Don''t share my location'
-dashboard-user-location-unlocated-text: "It could be due to your entering an unrecognized address, or because at some stage you refused a browser prompt to locate your geographic position.This is important data for the Goteo system, as it allows us to generate information (anonymously, without disclosing any of your personal data to outside parties), as well as impact indicators to improve the efficiency of our work and project support. "
-dashboard-user-location-unlocated-title: 'The system can''t detect your location.'
-dashboard-user-location-help: 'Your geographic position is important data for the Goteo system, as it allows us to generate information (anonymously, without disclosing any of your personal data to outside parties), as well as impact indicators to improve the efficiency of our work and project support. '
+dashboard-user-location-change: 'Você pode mudar a localização no seu perfil.'
+dashboard-user-location-locate: 'Compartilhar minha localização'
+dashboard-user-location-located-text: "Se você não quiser compartilhar seus dados de localização conosco, basta clicar no botão seguinte:"
+dashboard-user-location-located-title: 'Você foi geolocalizado corretamete'
+dashboard-user-location-unlocate: 'Não compartilhe minha localização'
+dashboard-user-location-unlocated-text: "Pode ser devido à sua inserção de um endereço não reconhecido ou porque em algum momento você se recusou a procurar a localização geográfica do seu navegador.Este é um dado importante para o sistema DoeJá, pois permite gerar informações (anonimamente, sem revelar seus dados pessoais para terceiros), bem como indicadores de impacto para melhorar a eficiência de nosso trabalho e suporte a projetos."
+dashboard-user-location-unlocated-title: 'Erro ao buscar localização'
+dashboard-user-location-help: 'Sua posição geográfica é importante para o sistema Goteo, pois nos permite gerar informações (anonimamente, sem revelar seus dados pessoais para terceiros), bem como indicadores de impacto para melhorar a eficiência de nosso trabalho e suporte a projetos. '

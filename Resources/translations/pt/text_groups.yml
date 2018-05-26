@@ -1,19 +1,19 @@
 ---
 text-group-admin: 'Text Admin'
-text-group-banners: 'Banners and headers'
-text-group-blog: Blog / Updates
-text-group-bluead: 'Notices'
+text-group-banners: 'Banners and Cabeçalhos'
+text-group-blog: Blog / Atualizações
+text-group-bluead: 'Notícias'
 text-group-call_dash: 'Calls: dashboard'
 text-group-costs: 'Project costs'
 text-group-faq: 'FAQ'
 text-group-feed: 'Recent events'
 text-group-home: Front page
 text-group-location: Geo-location
-text-group-login: 'Login page'
+text-group-login: 'Página de Login'
 text-group-node_public: Nodes
-text-group-overview: 'Project description'
-text-group-preview: 'Preview the project'
-text-group-register: 'User sign up'
-text-group-review: 'Review panel'
-text-group-translate: 'Translation panel'
-text-group-wof: 'Wall of friends'
+text-group-overview: 'Descrição da campanha'
+text-group-preview: 'Revisar projeto'
+text-group-register: 'Novo usuário'
+text-group-review: 'Panel de revisões'
+text-group-translate: 'Painel de traduções'
+text-group-wof: 'Painel de amigos'

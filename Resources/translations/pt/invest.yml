@@ -1,107 +1,114 @@
 ---
-bazar-spread-text: '%s - This Christmas, give open crowdfunding for the common good with @goteofunding #openbazaar'
-bazar-thanks: 'Thank you for visiting our bazaar, you can help us promote it.'
-faq-payment-method: '<a href="/faq/investors#q2" target="_blank">What payment systems does Goteo offer? Are they safe?</a>'
-imperative-register: Register
-invest-address-address-field: Address
-invest-address-birthyear-field: 'Year of birth'
-invest-address-country-field: Country
-invest-address-fail: 'There are empty or faulty fields. Please check the form so you can go forward and receive your reward!'
-invest-address-friend-field: 'Tick this box if it is a gift for another person'
-invest-address-gender-field: Gender
-invest-address-header: 'Where would you like to receive the reward (only if it''s sent via the postal service)'
-invest-address-location-field: City
-invest-address-maildest-field: 'Recipient''s email'
-invest-address-msgdest-field: 'Message for the recipient'
-invest-address-myemail-field: 'Your email'
-invest-address-myname-field: 'Your name'
-invest-address-name-field: 'Name & Surname'
-invest-address-namedest-field: 'Name of the recipient'
-invest-address-nif-field: 'VAT Number'
-invest-address-title: 'Make sure you receive your reward'
-invest-address-zipcode-field: 'ZIP code'
-invest-alert-investing: 'You''re about to contribute with '
-invest-alert-lackamount: 'The quantity must be superior to the reward selected'
-invest-alert-lackdrop: 'There is no Matchfunding left to multiply your contribution, left amount is'
-invest-alert-noreward: 'You haven''t selected any reward. Is that correct?'
-invest-alert-noreward_renounce: 'Do you really renounce to any reward? '
-invest-alert-renounce: 'You''re renouncing to the reward, or the reward chosen isn''t an object or a product so you can detax your donation. To do so, we need your VAT number!'
-invest-alert-rewards: 'You’ve choosen the following reward:'
-invest-amount: Quantity
-invest-amount-in-pool: 'You’ve got %s in your virtual wallet'
-invest-amount-tooltip: 'Enter the quantity with which you want to support this project'
-invest-anonymous: 'I want my contribution to be anonymous'
-invest-button: Contribute
-invest-called-maxdrop: 'Up to a maximum of <strong>%s &euro;</strong>'
-invest-called-maxproj: 'This project you backed up has already obtained the maximum quantity of <strong>Matchfunding</strong> from the call <span class="call">%s</span>.'
-invest-called-nodrop: 'Currently, there is no more <strong>Matchfunding</strong> left for the call %s'
-invest-called-rest: 'There’s just <strong>%s €</strong> left of <strong>Matchfunding</strong> for the call <span class="call">%s</span>'
-invest-card-method: Credit Card
-invest-donation-header: 'Enter the fiscal information for this donation'
-invest-drop-method: Matching funds
-invest-fiscal-fail: 'There are faulty of empty fields. Please check the fiscal form to go forward and deduct your contribution!'
-invest-fiscal-skip: 'I don’t want to fill in this now'
-invest-fiscal-title: 'Make sure you can get a Tax return on your contribution (only for declarants in Spain)'
-invest-login-alert: 'You must register or <a href="%s">log in</a> to make your contribution'
-invest-mail_info-address: 'You''ll receive the reward at the following address:'
-invest-mail_info-drop: 'Has also, %s contributed %s of matchfunding via the %s campaign'
-invest-make-sure-save: Save
-invest-make-sure-title: Confirm
-invest-method: 'Payment method'
-invest-method-title: 'Make your contribution'
-invest-modal-fiscal-title: 'Tax information'
-invest-modal-pool-description: 'The virtual wallet is Goteo’s credit system, which you can use to contribute projects on our platform whenever you want, with no need to give your credit card or PayPal data each time.'
-invest-modal-pool-title: 'About Goteo Virtual Wallet'
-invest-more-info: 'More information'
-invest-next_step: 'Next step'
-invest-payment-email: 'Enter your PayPal user name'
-invest-payment-fail: 'Something went wrong with the payment'
-invest-payment-success: 'The payment has been made correctly'
-invest-payment-method: 'Payment method'
-invest-payment_method-header: 'Choose a method of payment'
-invest-pool: 'I want my donation, in the event that the project doesn''t reach its goal, to remain in my Goteo Virtual Wallet.'
-invest-pool-available: Available
-invest-pool-error: 'You do not have enough money in your virtual wallet'
-invest-pool-method: 'Virtual Wallet'
-invest-process-completed: 'Your contribution has been completed previoulsy'
-invest-project: 'to the project'
-invest-resign: 'I renounce to my personal reward, I just want to support the project'
-invest-reward-none: 'These can no longer be chosen'
-invest-reward-not-found: 'Reward not found!'
-invest-reward-used-up: 'This reward has been used up!'
-invest-select-reward: 'Choose your reward'
-invest-share-title: Share
-invest-social-header: 'With collective benefits, we all move forward'
-invest-status-cancelled: Cancelled
-invest-status-charged: Charged
-invest-status-paid: 'Paid to project'
-invest-status-pending: Pending
-invest-status-processing: Incomplete
-invest-status-relocated: Relocated
-invest-status-returned: 'Returned (archived)'
-invest-status-to-pool: 'Virtual wallet'
-invest-step-1: Reward
-invest-step-2: Payment
-invest-step-3: Confirm
-invest-step-4: Share
-invest-success-make-sure: 'Well done! Your contribution to the project <strong>%s</strong> has been successfully managed.'
-investing_closed: 'No more contributions to this campaign allowed.'
-proj-widget-my_invest: 'My contribution'
-project-invest-confirm: 'You''re one step away from becoming a backer of this project...'
-project-invest-continue: 'Choose a method of payment:'
-project-invest-fail: 'Something went wrong, please try again.'
-project-invest-guest: 'Awesome!'
-project-invest-ok: 'Your contribution to co-finance this project has been processed :)'
-project-invest-pool-button: 'Use my Virtual Wallet'
-project-invest-start: 'You''re one step away from becoming a backer of this project...'
-project-return-button: 'Back to project'
-project-see-msg: 'See your message'
-spread-facebook: 'Share on Facebook'
-spread-twitter: 'Share on Twitter'
-user-login-required-login: 'If you’re a registered user you should <a href="%s">log in</a>; if you are not, you should create a new user. (In case you want to make an anonymous donation, you can select that option later)'
-warning_nojavascript: 'Please enable javascript from your browser''s privacy settings to continue the payment process'
-invest-no-register: 'Skip this step, I just want to contribute'
-invest-user-not-ghost: 'This email belongs to an existing user!'
-invest-user-name-or-anonymous: 'Name is mandatory unless you want to donate anonymously'
-invest-created-manually-ok: 'Manual invest created successfully, select reward and address now'
-invest-created-manually-ko: 'Error on creating manual invest [%s]'
+bazar-spread-text:	'%s - Neste Natal, doe'
+bazar-thanks:	 "Obrigado por visitar nosso bazar, você pode nos ajudar a espalhar a palavra."
+currency-alert:	 "Por favor, note que a gestão está em BR. Você vai pagar cerca de <span id=\"reminder_conversion\">%s</span> R$ <a href=\"/faq/investors#q115\" target=\"_blank\">Mais informações</a> "
+faq-payment-method:	 '<a href="/faq/investors#q2" target="_blank"> Quais sistemas de pagamento o DoeJá oferece? Eles estão seguros? </a>'
+imperative-register:	 Inscreva-se
+invest-address-address-field:	 Endereço
+invest-address-birthyear-field:	 'Ano de nascimento'
+invest-address-country-field:	 País
+invest-address-fail:	 'Há campos vazios ou com erros, verifique o formulário para que você possa receber sua recompensa!'
+invest-address-friend-field:	 'Marque esta caixa se for um presente para outra pessoa'
+invest-address-gender-field:	 Sexo
+invest-address-header:	 'Onde você deseja receber a recompensa (somente no caso de itens postais)?'
+invest-address-location-field:	 Cidade
+invest-address-maildest-field:	 'Email do destinatário'
+invest-address-msgdest-field:	 'Mensagem para o destinatário'
+invest-address-myemail-field:	 'Seu email'
+invest-address-myname-field:	 'Teu nome'
+invest-address-name-field:	 'Nomes e sobrenomes'
+invest-address-namedest-field:	 'Nome do destinatário'
+invest-address-nif-field:	 'Número de NIF/NIE/IVA'
+invest-address-title:	 'Certifique-se de obter sua recompensa'
+invest-address-zipcode-field:	 'Código postal'
+invest-alert-investing:	 'Você vai contribuir'
+invest-alert-lackamount:	 'A contribuição deve ser maior que a recompensa escolhida'
+invest-alert-lackdrop:	 'Não há capital de irrigação suficiente para cobrir sua contribuição, eles permanecem'
+invest-alert-noreward:	 "Você não marcou nenhuma recompensa, está correto?"
+invest-alert-noreward_renounce:	 'Você quer renunciar a recompensa e deduzir sua doação?'
+invest-alert-renounce:	 'Você se demitiu, mas não colocou o seu NIF para deduzir a doação, está correto?'
+invest-alert-rewards:	 'Você escolheu as seguintes recompensas'
+invest-amount:	 Quantidade
+invest-amount-in-pool:	 'Você tem% s na sua carteira virtual'
+invest-amount-tooltip:	 'Digite o valor que você vai apoiar o projeto com'
+invest-anonymous:	 'Eu quero que minha contribuição seja anônima'
+invest-button:	 Contribuir
+invest-called-allready:	 'Para este projeto você já deu <strong>Irrigação de Capital</strong> da chamada <span class="call">%s</span>, você não receberá mais Capital Irrigação por suas contribuições'
+invest-called-maxdrop:	 'Até um máximo de <strong>%s & reais; </strong>'
+invest-called-maxproj:	 'O projeto que você apoiou já alcançou o máximo de <strong>Irrigação de Capital </strong> possível na chamada <span class="call">%s</span>.'
+invest-called-nodrop:	 'Atualmente não há <strong> Irrigação de Capital </strong>disponível na chamada %s'
+invest-called-rest:	 'Apenas <strong>%s R$ </strong> de <strong> Capital Irrigation </strong> permanecem na chamada <span class="call">%s</span>'
+invest-card-method:	 Cartão
+invest-cash-method:	 'Manual (em dinheiro)'
+invest-donation-header:	 'Digite os dados fiscais para a doação'
+invest-drop-method:	 Irrigação
+invest-fiscal-fail:	 'Há campos vazios ou com erros, verifique o formulário de imposto para que você possa deduzir sua contribuição!'
+invest-fiscal-skip:	 'Agora eu não quero preencher esta informação.'
+invest-fiscal-title:	 'Certifique-se de que pode deduzir a sua contribuição'
+invest-login-alert:	 'Você deve se registrar ou <a href="%s">fazer login</a> para poder fazer a contribuição'
+invest-mail_info-address:	 'Você especificou o seguinte endereço'
+invest-mail_info-drop:	 'Além disso, %s contribuiu com %s de capital de irrigação através da campanha %s'
+invest-make-sure-save:	 Salvar
+invest-make-sure-title:	 Confirmar
+invest-method:	 'Forma de pagamento'
+invest-method-title:	 'Faça sua contribuição'
+invest-modal-fiscal-description:	 'Como você já sabe, contribuir no DeoJá não só possibilita muitos projetos que beneficiam a todos nós, mas também descontos! Para fazer uma contribuição para um projeto, e graças ao aumento das taxas de dedução aplicáveis a partir de 2015 para doações puras e simples, feitas em favor do doejá como entidade de acolhimento do regime .'
+invest-modal-fiscal-title:	 "Informação fiscal"
+invest-modal-pool-description:	'A carteira virtual é um sistema de crédito da plataforma do DoeJá, você pode preencher com o seu dinheiro e usá-lo como forma de pagamento sempre que quiser fazer contribuições para projectos em nossa plataforma, sem dar detalhes do seu cartão ou paypal sempre '
+invest-modal-pool-title:	 'Sobre a carteira virtual DoeJá'
+invest-more-info:	 'Mais informação'
+invest-next_step:	 'Próximo passo'
+invest-payment-email:	 'Digite sua conta do PayPal'
+invest-payment-fail:	 "Algo não conseguiu pagar"
+invest-payment-success:	 "O pagamento foi concluído corretamente"
+invest-payment_method-header:	 'Escolha o método de pagamento'
+invest-payment-method:	 'Forma de pagamento'
+invest-paypal-method:	 Paypal
+invest-paypal_disabled:	 "Este projeto desativou a opção de pagamento através do PayPal. <a href=\"/faq/investors#q2\" target=\"_blank\"> Mais informações </a>"
+invest-pool:	 'Eu quero minha doação, no caso de o projeto não atingir seu objetivo, permanecer no meu DoeJá carteira virtual.'
+invest-pool-available:	 disponível
+invest-pool-error:	 'Você não tem dinheiro suficiente na sua carteira virtual'
+invest-pool-method:	 'Carteira virtual'
+invest-process-completed:	 'Esta contribuição foi completada anteriormente'
+invest-project:	 'para o projeto'
+invest-resign:	 'Eu renuncio a uma recompensa individual, só quero ajudar o projeto'
+invest-reward-first:	 'Lembre-se que o montante a ser contribuído deve ser maior que 0'
+invest-reward-none:	 'Você não pode escolher mais'
+invest-reward-not-found:	 'Esta recompensa não foi encontrada!'
+invest-reward-used-up:	 "Não há mais unidades sobrando desta recompensa!"
+invest-select-reward:	 'Selecione sua recompensa'
+invest-share-title:	 Compartilhar
+invest-social-header:	 'Com retornos coletivos ganhamos todos'
+invest-status-cancelled:	 Cancelado
+invest-status-charged:	 Carregado
+invest-status-paid:	 'Pago para o projeto'
+invest-status-pending:	 Pré-aprovado
+invest-status-processing:	 Incompleto
+invest-status-relocated:	 Relocated
+invest-status-returned:	 'Devolvido (arquivado)'
+invest-status-to-pool:	 'Para a bolsa'
+invest-step-1:	 Recompensa
+invest-step-2:	 Pagamento
+invest-step-3:	 Confirmar
+invest-step-4:	 Compartilhar
+invest-success-make-sure:	 'Bem feito! Sua doação para o projeto <strong>%s</ strong> foi bem-sucedida. '
+investing_closed:	 'Não são permitidas mais contribuições nesta campanha.'
+proj-widget-my_invest:	 'Minha contribuição'
+project-invest-confirm:	 'Você está a um passo de co-financiar este projeto ...'
+project-invest-continue:	 'Clique no logotipo do sistema de pagamento que você vai usar'
+project-invest-fail:	 "Algo falhou, por favor, tente novamente"
+project-invest-guest:	 "Ótimo!"
+project-invest-ok:	 'Sua contribuição foi processada para co-financiar este projeto)'
+project-invest-pool-button:	 'Use minha carteira virtual'
+project-invest-start:	 'Você está a um passo de co-financiar este projeto ...'
+project-return-button:	 'De volta ao projeto'
+project-see-msg:	 'Veja sua mensagem'
+spread-facebook:	 'Broadcast on Facebook'
+spread-twitter:	 'Broadcast on Twitter'
+user-login-required-login:	 'Se você já se registrou, deverá <a href="%s"> fazer login </a>, caso contrário, deverá criar um novo usuário. (Caso você queira fazer uma contribuição anônima, você pode selecionar essa opção mais tarde) '
+warning_nojavascript:	 'Habilite o javascript nas configurações de privacidade do seu navegador para continuar com o processo de pagamento'
+invest-no-register:	 'Pule esta etapa, eu só quero contribuir'
+invest-user-not-ghost:	 'Este e-mail pertence a um usuário existente!'
+invest-user-name-or-anonymous:	 'O nome é obrigatório se você não quiser fazer uma contribuição anônima'
+invest-created-manually-ok:	 'Contribuição manual criada corretamente, selecione recompensa e endereço de entrega.'
+invest-created-manually-ko:	 'Erro ao criar contribuição manual [%s]'
