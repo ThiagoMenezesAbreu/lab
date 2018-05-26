@@ -1,12 +1,16 @@
----
-guide-project-error-mandatories: 'Some required fields are missing'
-guide-project-preview: '<strong>This is a summary of all of the information about the project.</strong><br><br>Review the information given in each field to see if any improvements can be made, and when you''re ready, send us the project (by clicking the Send button below) so we can evaluate it. Once the proposal is sent, no further changes are permitted.<br><br>Keep in mind that we can only choose a few projects per month in order to guarantee a certain amount of attention and promotion for those that are published. You will receive a message with all of this information shortly, which will indicate the next steps, as well as some recommendations that will help your project reach its proposed objectives.'
-guide-project-success-minprogress: 'You have achieved the minimum percentage'
-guide-project-success-noerrors: 'All of the required fields are filled out'
-guide-project-success-okfinish: 'You can send it for reviewing'
-preview-main-header: 'Information preview'
-preview-send-comment: 'Additional notes for the administrator'
-step-7: Preview
-step-preview: 'Project / Preview'
-tooltip-project-comment: 'Do you have any doubts or comments for the Goteo administrator? This is the place to mention some part of what you have written that you''re not sure about, to suggest improvements, etc.'
+guide-project-error-mandatories: 'Campos obrigatórios em falta'
+guide-project-preview: '<strong>Este é um resumo de todas as informações sobre o projeto. </strong><br><br>Revise os pontos em cada seção para ver se você pode melhorar algo ou enviar o projeto para sua avaliação (por meio do botão "Enviar" da parte abaixo) se todos os campos obrigatórios já estiverem preenchidos, para que possam ser valorados pela equipe e pela comunidade de Goteo. Depois de enviá-lo, você não poderá introduzir alterações até que você abra sua edição novamente. <br><br>Tenha em mente que só podemos selecionar alguns projetos por mês para garantir a atenção e a divulgação das propostas que são tornadas públicas. Em breve, entraremos em contato para comentar sobre a proposta da campanha e continuar com seu processo de otimização e publicação. '
+guia-projeto-sucesso-minprogress: 'Você alcançou a porcentagem mínima'
+guia-projeto-sucesso-noerrors: 'Todos os campos obrigatórios foram preenchidos'
+guia-projeto-sucesso-okfinish: 'Pode ser enviado para revisão'
+preview-main-header: 'Visualização de dados'
+preview-send-comment: 'Notas adicionais para o administrador'
+passo-7: Pré-visualizar
+Pré-visualização da etapa: 'Project / Preview'
+tooltip-project-comment: 'Você tem perguntas ou comentários que você quer que o administrador do Goteo leia? Este é o lugar para explicar alguma parte do que você escreveu sobre o qual você não tem certeza, para propor melhorias, etc.'
+project-send-review-desc: >
+   Depois de enviá-lo, você não poderá introduzir alterações até que você abra sua edição novamente.
 
+   Em breve, entraremos em contato para discutir a proposta da campanha e continuar com seu processo de otimização e publicação.
+
+   ** Não se esqueça de verificar sua bandeja de SPAM **, às vezes a tecnologia não é capaz de apreciar o amor que damos aos nossos projetos.

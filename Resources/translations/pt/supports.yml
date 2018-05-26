@@ -1,30 +1,30 @@
 ---
-mandatory-support-field-description: 'A description is required.'
-mandatory-support-field-name: 'You have to enter a name for the collaboration'
-step-6: Collaborations
-step-supports: 'Step: Project / Collaborations'
-supports-field-description: Description
-supports-field-support: Summary
-supports-field-type: 'Type of help'
-supports-fields-support-title: Collaborations
-supports-main-header: 'Request for collaborations'
-tooltip-project-nsupport: 'Advice on filling out a new collaboration proposal'
-tooltip-project-support: 'Advice on editing existing collaborations'
-tooltip-project-support-description: "Briefly explain the kind of help that your project needs, to help people see what is needed and encourage them to collaborate."
-tooltip-project-support-support: 'Descriptive title about the needed collaboration'
-tooltip-project-support-type: 'Choose if the project needs help with concrete tasks or rather loans of material, infrastructure, etc.'
-tooltip-project-supports: 'In Goteo, projects can be supported in other ways besides just monetary. There are people who can''t help economically but have plenty to offer in terms of their talent, time, energy, and more.'
-support-sure-to-remove: 'Are you sure to remove this petition?'
-support-remove-error-messages: 'This petition has responses and cannot be deleted.<br>Please, delete all the responses before!'
-support-removed: 'Petition delete successfully'
-support-sure-to-delete: 'Are you sure to remove this message?'
-support-public-message: 'It will be published in the project''s page'
-support-private-message: 'Private message for:'
-support-private_all-message: 'It will be sent to all this thread participants'
-support-is-private: 'Private message'
-support-set-private-message: 'Send only to the participants of this thread'
-support-send-private-message: 'Send a private message to this user'
-message-response: 'Response'
-message-project-comment: 'Project comment'
-message-project-support: 'Project collaboration'
-message-project-private: 'Project conversation'
+mandatory-support-field-description: 'Es obligatorio poner alguna descripción'
+mandatory-support-field-name: 'Es obligatorio ponerle un nombre a la colaboración'
+step-6: Colaboraciones
+step-supports: 'Paso: Proyecto / Colaboraciones'
+supports-field-description: Descripción
+supports-field-support: Resumen
+supports-field-type: 'Tipo de ayuda'
+supports-fields-support-title: Colaboraciones
+supports-main-header: 'Solicitud de colaboraciones'
+tooltip-project-nsupport: 'Consejo para rellenar una nueva colaboración'
+tooltip-project-support: 'Consejo para editar colaboraciones existentes'
+tooltip-project-support-description: "Explica brevemente en qué consiste la ayuda que necesita el proyecto, para facilitar que la gente la reconozca y se anime a colaborar."
+tooltip-project-support-support: 'Título descriptivo sobre la colaboración necesaria.'
+tooltip-project-support-type: 'Selecciona si el proyecto necesita ayuda en tareas concretas  o bien préstamos (de material, infraestructura, etc).  '
+tooltip-project-supports: 'En Goteo los proyectos pueden recibir otro tipo de ayudas además de aportaciones monetarias. Hay gente que a lo mejor no puede ayudar económicamente pero sí con su talento, tiempo, energía, etc.'
+support-sure-to-remove: 'Seguro que quieres borrar esta petición?'
+support-remove-error-messages: 'No se puede borrar esta petición porqué tiene respuestas.<br>Por favor, borra las respuestas antes!'
+support-removed: 'Petición borrada correctamente'
+support-sure-to-delete: 'Seguro que quieres borrar este mensaje?'
+support-public-message: 'Este mensaje se publicará en la página del proyecto'
+support-private-message: 'Mensaje privado para:'
+support-private_all-message: 'Este mensaje se enviará a los participantes de este hilo'
+support-is-private: 'Mensaje privado'
+support-set-private-message: 'Envía sólo a los participantes de este hilo'
+support-send-private-message: 'Envía un mensaje privado a este usuario'
+message-response: 'Respuesta'
+message-project-comment: 'Comentario al proyecto'
+message-project-support: 'Colaboración al proyecto'
+message-project-private: 'Conversación del proyecto'

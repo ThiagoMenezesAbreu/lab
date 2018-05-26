@@ -1,6 +1,6 @@
 ---
-tooltip-project-cost-type-material: 'Necessary materials for the project, like tools, office material, computer equipment, etc.'
-tooltip-project-cost-type-structure: 'Investment in costs that are linked to an office space or store front, mode of transport, or other basic infrastructure needed to bring the project to fruition.'
-tooltip-project-cost-type-task: 'Tasks in which knowledge and skills can be invested in order to develop a part of the project.'
-tooltip-project-support-type-lend: 'Temporary loan of material needed for the project, or the loan of infrastructure or space during a given period of time. It might also imply permanent loans, that is, gifts :)'
-tooltip-project-support-type-task: 'This collaboration requires a skill in a specific task, either via computer or in person.'
+tooltip-project-cost-type-material: 'Materiais necessários para o projeto, como ferramentas, material de escritório, equipamentos de informática, etc.'
+Estrutura de projeto-tipo-custo-estrutura-ferramenta: 'Investimento em custos que estão ligados a um espaço de escritório ou frente de loja, modo de transporte ou outra infraestrutura básica necessária para levar o projeto à fruição.'
+tasktip-project-cost-type-task: 'Tarefas em que o conhecimento e as habilidades podem ser investidos para desenvolver uma parte do projeto.'
+tooltip-project-support-type-lend: 'Empréstimo temporário de material necessário para o projeto, ou o empréstimo de infraestrutura ou espaço durante um determinado período de tempo. Também pode implicar empréstimos permanentes, isto é, presentes :)'
+tooltip-project-support-type-task: 'Essa colaboração requer uma habilidade em uma tarefa específica, seja via computador ou pessoalmente.'

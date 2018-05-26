@@ -1,31 +1,41 @@
----
-landing-calculate-button: Calculate
-landing-donor-button: Donate
-landing-error-zero: 'The amount for a donation needs to be over 0'
-landing-less-info: 'Read less'
-landing-main-slogan: 'Calculate your tax savings bearing in mind the tax law improvement in 2015'
-landing-more-info: 'Read more'
-landing-more-info-text: '<h4>The new regulation makes it easier for you to donate and contribute pushing forward more projects</h4><p>Until now, your donations to charities and other similar entities payed 25% back in your annual income tax declaration. Starting in 2015, the deduction increases and it will even increase more in 2016. <br><br>The proportional share will vary, not only according to each year, but to how much you donate and when: contributions under or above 150€ over an entire year pay off determined, variable percentages.</p><h4>If repeating with Goteo through, at least, 3 consecutive years… </h4><p>When you collaborate with the same entity over the last 3 years, the deductions are higher*. Your engagement will be rewarded with a higher return this way.</p><hr><p>(*) The limit of deduction over the tax base will stay 10%.<br>Artículo 19 (Deducción de la cuota del Impuesto sobre la Renta de las Personas Físicas) de la ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.</p>'
-landing-real-amount: 'Your real expense will be'
-landing-regular-invest: Donation
-landing-stories-title: 'Thanks to your donation, initiatives like these get funded:'
-landing-target-description: 'Our objective in 2015: getting <strong> over 50% of Goteo’s users to exercise their right to tax benefits</strong> on their donations (in 2014, only 12% did!).'
-landing-taxes-explain: 'Make your donation through <strong>Goteo’s Virtual Wallet</strong>: a recently developed feature that allows you to donate immediately and later decide which projects to support. You will instantly obtain a document by our non profit entity Fundación Goteo, that certifies your donation to the Tax Office.'
-landing-taxes-regional: '<strong>* Important</strong> This fiscal advantages do not apply outside Spain, nor in the Basque Country or Navarra, which maintain a tax deduction of 20% and 25% from the total donation respectively.'
-landing-taxes-title: 'The Tax Office pays you back*:'
-landing-title-banner: 'At Goteo,<br>contributing pays off'
-landing-type-company: Company
-landing-type-person: 'Individual'
-pool-invest-share-discover: 'Discover projects'
-pool-invest-spread-social: 'Just loaded my virtual wallet on #Goteo You also can donate now and share later wherever you want '
-pool-invest-suggest-projects: 'Projects that may interest you'
-pool-make-sure-title: 'Confirm data for the certificate'
-pool-pay-method-title: 'Make your contribution'
-pool-recharge-amount-text: 'You decide what amount you want to charge your virtual wallet with'
-pool-recharge-title: 'Load your virtual wallet'
-pool-share-title: 'Download your certificate and share'
-pool-step-1: Load
-pool-step-2: Payment
-pool-step-3: Certificate
-pool-step-4: Share
-recharge-button: Charge
+---	
+landing-calculate-button:	Calcular
+landing-donor-button:	 Doe
+landing-error-zero:	 'O montante a ser contribuído deve ser maior que 0'
+landing-less-info:	 'Menos informação'
+landing-main-slogan:	 "Calcule sua poupança fiscal graças à melhoria fiscal de 2015"
+landing-more-info:	 'Mais informação'
+landing-more-info-text:	 '<h4> A nova lei permite que você contribua mais e contribuirá para especificar mais projetos </h4><p>Até agora, o que você contribuiu para instituições de caridade e similares foi 25% de desconto em sua declaração de imposto de renda. A partir deste 2015, pode deduzir mais, e ainda mais em 2016. <br><br>As porcentagens dependem não apenas do ano, mas também do quanto contribuem desta forma, para contribuições de um ano inteiro que não excedam 150 R$ porcentagens, e para valores superiores a 150 R$ são outros. </p><h4>e se você repetir com goteo por pelo menos 3 anos ...</h4><p> Se você trabalhou com a mesma entidade nos últimos três anos, os percentuais de redução tarifária são maiores *. Desta forma, sua lealdade é recompensado com um retorno maior. </p><hr><p> (*) O limite de dedução sobre o lucro tributável permanece em 10%.<br> artigo 19 (Dedução a Participação do Imposto de Renda Pessoa Física) da Lei 49/2002, de 23 de dezembro, sobre o regime tributário das entidades sem fins lucrativos e de incentivos fiscais para o mecenato.</p> '
+landing-real-amount:	 'Sua despesa real será'
+landing-regular-invest:	 Contribuição
+landing-spread:	 'Calcule sua dedução fiscal no Goteo! #moosengrain '
+landing-spread-title:	 "Espalhe as vantagens fiscais de Goteo!"
+landing-stories-title:	 'Graças à sua contribuição, iniciativas como'
+landing-subtitle-banner:	 "<span class=\"line\"> Envolvendo-se e interagindo com <strong>Projetos de gotejamento </strong><br><strong>deduzir </strong>entre <strong>27,5%</strong> e um <strong>50%</strong> do valor da sua doação </span> "
+landing-target-description:	 'Nossa meta para 2015 é que <strong> mais de 50% dos usuários do Goteo exerçam seu direito de obter benefícios fiscais </ strong> em suas contribuições (em 2014, apenas 12% o fizeram).'
+landing-target-title:	 'Meta 2018'
+landing-taxes-explain:	 'Faça agora sua contribuição com a <strong> Carteira Goteo </strong>, uma nova funcionalidade que permite que você faça sua doação no momento e decida depois qual projeto alocar. Você obterá instantaneamente um certificado que justifica sua contribuição à Fundação Goteo, uma entidade sem fins lucrativos, perante o Tesouro.'
+landing-taxes-regional:	 '<strong> * Importante </strong> Esta melhoria fiscal não se aplica fora de Espanha, nem ao País Basco nem a Navarra, que mantém uma dedução de 20% e 25%, respectivamente, do total contribuído.'
+landing-taxes-title:	 'Hacienda devolve você'
+landing-title-banner:	 'Em Goteo, você se degrada'
+landing-type-company:	 Negócio
+landing-type-person:	 'Pessoa física'
+pool-alert-recharging:	 'Você está prestes a cobrar sua carteira virtual com'
+pool-amount-first:	 'Você deve indicar um valor maior que 0 para poder cobrar sua bolsa'
+pool-button-download-certificate:	 'Faça o download do seu certificado'
+pool-invest-ok:	 "Sua taxa de carteira virtual foi processada. Faça o download do seu certificado e distribua sua generosidade!"
+pool-invest-share-discover:	 'Descobrir projetos'
+pool-invest-spread-header:	 'Espalhe e ajude-nos a fazer com que mais pessoas usem a carteira virtual do Goteo'
+pool-invest-spread-social:	 'Acabei de carregar minha carteira virtual no #Goteo Você também pode doar agora e contribuir mais tarde onde quiser'
+pool-invest-success-make-sure:	 'Sua carteira virtual foi carregada com sucesso! A partir de agora, toda vez que você contribuir para uma campanha no Goteo, você terá a opção de doar de sua carteira virtual, da qual o valor será subtraído. Você pode recarregá-lo quando quiser.'
+pool-invest-suggest-projects:	 'Projetos que podem lhe interessar'
+pool-make-sure-title:	 'Confirme dados para o certificado'
+pool-pay-method-title:	 'Faça sua contribuição'
+pool-recharge-amount-text:	 'Decida quanto você deseja carregar sua carteira virtual'
+pool-recharge-title:	 'Carregue sua carteira virtual'
+pool-share-title:	 'Faça o download do seu certificado e divulgue'
+pool-step-1:	 Carregando
+pool-step-2:	 Pagamento
+pool-step-3:	 Certificado
+pool-step-4:	 Compartilhar
+recharge-button:	 Upload
