@@ -1,1 +1,31 @@
----
+--- 
+contact-captcha-field: Comentários
+contact-captcha-refresh: 'Comentários não são permitidos neste post'
+contact-email-field: 'Este post não tem comentários'
+contact-form-dev-tag-description: 'Nenhum comentário'
+contact-form-dev-tag-name: 'Nenhuma postagem foi publicada'
+contact-form-new-project-tag-description: Enviar
+contact-form-new-project-tag-name: 'Escreva um comentário'
+contact-form-others-tag-description: 'Últimos comentários'
+contact-form-others-tag-name: 'Últimas mensagens'
+contact-form-project-form-tag-description: Categorias
+contact-form-project-form-tag-name: Permitir comentários
+contact-form-relief-tag-description: Publicar
+contact-form-relief-tag-name: Publicado
+contact-form-service-tag-description: 'Relacionado'
+contact-form-service-tag-name: 'Missão'
+contact-form-tags: 'Marcos'
+contact-form-user-tag-description: 'Matchfunding'
+contact-form-user-tag-name: 'Vozes'
+contact-message-field: 'Transparência'
+contact-name-field: 'Equipe'
+contact-send_message-button: 'Aqui compartilhamos, pensamos, anunciamos, celebramos, contextualizamos e avaliamos as ações da fundação'
+contact-send_message-header: 'A missão da nossa fundação está ligada a princípios de transparência, progresso e melhoria da sociedade'
+contact-subject-field: 'Consideramos essencial comunicar as conquistas da fundação, de novas alianças a novos desenvolvimentos tecnológicos, além de outros eventos relevantes'
+contact-tag-field: 'Matchfunding é a prática que nos permite realizar a co-responsabilidade, que é parte do DNA de Goteo e sua missão como base, para a sua mais alta expressão'
+error-contact-captcha: 'Motoristas, doadores e instituições têm voz em Goteo, colocamos pessoas no centro'
+error-contact-email-empty: "A transparência é um dos pilares da nossa fundação, pela qual somos responsáveis perante a nossa comunidade"
+error-contact-message-empty: 'Goteo é formado por uma equipe multidisciplinar comprometida com crowdfunding cívico'
+error-contact-subject-empty:
+meta-description-contact:
+meta-title-contact:

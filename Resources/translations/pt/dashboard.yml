@@ -1,19 +1,276 @@
----
-api-key-tool-tip: 'Com o seu nome de utilizador e Api Key poderá realizar consultas na nossa API'
-api-key-documentation: 'Ver a documentação da API'
-api-key-user: 'Nome de utilizador'
-api-key-key: 'Palavra-passe'
-api-key-generate-new: 'Gerar uma nova palavra passe'
-api-key-generate-new-confirm: 'Esta acção eliminará a sua palavra passe actual e criará uma nova. Pretende continuar?'
-contract-data_title: 'Dados do contrato'
-dashboard-certificates-confirm: 'Confirmar dados'
-dashboard-certificates-confirm-checkbox: 'Confirmo que estes são os meus dados legais reais e estou consciente de que não vou poder modificá-los depois de confirmados'
-dashboard-certificates-confirmed: Confirmado
-dashboard-certificates-processed: Processado
-dashboard-certificates-confirmed-ok: 'Dados fiscais confirmados correctamente. Se o seu certificado não se descarregar automaticamente, clique %HERE%'
-dashboard-certificates-data-alert: 'Tenha em conta que, uma vez confirmado, não se podem modificar os dados!'
-dashboard-certificates-data-desc: 'Por favor assegure-se de que os dados do formulário são os correctos antes de confirmá-lo'
-dashboard-header-main: 'Dashboard'
-dashboard-menu-projects-rewards: Apoiadores
-dashboard-menu-projects-supports: Colaborações
-dashboard-menu-projects-updates: Novidades
+---:	 
+api-key-no-generated:	'Você ainda não tem uma chave gerada'
+api-key-tool-tip:	 'Com seu usuário e chave de Api você pode fazer consultas à nossa API'
+api-key-documentation:	 'Veja a documentação da API'
+api-key-user:	 'Usuário'
+api-key-key:	 'Clave'
+api-key-generate-new:	 'Gerar uma nova chave'
+api-key-generate-new-confirm:	 'Esta ação irá apagar a chave atual e gerar uma nova chave. Continuar?'
+contract-data_title:	 'Dados do contrato'
+dashboard-certificates-confirm:	 'Confirmar dados'
+dashboard-certificates-confirm-checkbox:	 "Confirmo que esses são meus dados legais reais e estou ciente de que não poderei modificar esses dados depois de confirmados"
+dashboard-certificates-confirmed:	 Confirmado
+dashboard-certificates-processed:	 Processado
+dashboard-certificates-confirmed-ok:	 'Dados fiscais confirmados corretamente, se o seu certificado não for baixado automaticamente, clique em %HERE%'
+dashboard-certificates-data-alert:	 'Note que uma vez confirmada, os dados não podem ser modificados!'
+dashboard-certificates-data-desc:	 'Por favor, verifique se os dados do formulário estão corretos e confirme o formulário'
+dashboard-certificates-data-download-all:	 'Confirme seus certificados para ativar o benefício fiscal. Uma vez feito isso, você pode baixar uma cópia deles. Todos os anos, a Fundación Goteo faz a notificação ao Tesouro de todas as doações confirmadas.'
+dashboard-certificates-data-new-invests:	 'Mas não se preocupe, qualquer nova contribuição que você fizer no DoeJá gerará um novo certificado'
+dashboard-certificates-desc:	 "Esses certificados permitirão que você deduza da sua declaração de imposto de renda se você é um contribuinte Brasileiro."
+dashboard-certificates-details:	 'Ver detalhes'
+dashboard-certificates-details-desc:	 'Lista de contribuições para o certificado %CERT%'
+dashboard-certificates-download:	 'Confirme e faça o download'
+dashboard-certificates-empty:	 'Você deve fazer alguma contribuição para um projeto ou recarregar a carteira virtual para ver seus certificados'
+dashboard-certificates-expired:	 Expirado
+dashboard-certificates-no-pending:	 'Não há contribuição pendente'
+dashboard-certificates-pending:	 Pendente
+dashboard-certificates-pending-desc:	 "Estas são as contribuições que serão incluídas em futuros certificados."
+dashboard-certificates-please-confirm:	 'Você deve marcar a caixa para poder continuar'
+dashboard-certificates-summary:	 'Certificado %ID%, ano %YEAR%'
+dashboard-certificates-too-old:	 'Este certificado é muito antigo e não pode ser modificado. Se você tiver alguma dúvida, entre em contato conosco '
+dashboard-certificates-totals:	 '%NUM% de contribuições, %AMOUNT%'
+dashboard-certificates-unconfirmed:	 'Para baixar este certificado, você deve confirmar os dados primeiro!'
+dashboard-certificates-view-pending:	 'Suas contribuições diretas para projetos que ainda não terminaram a primeira rodada não são mostradas. Você pode verificá-los% AQUI%. <br> As contribuições feitas com a carteira virtual estão incluídas no certificado gerado no momento do pagamento físico. '
+dashboard-certificates-no-invests:	 'Você não pode confirmar o certificado se você não tem contribuições!'
+dashboard-chart-days:	 'HÁ %s DIAS'
+dashboard-chart-invested:	 'FINANCIAMENTO OBTIDO'
+dashboard-chart-investors:	 CO-FINANCIADORES
+dashboard-chart-no-invested:	 'Não há contribuições.'
+dashboard-chart-optimum:	 ótimo
+dashboard-embed_code:	 'CÓDIGO SIMPLES DE DIFUSÃO'
+dashboard-embed_code_investor: 'CÓDIGO COM IMAGEM DE DOADOR'
+dashboard-header-main:	 'Meu painel'
+dashboard-investors-mail-fail:	 'Falha ao enviar a mensagem para %s'
+dashboard-investors-mail-nowho:	 'Nenhum destinatário encontrado'
+dashboard-investors-mail-sendto:	 'Enviado para %s dos seus doadores'
+dashboard-investors-mail-sent:	 'Mensagens enviadas corretamente'
+dashboard-investors-mail-text-required:	 'Escreva a mensagem'
+dashboard-investors_table-disclaimer:	 'O promotor é lembrado que, conforme estabelecido em seu contrato, os dados das pessoas incluídas no arquivo baixado são fornecidos com o único propósito exclusivo de satisfazer as pessoas compensadas as recompensas ou retornos envolvidos no projeto, bem como informar sobre as novidades, avanços e atividades relacionadas ao projeto, ficando absolutamente proibido o uso deles para qualquer outro fim. O não cumprimento desta obrigação capacita a Fundação Goteo a realizar as ações legais correspondentes e a retirar o projeto da plataforma. '
+dashboard-menu-activity:	 'Minha atividade'
+dashboard-menu-activity-apikey:	 'API key'
+dashboard-menu-activity-spread:	 Transmissão
+dashboard-menu-activity-summary:	 Resumo
+dashboard-menu-activity-wall:	 'Minha parede'
+dashboard-menu-admin_board:	 Administração
+dashboard-menu-calls-sponsors:	 Patrocinadores
+dashboard-menu-pool:	 'Minha bolsa'
+dashboard-menu-pool-available:	 Equilíbrio
+dashboard-menu-pool-conditions:	 Condições
+dashboard-menu-profile:	 'Meu perfil'
+dashboard-menu-profile-access:	 'Acessar dados'
+dashboard-menu-profile-location:	 Geolocalização
+dashboard-menu-profile-personal:	 'Dados pessoais'
+dashboard-menu-profile-preferences:	 'Minhas preferências'
+dashboard-menu-profile-profile:	 'Editar Perfil'
+dashboard-menu-profile-public:	 'Perfil público'
+dashboard-menu-projects:	 'Meus projetos'
+dashboard-menu-projects-analytics:	 Analytics
+dashboard-menu-projects-commons:	 Retorna
+dashboard-menu-projects-contract:	 Contrato
+dashboard-menu-projects-social-commitment:	 'Compromisso social'
+dashboard-menu-projects-messegers:	 Participantes
+dashboard-menu-projects-preview:	 'Página pública'
+dashboard-menu-projects-rewards:	 Co-financiadores
+dashboard-menu-projects-summary:	 Resumo
+dashboard-menu-projects-supports:	 Colaborações
+dashboard-menu-projects-updates:	 Notícias
+dashboard-menu-projects-widgets:	 Widget
+dashboard-menu-review_board:	 Revisão
+dashboard-menu-translate_board:	 Tradução
+dashboard-menu-translates:	 'Minhas traduções'
+dashboard-messegers-mail-sendto:	 'Enviado para %s os participantes'
+dashboard-my-wallet-available:	 'Você tem atualmente <span class="pool-amount">%s</span> <span class="pool-desc">na sua carteira Drip</ span>'
+dashboard-my-wallet-contribute-button:	 Doe
+dashboard-my-wallet-modal-pool-info: 'Carteira Trickle é uma característica da nossa plataforma que permite que você faça a sua doação e então decidir qual a supervisão do projeto.<br> <p>As doações feitas através da nossa plataforma são dedutíveis, de acordo com a Lei 49 / 2002, de 23 de dezembro, regime tributário de entidades sem fins lucrativos e incentivos fiscais para mecenato.</p> <p>Ao fazer sua doação, você pode baixar um certificado de doação que justifique sua contribuição ao Tesouro. Uma entidade sem fins lucrativos Você pode acessar um histórico dos certificados disponíveis associados às suas doações no Goteo em seu painel de usuários, especificamente na seção <a href="/ dashboard / wallet / certificate " target=" _blank">certificado</a> doação. </p><p> NOTA IMPORTANTE lembramos que todas as contribuições para o qual tenha obtido um certificado de doação de nossa Fundação não são devolvidos. Isto significa que se você fez um uma doação vinculada a um projeto específico dentro de nossa plataforma e isso não atingir seu objetivo mínimo de financiamento durante sua campanha, sua contribuição irá para sua carteira, mas não retornará a sua conta corrente. No entanto, você pode gastar esse montante de sua carteira virtual Goteo.org qualquer outro projeto ativo que você deseja no momento que você escolher, sem ter que re-introduzir o seu banco ou dados PayPal.</p>'
+dashboard-my-wallet-pool-info:	 'Mais informações sobre o uso de sua bolsa'
+dashboard-no-projects:	 'Você não tem projeto, você pode criar um <a href="/project/create">aqui</a>'
+dashboard-password-recover-advice:	 'Certifique-se de redefinir sua senha'
+dashboard-project-analytics-fail:	 "Ocorreu um erro ao salvar seus identificadores para análise"
+dashboard-project-analytics-ok:	 'Seus identificadores para análise foram salvos corretamente'
+dashboard-project-blog-fail:	 'Contate-nos *'
+dashboard-project-blog-inactive:	 'Desculpe, a publicação de novos recursos neste projeto está desativado'
+dashboard-project-blog-empty:	 "Não há publicações ainda."
+dashboard-project-blog-wrongstatus:	 'Desculpe, você não pode publicar novos recursos neste projeto ainda ...'
+dashboard-project-delete:	 Excluir o projeto
+dashboard-project-delete_alert:	 "Você tem certeza que quer eliminar completamente e definitivamente este projeto?"
+dashboard-project-delete-no-perms:	 'Você não tem permissão para excluir este projeto'
+dashboard-project-delete-ko:	 'O projeto %s não pôde ser deletado!'
+dashboard-project-delete-ok:	 'O projeto %s foi completamente eliminado'
+dashboard-project-updates-delete_fail:	 'Erro ao excluir a entrada'
+dashboard-project-updates-deleted:	 'Entrada excluída'
+dashboard-project-updates-fail:	 "Houve um problema ao salvar os dados"
+dashboard-project-updates-inserted:	 'Uma nova entrada foi adicionada'
+dashboard-project-updates-noblog:	 'Nenhum blog encontrado para este projeto'
+dashboard-project-updates-nopost:	 'A entrada não foi encontrada'
+dashboard-project-updates-postcorrupt:	 'A entrada está corrompida, entre em contato'
+dashboard-project-updates-saved:	 'A entrada foi atualizada corretamente'
+dashboard-project-updates-add:	 'Novo post'
+dashboard-project-updates-editing:	 'Editando postagem'
+dashboard-project-updates-translating:	 'Traduzindo post'
+dashboard-project-updates-sent-to-investors:	 'Um email foi enviado para todos os co-financiadores com o conteúdo deste post.'
+dashboard-project-updates-sent-to-investors-error:	 'Nenhum email foi enviado para os co-financiadores %s'
+dashboard-project-updates-sent-reason-no-investors:	 'Não há co-financiadores ainda!'
+dashboard-project-updates-sent-reason-no-unique:	 'Um email com este post foi enviado anteriormente!'
+dashboard-project-updates-sent-reason-too-old:	 "A data de postagem é muito antiga!"
+dashboard-rewards-address:	 'Endereço de entrega'
+dashboard-rewards-all_filter:	 Todos
+dashboard-rewards-amount_group:	 'Contribuições de'
+dashboard-rewards-amount_order:	 'Por quantia'
+dashboard-rewards-choosen:	 'Recompensas esperadas'
+dashboard-rewards-date_order:	 'Por data'
+dashboard-rewards-fulfilled_filter:	 Realizados
+dashboard-rewards-fulfilled_status:	 Realizado
+dashboard-rewards-group_msg:	'mensagem para esse grupo'
+dashboard-rewards-investors_table:	 'Se quiser gerenciá-lo off-line, você pode <a href="%URL%">remover a tabela "Co-financiers"</a>'
+dashboard-rewards-issue:	 Incidência!
+dashboard-rewards-massive_msg:	 'Mensagens coletivas'
+dashboard-rewards-massive_msg-all:	 'Para todos os co-financiadores deste projeto'
+dashboard-rewards-massive_msg-all_alert:	 'todo mundo é todo mundo, não leva em conta o restante do marcado'
+dashboard-rewards-notice:	 'Esta é uma opções de visualização de escolher o seu COFINANCERS RETORNO. <br>NENHUM RETORNO têm de gerir ÀQUELES menos ter atingido o montante desejado'
+dashboard-rewards-num_taken:	 'Comprometido'
+dashboard-rewards-pending_filter:	 Pendentes
+dashboard-rewards-pending_status:	 Pendente
+dashboard-rewards-process:	 'Aplicar marcado'
+dashboard-rewards-process_alert:	 'Olho! Ao marcar como preenchido, não pode ser desmarcado. Nós continuamos?'
+dashboard-rewards-resign_filter:	 Doações
+dashboard-rewards-resigns:	 'Renúncia da recompensa'
+dashboard-rewards-reward_order:	 'Por retorno'
+dashboard-rewards-thanks:	 'Reconhecimento / Doação'
+dashboard-rewards-user_msg:	 'Individual a'
+dashboard-rewards-user_order:	 'Por usuário'
+dashboard-translate-doing_call:	 'Você está traduzindo a chamada <strong>%s</strong>. O idioma original é <strong>%s</strong> '
+dashboard-translate-doing_node:	 'Você está traduzindo o nó <strong>%s</strong>. A língua original é <strong>português</strong> '
+dashboard-translate-doing_profile:	 "Você está traduzindo seu perfil pessoal."
+dashboard-translate-doing_project:	 'Você está traduzindo o projeto <strong>%s</strong>. O idioma original é <strong>%s</strong> '
+dashboard-translate-select_call:	 'Selecionar chamada para traduzir'
+dashboard-translate-select_node:	'Selecionar nó para traduzir'
+dashboard-translate-select_profile:	 'Vá para traduzir seu perfil pessoal'
+dashboard-translate-select_project:	 'Selecione o projeto para traduzir'
+form-project_waitfor-campaing:	 "Espalhe seu projeto, ajude você a conseguir mais contribuições!"
+form-project_waitfor-cancel:	 "Finalmente, rejeitamos a proposta de publicá-lo em Goteo, nós convidamos você a experimentá-lo com outra idéia ou conceito."
+form-project_waitfor-edit:	 'Quando você tiver pronto, envie para rever. Você precisa obter um mínimo de informações sobre o projeto no formulário.'
+form-project_waitfor-expired:	 'Você não entendeu (Tente melhorar e tente novamente!'
+form-project_waitfor-fulfilled:	 "Você cumpriu as devoluções. Obrigado pela sua participação!"
+form-project_waitfor-review:	 'Entraremos em contato com você em breve sobre o projeto, uma vez que o processo de revisão seja realizado. Então vamos publicá-lo ou sugeriremos coisas para melhorá-lo.'
+form-project_waitfor-success:	 'Você obteve o mínimo ou mais em contribuições de co-financiamento para o projeto. Em breve entraremos em contato para falar sobre dinheiro) '
+guide-dashboard-user-location:	 'O sistema usa esses dados para geolocalizar você'
+guide-dashboard-user-preferences:	 'Marcar "Sim" nas notificações automáticas que você deseja bloquear'
+guide-dashboard-user-profile:	 "Se você quer apresentar um projeto como merge como co-financiador/a, para se juntar à comunidade de gotejamento recomendamos que você preste atenção ao seu texto de apresentação, você adicionar links relevantes sobre o que fazer e fazer upload de uma foto do seu perfil com isso você se identifica."
+guide-user-data:	 'Guia de texto na edição de campos sensíveis.'
+user-changeemail-success:	 'O email foi alterado com sucesso.'
+user-changeemail-title:	 'Alterar e-mail'
+user-changepass-confirm:	 'Confirme a nova senha'
+user-changepass-new:	 'Nova senha'
+user-changepass-old:	 'Senha atual'
+user-changepass-title:	 'Alterar senha'
+user-email-change-sent:	 'Enviámos-lhe um email para confirmar a alteração do endereço de email'
+user-password-changed:	 'Você mudou sua senha'
+user-personal-saved:	 'Informação pessoal atualizada'
+user-prefer-saved:	 'Suas preferências de notificação foram salvas corretamente'
+user-preferences-comcurrency:	 'Moeda onde você prefere ver os valores'
+user-preferences-comlang:	 'Idioma em que você prefere receber notificações'
+user-preferences-currency:	 'Moeda onde você prefere ver os valores'
+user-preferences-email:	 'Esconda o meu email para os projetos que eu apoio'
+user-preferences-mailing:	 'Desativar o envio de newsletters'
+user-preferences-rounds:	 'Desativar notificações de progresso dos projetos que eu apoio'
+user-preferences-threads:	 'Desativar notificações de respostas nas mensagens que inicio'
+user-preferences-tips:	 'Desativar o envio de conselhos de difusão de campanha (para promotores)'
+user-preferences-updates:	 'Desativar notificações de notícias sobre os projetos que eu apoio'
+user-profile-saved:	 'Informação do perfil atualizado'
+user-save-fail:	 "Houve um problema ao salvar os dados"
+dashboard-modal-url-success-msg:	 "O URL foi atualizado corretamente"
+dashboard-add-new-share-material:	 'Novo material'
+dashboard-edit-share-material-url:	 'Editar URL'
+dashboard-modal-edit-url:	 'Url onde o material compartilhado está localizado'
+dashboard-modal-placeholder-edit-url:	 'Url'
+dashboard-new-material-form-success:	 'O novo material compartilhado foi adicionado corretamente.'
+dashboard-new-material-form-material:	 'Material'
+dashboard-new-material-form-description:	 'Descrição'
+dashboard-new-material-form-url:	 'URL'
+dashboard-new-material-form-type:	 'Tipo de material'
+dashboard-new-material-form-license:	 'Licença do material'
+dashboard-menu-projects-shared-materials:	 'Materiais'
+project-no-share-material:	 'Não há materiais compartilhados pelo projeto'
+dashboard-project-images-desc:	 Organize as imagens como quiser arrastando e soltando entre as zonas.
+dashboard-project-default-image:	 'Imagem padrão'
+dashboard-project-delete-image:	 'Excluir arquivo'
+dashboard-project-delete-image-confirm:	 'Tem certeza de que deseja excluir este arquivo?'
+dashboard-project-delete-default-image:	 "A imagem padrão não pode ser excluída.\nEscolha outra imagem padrão antes de excluí-la."
+dashboard-project-dnd-image:	 'Arraste e solte uma ou mais imagens aqui'
+dashboard-project-dnd-file:	 'Arraste e solte um ou mais arquivos aqui'
+dashboard-project-image-delete-ko:	 'A imagem não pode ser excluída!'
+project-upload-images-some-ko:	 'Algumas imagens não foram carregadas!'
+dashboard-project-default-image-confirm:	'Você quer colocar essa imagem padrão do projeto?'
+dashboard-project-image-default-ko:	 'Não é possível colocar a imagem padrão!'
+dashboard-project-image-reorder-ko:	 'As imagens não podem ser classificadas!'
+dashboard-project-send-to-markdown:	 "Digite esta imagem no texto"
+dashboard-max-files-reached:	 "Você atingiu o número máximo de arquivos!"
+dashboard-file-type-error:	 "Este tipo de arquivo não é permitido!"
+all-files-uploaded:	 "Todos os arquivos foram enviados corretamente"
+uploaded-ok:	 "Enviado corretamente"
+publish-confirm-yes:	 "Você quer publicar este post?"
+publish-confirm-no:	 "Você quer cancelar a publicação deste post?"
+dashboard-project-support-empty:	 'Não há pedido de colaboração ainda.'
+dashboard-project-support-responses:	 Respostas
+dashboard-project-support-no-responses:	 "Não há respostas ainda."
+dashboard-project-support-add:	 'Adicionar um novo pedido de colaboração'
+dashboard-search-invests-totals:	 'Nesta pesquisa %TOTAL_INVESTS% de contribuições de %TOTAL_USERS% usuários. Total de %TOTAL_AMOUNT% '
+dashboard-search-invests-msg:	 'Envie uma mensagem para os co-financiadores desta pesquisa'
+dashboard-project-filter-by-reward:	 'Filtrar por recompensa'
+dashboard-project-filter-by-others:	 'Outros filtros'
+dashboard-project-filter-by-donative:	 'Veja apenas aqueles que renunciam a recompensa'
+dashboard-project-filter-by-nondonative:	 "Esconda aqueles que renunciam a recompensa"
+dashboard-project-filter-by-drop:	 'Veja apenas as contribuições do matchfunding'
+dashboard-project-filter-by-nondrop:	 'Ocultar contribuições do matchfunding'
+dashboard-project-filter-by-pending:	 'Veja apenas as encostas'
+dashboard-project-filter-by-fulfilled:	 'Veja só completou'
+dashboard-project-no-invests:	 'Não há contribuições para este critério de pesquisa'
+dashboard-new-message-to-donors:	 'Nova mensagem para co-financiadores'
+dashboard-message-donors-reward:	 'Os cofinanciadores com a recompensa %s'
+dashboard-message-donors-donors:	 'Todos os co-financiadores que'
+dashboard-message-donors-and:	 'e que também'
+dashboard-message-donors-donative:	 'renunciar a recompensa'
+dashboard-message-donors-nondonative:	 'eles escolheram com alguma recompensa'
+dashboard-message-donors-pending:	 'estão pendentes'
+dashboard-message-donors-fulfilled:	 'eles estão completos'
+dashboard-message-donors-error:	 'Não há destinatários válidos, você não pode enviar a mensagem'
+dashboard-message-donors-total:	 '%s doadores'
+dashboard-message-no-message:	 "Você ainda não tem mensagem."
+dashboard-message-threads:	 'Você tem% s tópicos de mensagens'
+dashboard-mails-no-mails:	 'Você não tem comunicação enviada ainda.'
+dashboard-mail-mailing:	 'Comunicações'
+dashboard-mail-sent-mails:	 'Comunicações enviadas para %s'
+dashboard-mail-sent-mails-desc:	 'Estas são as últimas comunicações enviadas para o seu email pessoal. <br><em>OBSERVAÇÃO As comunicações antigas são excluídas automaticamente.</em>'
+dashboard-rewards-my-invests:	 'Minhas doações'
+dashboard-rewards-no-invests:	 'Você ainda não fez nenhuma doação.'
+dashboard-rewards-invests-totals:	 'Este é o seu histórico de doações e recompensas. <br>%TOTAL% têm contribuído para um valor total de <strong>%RAISED%</strong>, este montante terá retornado <strong>%RETURNED%</strong> (para sua carteira virtual ou para sua conta bancária) devido a projetos que não atingiram seu objetivo. '
+dashboard-rewards-invests-wallet:	 'Além disso, na sua carteira virtual, você tem <strong>%AMOUNT%</strong> que pode usar a qualquer momento.'
+dashboard-translate-profile:	 'Traduzir perfil'
+dashboard-translate-profile-desc:	 'Você está traduzindo seu perfil pessoal para %LANG%. Os usuários que visitarem seu perfil pessoal neste idioma verão essa tradução. Os outros idiomas exibirão os <a href="%URL%">dados padrão</a>, a menos que eles também tenham uma tradução atribuída. '
+dashboard-translate-profile-ok:	 'Perfil traduzido corretamente para %s'
+dashboard-translate-project:	 'Traduzir o projeto'
+dashboard-translate-empty:	 'Ainda não há traduções.'
+dashboard-translate-project-empty:	 'Ainda não há traduções para este projeto.'
+dashboard-translate-project-currents:	 'O idioma original deste projeto é %LANG% e é traduzido para %NUM% idiomas'
+dashboard-translate-project-translating:	 'Você está traduzindo este projeto para %LANG%. O idioma original é %ORIGINAL%.'
+dashboard-translate-project-ok:	 '%ZONE% traduzido corretamente para %LANG%'
+dashboard-project-updates-translate-ok:	 'Postar %TITLE% traduzido corretamente para %LANG%'
+dashboard-project-updates-translating-post:	 'Você está traduzindo este post para %LANG%. O idioma original é %ORIGINAL%.'
+dashboard-translate-overview:	 'Traduzir os principais custos do projeto de dados'
+dashboard-translate-costs:	 'Traduza os custos do projeto'
+dashboard-translate-rewards:	 'Traduza as recompensas do projeto'
+dashboard-translate-supports:	 'Traduzir as colaborações do projeto'
+dashboard-project-support-translate-ok:	 'Entrada de suporte %TITLE% traduzida corretamente para %LANG%'
+dashboard-project-support-translating:	 'Você está traduzindo esta entrada de suporte para %LANG%. O idioma original é %ORIGINAL%.'
+dashboard-project-saved:	 'Projeto atualizado corretamente'
+dashboard-project-is-dead:	 'O projeto está arquivado e não pode ser editado'
+dashboard-project-not-alive-yet:	 'Esta seção estará disponível quando seu projeto entrar na campanha'
+dashboard-project-not-funded-yet:	 'Esta seção estará disponível quando seu projeto terminar a campanha com sucesso'
+dashboard-project-reward-cannot:	 'Agora você não pode introduzir novas recompensas. Durante a campanha é possível introduzir novas recompensas (mas não excluir as que já existem) '
+dashboard-project-add-translations:	 "Nesse meio tempo, você pode adicionar traduções ao seu projeto se achar que isso ajudará a aumentar sua visibilidade."
+dashboard-project-goto-first-error:	 'Ir para o primeiro erro'
+dashboard-origin-project-referer:	 'Origem das visitas à página do projeto'
+dashboard-origin-invests-referer:	 'Origem das visitas em contribuições bem sucedidas'
+dashboard-origin-project-device:	 'Dispositivo usado na página do projeto'
+dashboard-origin-invests-device:	 'Dispositivo usado em contribuições bem-sucedidas'
+dashboard-origin-disclaimer:	 '⚠ * Esses dados são aproximados e não incluem todas as visitas devido a limitações técnicas. *> Recomendamos que você configure o Google Analytics ou o Facebook Pixel para ter dados mais detalhados'

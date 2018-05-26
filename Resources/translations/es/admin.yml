@@ -117,7 +117,6 @@ admin-list: Listado
 admin-stats: Estadísticas
 admin-list-total: 'Total: <strong>%s</strong> resultados'
 admin-search-global: 'Proyecto, canal, convocatoria...'
-
 admin-already-impersonating: 'Ya estas suplantando un usuario, por favor cierra primero la sesión!'
 admin-rebase-user: 'Cambiar el ID de usuario'
 admin-edit-name: 'Cambiar el nombre'
@@ -136,7 +135,6 @@ admin-mailing: 'Mailing'
 admin-user-no-mailing: 'No se le ha enviado ningún email todavía'
 admin-view-user-mailing: 'Todos los envíos'
 admin-role-change-forbidden: 'No tienes permiso para gestionar el rol %ROLE% en este usuario'
-
 admin-users-global-search: 'Id, nombre, email o proyecto'
 admin-title-id: Id
 admin-title-name: Nombre
@@ -149,15 +147,12 @@ admin-title-avatar: Avatar
 admin-title-roles: Roles
 admin-title-amount: Invertido
 admin-title-info: Info
-
 admin-all-project-referers: 'Origen de visitas en los proyectos'
 admin-all-invests-referers: 'Origen de visitas en los aportes a proyectos'
 admin-all-call-referers: 'Origen de visitas a las convocatorias'
 admin-all-project-devices: 'Dispositivo usado en las páginas de proyectos'
 admin-all-invests-devices: 'Dispositivo usado en los aportes a proyectos'
 admin-all-call-devices: 'Dispositivo usado en las páginas de convocatorias'
-
-
 admin-aggregate-autoupdate: 'Auto-update'
 admin-aggregate-timeline: 'Línea de tiempo'
 admin-aggregate-invests: 'Total de aportes'
@@ -170,8 +165,6 @@ admin-aggretate-projects-format: '%CURRENCY% %VALUE% - %TOTAL% projects'
 admin-aggregate-projects-desc: 'Suma de aportes por unidad de tiempo'
 admin-aggregate-projects-average: 'Media recaudación en proyectos'
 admin-aggregate-projects-average-desc: 'Media de recaudación por unidad de tiempo'
-
-
 admin-stats-invest-totals: 'Aportes y comisiones'
 admin-stats-project-totals: 'Estado de los proyectos'
 admin-stats-raised: 'Ingresos brutos'
@@ -180,7 +173,6 @@ admin-stats-refunded: 'Devoluciones'
 admin-stats-fees: 'Comisión plataforma'
 admin-stats-commissions: 'Comisión banco'
 admin-stats-matchfunding: 'Matchfunding'
-
 admin-stats-raised-method: 'Ingresos brutos segun método de pago'
 admin-stats-raised-method-desc: 'Los ingresos brutos incluyen todo el dinero que se ha cobrado por la plataforma en algun momento (se incluyen los aportes a proyectos fallidos, además de los aportes directos al monedero o provenientes de proyectos fallidos con retorno al monedero).<br><em>No se incluyen los aportes provenientes del monedero</em> (a menos que se escoja ese medio de pago)</b>'
 admin-stats-active-method: 'Ingresos netos segun método de pago'
@@ -205,14 +197,11 @@ admin-stats-to_fee-percent: 'Comisión efectiva'
 admin-stats-in_wallet: 'En el monedero'
 admin-stats-in_matcher_wallet: 'En el monedero de Matchers'
 admin-stats-in_users_wallet: 'En el monedero de usuarios'
-
 admin-stats-matchfunding-global: 'Influencia Matchfunding'
-
 admin-stats-refunded-parts: 'Desglose de devoluciones'
 admin-stats-fees-parts: 'Desglose de comisiones'
 admin-stats-invest-active-parts: 'Destino ingresos netos'
 admin-stats-invest-in_wallet-parts: 'Desglose del monedero'
-
 admin-losts: Pèrdidas
 admin-raised: Recaudado
 admin-active: Cobrado
@@ -230,7 +219,6 @@ admin-the_day: El día
 admin-the_week: La semana
 admin-the_month: El mes
 admin-the_year: El año
-
 admin-custom: Segun filtro
 admin-total: Total
 admin-today: Hoy
@@ -244,10 +232,6 @@ admin-last_month_complete: Todo el mes pasado
 admin-year: Este año
 admin-last_year: El mismo día del año pasado
 admin-last_year_complete: Todo el año pasado
-
-
-
-
 admin-projects-created-today: 'Creados hoy'
 admin-projects-created-yesterday: 'Creados ayer'
 admin-projects-created-week: 'Creados esta semana'
@@ -256,7 +240,6 @@ admin-projects-created-month: 'Creados este mes'
 admin-projects-created-last_month: 'Creados el mes pasado'
 admin-projects-created-year: 'Creados este año'
 admin-projects-created-last_year: 'Creados el año pasado'
-
 admin-projects-negotiating-today: 'En negociación hoy'
 admin-projects-negotiating-yesterday: 'En negociación ayer'
 admin-projects-negotiating-week: 'En negociación esta semana'
@@ -265,7 +248,6 @@ admin-projects-negotiating-month: 'En negociación este mes'
 admin-projects-negotiating-last_month: 'En negociación el mes pasado'
 admin-projects-negotiating-year: 'En negociación este año'
 admin-projects-negotiating-last_year: 'En negociación el año pasado'
-
 admin-projects-published-today: 'Publicados hoy'
 admin-projects-published-yesterday: 'Publicados ayer'
 admin-projects-published-week: 'Publicados esta semana'
@@ -289,7 +271,6 @@ admin-projects-review-month: 'En revisión este mes'
 admin-projects-review-last_month: 'En revisión el mes pasado'
 admin-projects-review-year: 'En revisión este año'
 admin-projects-review-last_year: 'En revisión el año pasado'
-
 admin-invest-raised-amount-today: 'Recaudado hoy'
 admin-invest-raised-total-today: 'Donaciones hoy'
 admin-invest-raised-amount-yesterday: 'Recaudado ayer'
@@ -336,7 +317,6 @@ admin-invest-commissions-paypal-month: 'Comisión Paypal este mes'
 admin-invest-commissions-paypal-last_month: 'Comisión Paypal el mes pasado'
 admin-invest-commissions-paypal-year: 'Comisión Paypal este año'
 admin-invest-commissions-paypal-last_year: 'Comisión Paypal el año pasado'
-
 admin-invest-fees-today: 'Comisión Goteo hoy'
 admin-invest-fees-yesterday: 'Comisión Goteo ayer'
 admin-invest-fees-week: 'Comisión Goteo esta semana'
@@ -345,12 +325,10 @@ admin-invest-fees-month: 'Comisión Goteo este mes'
 admin-invest-fees-last_month: 'Comisión Goteo el mes pasado'
 admin-invest-fees-year: 'Comisión Goteo este año'
 admin-invest-fees-last_year: 'Comisión Goteo el año pasado'
-
 admin-invest-diff-yesterday: 'Diferencia con el día anterior'
 admin-invest-diff-last_week: 'Diferencia con la semana anterior'
 admin-invest-diff-last_month: 'Diferencia con el mes anterior'
 admin-invest-diff-last_year: 'Diferencia con el año anterior'
-
 admin-stats-projects-channel-desc: 'Proyectos que pertenecen al canal (o nodo)'
 admin-stats-projects-call-desc: 'Proyectos que pertenecen a la convocatoria'
 admin-stats-projects-matcher-desc: 'Proyectos que están activos en el matcher'

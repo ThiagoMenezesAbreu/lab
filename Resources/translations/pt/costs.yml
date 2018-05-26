@@ -1,1 +1,42 @@
----
+--- 
+cost-type-lend: Empréstimo
+cost-type-material: Material
+cost-type-structure: Infraestrutura
+cost-type-task: Tarefa
+costs-field-amount: Valor
+costs-field-cost: Despesa
+costs-field-date_from: De
+costs-field-date_until: Até que
+costs-field-dates: Datas
+costs-field-description: Descrição
+costs-field-required_cost: 'Esta despesa é'
+costs-field-required_cost-no: Complementar
+costs-field-required_cost-yes: Necessário
+costs-field-resoure: 'Outros recursos'
+costs-field-schedule: 'Agendamento de tarefas'
+costs-field-type: Digite
+costs-fields-main-title: 'Desagregação de despesas'
+costs-fields-metter-title: 'Visão das despesas'
+costs-fields-resources-title: Recursos
+costs-main-header: 'Despesas'
+mandatory-cost-field-amount: 'Você deve atribuir um montante às despesas'
+mandatory-cost-field-description: 'Você deve adicionar uma descrição para as despesas'
+mandatory-cost-field-name: 'Você deve rotular as despesas'
+mandatory-cost-field-task_dates: 'Você deve especificar a data aproximada para a tarefa'
+mandatory-project-field-resource: 'Você deve especificar se você tem ou não outros recursos para extrair de'
+mandatory-project-resource: 'Você deve especificar se você tem ou não outros recursos para extrair de'
+mandatory-project-total-costs: 'Você deve especificar uma despesa'
+step-4: Despesas
+step-costs: 'Etapa Projeto / Despesas'
+tooltip-project-cost-amount: Especifique o montante em euros para cada despesa. Não use pontos nem vírgulas para marcar os milhares, ok?
+tooltip-project-cost-cost: 'Digite o título mais descritivo possível para esta despesa'
+tooltip-project-cost-dates: 'Dê um prazo para quando a tarefa será concluída ou a despesa será coberta. Planeje-o começando pelo menos dois meses a partir de agora, já que você deve levar em conta o tempo necessário para revisar a proposta, divulgá-la se for escolhida e os 40 dias do primeiro financiamento. Não inclua peças que foram desenvolvidas anteriormente, mesmo que sejam boas para explicar na descrição do seu projeto. Queremos apenas que as coisas estejam dentro do cronograma que você precisa fazer e pelas quais você está solicitando cofinanciamento.'
+tooltip-project-cost-description: 'Explique resumidamente em que consiste essa despesa.'
+tooltip-project-cost-required: 'Esta seção é muito importante para cada despesa que você entra, você tem que indicar se é absolutamente necessário ou apenas suplementar. Todas as despesas marcadas como necessárias serão adicionadas para obter o valor total do financiamento mínimo necessário para o projeto. A soma das despesas suplementares, ao contrário, pode ser solicitada durante a segunda rodada de financiamento, depois de obter os fundos "necessários".'
+tooltip-project-cost-type: 'Aqui você deve especificar o tipo de despesa relacionada a uma tarefa (algo que requer habilidade ou conhecimento de alguém), obtenção de material (materiais de consumo, matérias-primas) ou infraestrutura (espaços, equipamentos, móveis)'
+tooltip-project-costs: "Quanto mais precisamente você dividir as despesas, melhor o Goteo poderá avaliar as informações gerais sobre o seu projeto."
+tooltip-project-resource: 'Note-se aqui se você está contando com recursos adicionais, para além daqueles que you''re pedindo, a fim de realizar este fontes do projeto de financiamento, os seus próprios recursos, ou talvez you''ve Reunidos Já alguns materiais. Isso pode ser atraente para potenciais co-financiadores do seu projeto.'
+tooltip-project-totals: 'Este gráfico mostra a soma das despesas essenciais (o mínimo necessário para concluir o projeto) e a soma das despesas secundárias (valor ótimo) para as duas rodadas de financiamento. A primeira rodada dura 40 dias, para obter o mínimo essencial. Somente aqueles que atingem este nível de financiamento podem optar por continuar com o segundo turno, por um período adicional de 40 dias, a fim de atingir o montante ideal de recursos. Na segunda rodada (em contraste com a primeira), você obtém tudo o que você criou mesmo que você não alcance o objetivo completo. '
+validate-cost-field-dates: Especifique a data inicial e final da despesa para avaliar melhor o projeto.
+validate-project-costs-any_error: 'Alguma informação está faltando na repartição da despesa'
+validate-project-field-costs: "Recomendamos que você divida pelo menos 5 despesas diferentes para facilitar a avaliação do seu projeto para ver se ele deve ser publicado no Goteo."

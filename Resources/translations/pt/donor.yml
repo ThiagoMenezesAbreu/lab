@@ -1,1 +1,27 @@
 ---
+dashboard-activity-donor-header:	 "Dados fiscais para obter o certificado de doação"
+dashboard-donor-confirm_button:	 'Fechar dados e emitir certificado'
+dashboard-donor-confirm_closed:	 'O período de confirmação de dados fiscais para o certificado %s está fechado'
+dashboard-donor-confirm_data:	 'Os dados fiscais dessa doação não podem mais ser modificados. Pressionar CONFIRMAR confirma a autenticidade deles. '
+dashboard-donor-confirm_succes:	 'Você confirmou a validade dos seus dados. Obrigado!'
+dashboard-donor-confirmed:	 'Você já confirmou os dados fiscais para o certificado %s. Se você detectou um erro em seus dados, entre em contato com o e-mail donate@goteo.org '
+dashboard-donor-download_certificate:	 'Baixe o certificado'
+dashboard-donor-edit_data:	 'Modificar dados'
+dashboard-donor-edit_guide:	 'Preencha os dados que você deseja que apareçam no certificado. Depois de baixar o arquivo, esses dados não podem ser modificados.'
+dashboard-donor-main_guide:	 'Após o ano até 15 de janeiro, os dados podem ser confirmados. Até julho você pode baixar o certificado.<br> Para este ano à partir de julho, você pode confirmar os dados e baixar o certificado. '
+dashboard-donor-mandatory:	 'PREENCHIMENTO OBRIGATÓRIO DE DADOS FISCAL'
+dashboard-donor-no_donor:	 'Seu certificado de doação de %s ainda não está disponível'
+dashboard-donor-pdf_closed:	 'Os dados fiscais para o certificado de doação %s não estão confirmados, não pode ser baixado'
+dashboard-donor-save_fail:	 "Houve algum erro na gravação dos dados, por favor, verifique-os e se você persistir entre em contato conosco."
+dashboard-donor-saved:	 'Obrigado por modificar seus dados. Para baixar o certificado, verifique se eles estão corretos. Em seguida, valide-os com o botão Fechar dados.'
+dashboard-menu-activity-donor:	 'Certificado de doação'
+donor-address-country-field:	 País
+donor-address-location-field:	 Estado
+donor-field-amount:	 'Valor da doação'
+donor-field-amount-relief:	 Eliminação
+donor-field-lot-relief:	 Seção
+donor-field-numproj:	 'Contribuições feitas %s'
+personal-field-donor_name:	 'Nome'
+personal-field-donor_surname:	 'Primeiro sobrenome'
+personal-field-donor_surname2:	 'Segundo sobrenome'
+validate-donor-mandatory:	 'Todos os campos são obrigatórios'

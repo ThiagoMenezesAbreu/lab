@@ -1,1 +1,28 @@
----
+---: 
+blog-coments-header: Comentários
+blog-comments_no_allowed: 'Comentários não são permitidos neste post'
+blog-comments_no_comments: 'Este post não tem comentários'
+blog-no_comments: 'Nenhum comentário'
+blog-no_posts: 'Nenhuma postagem foi publicada'
+blog-send_comment-button: Enviar
+blog-send_comment-header: 'Escreva um comentário'
+blog-side-last_comments: 'Últimos comentários'
+blog-side-last_posts: 'Últimas mensagens'
+blog-side-tags: Categorias
+blog-allow-comments: Permitir comentários
+blog-publish: Publicar
+blog-published: Publicado
+blog-related-posts: 'Relacionado'
+blog-section-mission: 'Missão'
+blog-section-milestones: 'Marcos'
+blog-section-matchfunding: 'Matchfunding'
+blog-section-voices: 'Vozes'
+blog-section-transparency: 'Transparência'
+blog-section-team: 'Equipe'
+blog-main-description: 'Aqui compartilhamos, pensamos, anunciamos, celebramos, contextualizamos e avaliamos as ações da fundação'
+blog-section-mission-description: 'A missão da nossa fundação está ligada a princípios de transparência, progresso e melhoria da sociedade'
+blog-section-milestones-description: 'Consideramos essencial comunicar as conquistas da fundação, de novas alianças a novos desenvolvimentos tecnológicos, além de outros eventos relevantes'
+blog-section-matchfunding-description: 'Matchfunding é a prática que nos permite realizar a co-responsabilidade, que é parte do DNA de Goteo e sua missão como base, para a sua mais alta expressão'
+blog-section-voices-description: 'Motoristas, doadores e instituições têm voz em Goteo, colocamos pessoas no centro'
+blog-section-transparency-description: "A transparência é um dos pilares da nossa fundação, pela qual somos responsáveis perante a nossa comunidade"
+blog-section-team-description: 'Goteo é formado por uma equipe multidisciplinar comprometida com crowdfunding cívico'

@@ -1,1 +1,26 @@
 ---
+discover-group-all-header: 'Campanha em progresso'
+discover-group-archive-header: Arquivado
+discover-group-fulfilled-header: 'Retorno coletivo approvado!'
+discover-group-others-header: 'In other nodes'
+discover-group-outdate-header: 'Sobre expirar'
+discover-group-popular-header: 'Mais popular'
+discover-group-recent-header: 'Recente'
+discover-group-success-header: 'Successo'
+discover-patron-header: '<span class="greenblue">%s</span> recomendado<br>estes <span class="red">projetos</span>'
+discover-results-empty: 'Não encontramos nenhum projeto que corresponda aos seus critérios de pesquisa'
+discover-results-header: 'Pesquisar resultados'
+discover-searcher-button: Pesquisar
+discover-searcher-bycategory-all: TODOS
+discover-searcher-bycategory-header: 'Por categoria:'
+discover-searcher-bycontent-header: 'Por conteúdo:'
+discover-searcher-bylocation-all: TODOS
+discover-searcher-bylocation-header: 'Por localização:'
+discover-searcher-byreward-all: TODOS
+discover-searcher-byreward-header: 'Por benefício:'
+discover-searcher-header: 'Encontre um projeto'
+discover-by-keyword: 'Por palavra-chave:'
+discover-near-by: 'Próximo:'
+discover-any-city: 'Cidade,CEP, ...'
+meta-title-discover: 'Descobrir projetos :: doeja.com.br'
+discover-include-review-projects: 'Incluir projetos em revisão'

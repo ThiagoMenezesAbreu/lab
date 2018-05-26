@@ -1,1 +1,5 @@
 ---
+fatal-error-project: 'O candidato que você está procurando... <span class="red">não existe :(</span>'
+fatal-error-teapot: '<span class="greenblue">Isto é complicado...</span> ocorreu um erro inesperado.'
+fatal-error-user: 'O usuário que você está procurando... <span class="red">não existe.</span>'
+ajax-load-error: 'A página não pode ser carregada. Erro: <strong>%ERROR%</strong>]. Talvez sua sessão esteja expirada.'

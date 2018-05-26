@@ -34,9 +34,9 @@ timezone: America/Sao_Paulo
 
 # url
 url:
-    main: //191.252.113.207:8081
+    main: //192.168.162.130:8081
     # static resources url if you use a different assets server
-    assets: //191.252.113.207:8081
+    assets: //192.168.162.130:8081
     #optional, configure this as hostname only (ex: example.com) if you want languages to be selected as subdomains (es.example.com, en.example.com)
     #url_lang: 191.252.113.207:8081
 
@@ -94,7 +94,7 @@ payments:
     # Paypal
     paypal:
         active: true
-        testMode:  true # set to false to real checkouts
+        testMode:  false # set to false to real checkouts
         username: paypal@example.com
         password: paypal-password
         signature: PAYPAL-Signature
@@ -114,6 +114,25 @@ payments:
             # customize the calculateFee() in the corresponding class
 
     # This is a built-in payment method using internal credit
+    pagseguro:
+        active: true
+        testMode:  false # set to false to real checkouts
+        email: paypal@example.com
+        token: paypal-password
+        # brandName: Your organisation
+        # headerImageUrl: Some URL image for the header
+        # logoImageUrl: logo URL
+        # borderColor: B5DADC
+        commissions: # Per-invests commissions
+            refunded:
+                fixed: 0.35 # Paypal charges 0.35€ per invest, non-returnable
+                percent: 0
+            charged:
+                fixed: 0.35 # Paypal charges 0.35€ per invest, non-returnable
+                percent: 3.4 # 3.4% of the amount per invest
+            # Other variables may be added on other methods and
+            # customize the calculateFee() in the corresponding class
+        #
     pool:
         active: true
     # A stupid payment method defined in the plugin goteo-dev

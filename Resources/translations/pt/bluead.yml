@@ -1,1 +1,33 @@
----
+--- 
+assign-call-success: 'O projeto foi atribuído à chamada %s'
+dashboard-donor-remember: "Lembre-se de confirmar seus dados fiscais para o certificado de doação."
+image-upload-fail: 'Erro ao carregar imagem'
+gallery-upload-fail: 'Erro ao fazer o upload da galeria'
+invest-amount-error: 'Você tem que escrever um valor'
+invest-create-error: "Houve um problema ao processar o pagamento"
+invest-data-error: 'Dados necessários em falta'
+invest-method-error: 'Você tem que clicar em um dos botões de pagamento'
+invest-owner-error: 'Você é o autor do projeto, você não pode contribuir pessoalmente para o seu próprio projeto.'
+invest-paypal-error_fatal: 'Houve um erro fatal ao se conectar ao PayPal. A incidência foi notificada, desculpe pelo inconveniente.'
+invest-tpv-error_fatal: Houve um erro fatal no check-out. A incidência foi notificada, desculpe pelo inconveniente.
+message-cookies: 'Usamos cookies próprios e de terceiros para melhorar a sua experiência de usuário e nossos serviços, analisando a navegação dos usuários em nosso site. Se você continuar navegando, consideraremos que você concorda com seu uso. Você pode obter mais informações em nossa <a href="/legal/cookies">Política de cookies</a> '
+project-invest-closed: 'A página do projeto expirou'
+project-invest-friend_mail-fail: "Foi um erro ao enviar a mensagem de presente para o destinatário"
+project-invest-friend_mail-success: 'Mensagem de presente enviada corretamente ao destinatário'
+project-invest-thanks_mail-fail: 'Houve um erro ao enviar a mensagem de gratidão'
+project-invest-thanks_mail-success: 'Mensagem de gratidão enviada corretamente'
+project-review-confirm_mail-fail: 'Ocorreu um erro ao enviar a mensagem de confirmação'
+project-review-confirm_mail-success: 'Revisando a mensagem de confirmação enviada corretamente'
+project-review-request_mail-fail: "Ocorreu um erro ao enviar o convite de revisão"
+project-review-request_mail-success: 'Revisando mensagem de convite enviada corretamente'
+register-confirm_mail-fail: "Ocorreu um erro ao enviar o e-mail de ativação da conta. Por favor entre em contato conosco em %s "
+register-confirm_mail-success: 'Mensagem de ativação da conta enviada. Se você não encontrá-lo em sua caixa de entrada, verifique sua pasta /Spam.'
+review-ajax-alert: 'Os campos de avaliação / feedback serão atualizados automaticamente quando alterados'
+review-closed-alert: "Você marcou a revisão como concluída, sem mais alterações podem ser feitas."
+user-login-required: 'Você precisa <a href="/user/login">fazer login</a> para interagir com a comunidade Goteo'
+user-login-required-access: 'Você tem que entrar ou pedir permissão para ter acesso a esta seção'
+user-login-required-to_create: 'Você tem que entrar para criar um projeto'
+user-login-required-to_invest: 'Você tem que entrar para co-financiar este projeto'
+user-login-required-to_message: 'Você tem que entrar para enviar mensagens'
+user-login-required-to_see: 'Você tem que entrar para ver esta página'
+user-login-required-to_see-supporters: 'Você tem que entrar para ver os outros co-financiadores'

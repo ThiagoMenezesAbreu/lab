@@ -1,107 +1,336 @@
----
-admin-action: 'Ação administrativa'
-admin-NO: 'Não'
-admin-YES: "Sim"
-admin-account-amount: 'Quantidade doada'
-admin-account-change-user: 'Trocar usuário'
-admin-account-change-user-confirm: 'Tem certeza de que deseja alterar o usuário da contribuição? O novo usuário será:'
-admin-account-convert-to-pool: 'Converter para carteira'
-admin-account-convert-to-pool-confirm: 'Isso eliminará o projeto associado a essa contribuição e será como se fosse uma compra de carteira. TODAS AS DOAÇÕES ASSOCIADAS SERÃO PERDIDAS. Deseja continuar?'
-admin-account-convert-to-pool-ko: 'Não foi possível converter a doação para a carteira: %s'
-admin-account-convert-to-pool-ok: 'Doação convertida para dinheiro'
-admin-account-detail: 'Detalhes da Transação'
-admin-account-donation: Doação
-admin-account-edit-reward: 'Gerenciar return/address'
-admin-account-invalid-invest: 'Doação [%s] não encontrada!'
-admin-account-invest-date: 'Data da doação'
-admin-account-invest-non-pool-refundable: 'Esta doação não pode ser reembolsada na carteira virtual. Você só pode reembolsar as doações no status "Cobrado"'
-admin-address: Destinatário
-admin-all: Todos
-admin-back: Voltar
-admin-back-detail: 'Voltar para detalhes'
-admin-back-list: 'Voltar para lista'
-admin-contents: 'Textos e traduções'
-admin-empty-list: 'Nenhum resultado encontrado'
-admin-mailing-back-to-list: 'Voltar para mensagens'
-admin-mailing-created: 'Criado em'
-admin-mailing-new-massive: 'Você criou uma nova lista de discussão para %TOTAL% usuários'
-admin-mailing-status: 'Status de entrega automática'
-admin-mailing-subject: Assunto
-admin-mailing-view-and-activate: 'Veja o post admin para começar a enviar'
-admin-mailing-view-in-newsletter: 'Veja o post admin'
-admin-filters: 'Filtros'
-admin-remove-filters: 'Remover Filtros'
-admin-sponsors: Services
-admin-status: Status
-admin-text-type: 'Processar o texto como'
-admin-text-type-html: HTML
-admin-text-type-md: Markdown
-admin-text-type-plain: 'Plaintext'
-admin-user: Usuário
-admin-users: Usuários
-admin-yes: "Sim"
-admin-impersonate: Impersonate
-admin-impersonate-user: Impersonate %s
-admin-project: Projeto
-admin-main: Menu
-admin-legacy: Legado
-admin-projects: Projeto
-admin-invests: Contribuições
-admin-consultants: Consultores
-admin-project-express-discard: 'Descarte expresso'
-admin-project-express-discard-desc: 'Alterar o status do projeto para Descartar e envia um ema'
-admin-project-express-discard-sure: 'O projeto será descartado e o proprietário receberá um email, ok?'
-admin-project-to-review: 'Para rever'
-admin-project-to-review-desc: 'Alterar o status do projeto para Revisão pendente'
-admin-project-to-review-sure: 'O dono não poderá mais editar o projeto, ok?'
-admin-project-view-in-admin: 'Ver em admin'
-admin-project-to-negotiation: 'Para negociar'
-admin-project-to-negotiation-desc: 'Alterar o status do projeto para edição'
-admin-project-to-negotiation-sure: 'ALERTA! O projeto está em campanha! Esta ação irá cancelar a publicação do projeto, Ok?'
-admin-project-to-publish: 'Publicar'
-admin-project-to-publish-desc: 'Alterar o status do projeto para "Em campanha"'
-admin-project-to-publish-sure: 'Projeto vai começar sua campanha, ok?'
-admin-project-derivation-discard: 'Descarte e Derivação'
-admin-project-derivation-discard-desc: 'Alterar o status do projeto para Descartar e envia um e-mail derivado para outras plataformas'
-admin-project-derivation-discard-sure: 'O projeto será descartado e o dono receberá um e-mail derivando para outras plataformas, ok?'
-admin-home-title: Administrar Goteo
-
-admin-already-impersonating: 'Você já está representando um usuário. Por favor, feche a sessão primeiro!'
-admin-rebase-user: 'Alterar o id do usuário'
-admin-edit-name: 'Alterar nome'
-admin-edit-roles: 'Alterar permissão'
-admin-send-email: 'Enviar email'
-admin-show-roles-info: 'O que cada papel pode fazer'
-admin-user-roles: 'Lista de permissões de usuários'
-admin-view-user-projects: 'Todos projetos do usuário'
-admin-view-user-invests: 'Todas as doações do usuário'
-admin-user-hidden: 'Privado (oculto)'
-admin-user-active: 'Conta ativa'
-admin-user-warning: 'Atenção: Estas operações são executadas sem aviso prévio ao usuário'
-admin-user-wallet-amount: 'Crédito da carteira'
-admin-user-create-invest: 'Criar doação'
-admin-mailing: 'Mailing'
-admin-user-no-mailing: 'Nenhum email enviado'
-admin-view-user-mailing: 'Todos emails'
-admin-role-change-forbidden: 'Você não tem permissão para gerenciar a função %ROLE% neste usuári'
-
-admin-users-global-search: 'Id, nome, email or projeto'
-admin-title-id: Id
-admin-title-name: Nome
-admin-title-fullname: Nome
-admin-title-about: Sobre
-admin-title-location: Localização
-admin-title-email: Email
-admin-title-password: Senha
-admin-title-avatar: Avatar
-admin-title-roles: Permissões
-admin-title-amount: Investido
-admin-title-info: Informações
-
-admin-all-project-referers: 'Origem das visitas às páginas do projeto'
-admin-all-invests-referers: 'Origem das visitas em contribuições bem sucedidas para projetos'
-admin-all-call-referers: 'Origem das visitas para combinar páginas de financiamento'
-admin-all-project-devices: 'Dispositivo usado nas páginas do projeto'
-admin-all-invests-devices: 'Dispositivo usado em contribuições bem-sucedidas para projetos'
-admin-all-call-devices: 'Dispositivo usado em páginas de correspondência de partidas'
-
+---	 
+admin-action:	 'Ação do administrador'
+admin-NO:	 'NÃO'
+admin-YES:	 SIM
+admin-account-amount:	 'Valor contribuído'
+admin-account-change-user:	 'Alterar usuário'
+admin-account-change-user-confirm:	 'Tem certeza de que deseja alterar o usuário da contribuição? O novo usuário será:'
+admin-account-convert-to-pool:	 'Converter em carteira'
+admin-account-convert-to-pool-confirm:	 'Isso eliminará o projeto associado a essa contribuição e será como se fosse uma compra em carteira. TODAS AS RECOMPENSAS ASSOCIADAS SERÃO PERDIDAS. Continuar?'
+admin-account-convert-to-pool-ko:	 'Não é possível converter a contribuição para a carteira: %s'
+admin-account-convert-to-pool-ok:	 'Convertido para carteira de contribuição corretamente'
+admin-account-detail:	 'Detalhes da transação'
+admin-account-donation:	 Doação
+admin-account-edit-reward:	 'Gerenciar recompensa / endereço'
+admin-account-invalid-invest:	 'Contribuição [%s] não encontrada!'
+admin-account-invest-date:	 'Data da contribuição'
+admin-account-invest-non-pool-refundable:	 'Esta contribuição não pode ser reemcarteirada para a carteira virtual. Apenas as contribuições no status "Cobrado" podem ser reemcarteiradas'
+admin-account-invest-non-user-refundable:	 "Esta contribuição não pode ser reemcarteirada, as contribuições podem ser reemcarteiradas em estados:\n\"Pendente\", \"Cobrado\" e \"Para o moderador\" se houver dinheiro suficiente na carteira para descontar\n"
+admin-account-invest-to-pool-ko:	 'Não devolver a contribuição para a carteira'
+admin-account-invest-to-pool-ok:	 'Reembolso da contribuição para a carteira. Aumentou a carteira pelo valor de (%s) '
+admin-account-invest-user-refund-fail-pool-amount:	 'Esta contribuição não pode ser devolvida porque o usuário não tem dinheiro suficiente na carteira (%s)'
+admin-account-invest-user-refund-ko:	 'A contribuição não pôde ser devolvida: [%s]'
+admin-account-invest-user-refund-ok:	 'Contribuição reemcarteirada corretamente'
+admin-account-invest-user-refund-ok-pool:	 'Contribuição reemcarteirada corretamente. A carteira foi reduzida em %s '
+admin-account-issue-solved:	 'Nós fizemos a transferência'
+admin-account-modify-status:	 'Modifique o estado'
+admin-account-modify-status-confirm:	 "Tem certeza de que deseja alterar manualmente o status desta contribuição? Isso é delicado!\nNENHUMA operação de devoluçaõ da contribuição será feita.\n"
+admin-account-payment-method:	 'Forma de pagamento'
+admin-account-pool-on-fail:	 'Pool (voltar a carteira se falhar)'
+admin-account-refund-to-pool:	 'Retornar a contribuição para a carteira'
+admin-account-refund-to-pool-confirm:	 "Isso marcará a doação como: \n Retornado se o projeto não for bem-sucedido\nCancelado se o projeto estiver ativo ou tiver êxito\nSem reembolso ao usuário, dinheiro será gerado na carteira do usuário.\nContinuar?\n"
+admin-account-refund-to-user:	 'Devolver a contribuição para a carteira do usuário'
+admin-account-refund-to-user-confirm:	 "Isso marcará a doação como: \n Retornado se o projeto não for bem-sucedido\nCancelado se o projeto estiver ativo ou tiver êxito\no dinheiro será reemcarteirado ao usuário. \ nIsso NÃO poderá funcionar se a contribuição for muito antiga ou se o método de pagamento não for compatível"
+admin-account-rewards:	 'Recompensas de escolha'
+admin-account-switch-donation:	 'Doação de trabalho'
+admin-account-switch-donation-confirm:	 "Tem certeza de que quer mudar o status da doação?"
+admin-account-switch-pool:	 'Mudar a pool'
+admin-account-switch-pool-confirm:	 Isso só afeta quando o projeto falha, não gera ou remove dinheiro da carteira. Continuar?
+admin-account-switch-pool-fail:	 'Você não pode alterar o status do pool desta contribuição'
+admin-account-transaction:	 'Códigos de rastreamento'
+admin-account-user-changed-error:	 'O usuário da contribuição [%ID%] não pôde ser alterado para [%NAME%]!'
+admin-account-user-changed-successfully:	 'O usuário da contribuição [%ID%] foi alterado para [%NAME%]'
+admin-address:	 Endereço
+admin-all:	 Todos
+admin-global:	 Global
+admin-back:	 Voltar
+admin-back-detail:	 'Voltar aos detalhes'
+admin-back-list:	 'Voltar para a lista'
+admin-contents:	 'Textos e Traduções'
+admin-empty-list:	 'Nenhum registro encontrado'
+admin-activity:	 Atividade
+admin-communications:	 Comunicações
+admin-home:	 Cobrir
+admin-items:	 bilhetes
+admin-mailing-back-to-list:	 'De volta às comunicações'
+admin-mailing-communicating-with:	 'Queríamos nos comunicar com %DESC%'
+admin-mailing-created:	 'Criado o'
+admin-mailing-new-massive:	 'Uma nova mala direta foi criada para %TOTAL% usuários'
+admin-mailing-status:	 'Status de entrega automática'
+admin-mailing-subject:	 Assunto
+admin-mailing-view-and-activate:	 'Veja no admin da newsletter para ativar o embarque'
+admin-mailing-view-in-newsletter:	 'Veja no admin do boletim informativo'
+admin-mailing-view-in-sent:	 'Ver no histórico de remessas (estatísticas)'
+admin-mailing-view-message:	 'Veja a mensagem'
+admin-newsletter-generated:	 'A newsletter [%ID%] foi gerada'
+admin-newsletter-langs-to-send:	 Idiomas
+admin-newsletter-mind-activate:	 'Ativar para ser enviado'
+admin-no:	 'Não'
+admin-percent:	 Porcentagem
+admin-project:	 Projeto
+admin-main:	 Principal
+admin-legacy:	 Antigo
+admin-projects:	 Projetos
+admin-consultants:	 'Advisors'
+admin-invests:	 Contribuições
+admin-filters:	 'Filtros'
+admin-remove-filters:	 'Remover filtros'
+admin-services:	 Serviços
+admin-sponsors:	 Patrocinadores
+admin-others:	 Outro
+admin-summary:	 Resumo
+admin-origins:	 Visite analytics
+admin-status:	 Estado
+admin-text-type:	 'Processar o texto como'
+admin-text-type-html:	 HTML
+admin-text-type-md:	 Markdown
+admin-text-type-plain:	 'Texto simples'
+admin-user:	 Usuário
+admin-user-no-projects:	 'Ele ainda não criou nenhum projeto'
+admin-user-no-invests:	 'Ele ainda não fez nenhuma doação'
+admin-users:	 Usuários
+admin-users-add:	 Crie um novo usuário
+admin-calls:	 Chamadas
+admin-matchers:	 Matchers
+admin-channels:	 Canais
+admin-yes:	 Sim
+admin-impersonate:	 Representar
+admin-impersonate-user:	 Representar %s
+admin-project-express-discard:	 'Rejeição expressa'
+admin-project-express-discard-desc:	 'Passe o projeto para o estado Descartado e envie um email'
+admin-project-express-discard-sure:	 'Um e-mail será enviado automaticamente e será descartado, ok?'
+admin-project-to-review:	 'Para rever'
+admin-project-to-review-desc:	 'Passar o projeto para o status Avaliação pendente'
+admin-project-to-review-sure:	 'O criador não pode mais editá-lo, ok?'
+admin-project-view-in-admin:	 'Veja no admin'
+admin-project-to-negotiation:	 'Uma negociação'
+admin-project-to-negotiation-desc:	 'Passar o projeto para o estado Editar'
+admin-project-to-negotiation-sure:	 'ALERTA! O projeto está na campanha! Com isso, vamos cancelar a publicação, tudo bem?'
+admin-project-to-publish:	 'Publicar'
+admin-project-to-publish-desc:	 'Passar o projeto para o estado "Em campanha"'
+admin-project-to-publish-sure:	 "O projeto vai começar sua campanha, vamos começar?"
+admin-project-derivation-discard:	 'Rejeição com derivação'
+admin-project-derivation-discard-desc:	 'Passa o projeto para um estado descartado e envia um email para outra plataforma mais apropriada'
+admin-project-derivation-discard-sure:	 "Um e-mail será automaticamente enviado para outra plataforma e será descartado, ok?"
+admin-home-title:	 Gerenciar DoeJá
+admin-list:	 Listagem
+admin-stats:	 Estatísticas
+admin-list-total:	 'Total: <strong>%s</strong> resultados'
+admin-search-global:	 'Projeto, canal, convocação ...'
+admin-already-impersonating:	 'Você já está suplantando um usuário, por favor, feche a sessão primeiro!'
+admin-rebase-user:	 'Alterar o ID do usuário'
+admin-edit-name:	 'Mude o nome'
+admin-edit-roles:	 'Alterar funções do usuário'
+admin-send-email:	 'Enviar e-mail'
+admin-show-roles-info:	 'O que cada papel pode fazer?'
+admin-user-roles:	 'Lista de funções do usuário'
+admin-view-user-projects:	 'Todos os projetos'
+admin-view-user-invests:	 'Todas as contribuições'
+admin-user-hidden:	 'Privado (oculto)'
+admin-user-active:	 'Conta ativa'
+admin-user-warning:	 Atenção
+admin-user-wallet-amount:	 'Crédito na carteira'
+admin-user-create-invest:	 'Criar contribuição'
+admin-mailing:	 'Mailing'
+admin-user-no-mailing:	 'Nenhum email foi enviado ainda'
+admin-view-user-mailing:	 'Todas as remessas'
+admin-role-change-forbidden:	 'Você não tem permissão para gerenciar a função %ROLE% neste usuário'
+admin-users-global-search:	 'Id, nome, email ou projeto'
+admin-title-id:	 Id
+admin-title-name:	 Nome
+admin-title-about:	 Info
+admin-title-location:	 Localização
+admin-title-fullname:	 Nome
+admin-title-email:	 Email
+admin-title-password:	 Senha
+admin-title-avatar:	 Avatar
+admin-title-roles:	 Papéis
+admin-title-amount:	 Invertido
+admin-title-info:	 Info
+admin-all-project-referers:	 'Origem das visitas em projetos'
+admin-all-invests-referers:	 'Origem das visitas nas contribuições para projetos'
+admin-all-call-referers:	 'Origem das visitas às chamadas'
+admin-all-project-devices:	 'Dispositivo usado nas páginas do projeto'
+admin-all-invests-devices:	 'Dispositivo usado nas contribuições para projetos'
+admin-all-call-devices:	 'Dispositivo usado nas páginas de chamada'
+admin-aggregate-autoupdate:	 'Atualização automática'
+admin-aggregate-timeline:	 'Linha do tempo'
+admin-aggregate-invests:	 'Total de contribuições'
+admin-aggretate-invests-format:	 '%CURRENCY% %VALUE% (%TOTAL% investe)'
+admin-aggregate-invests-desc:	 'Soma das contribuições por unidade de tempo'
+admin-aggregate-invests-average:	 'Média de contribuições'
+admin-aggregate-invests-average-desc:	 'Média de contribuições por unidade de tempo'
+admin-aggregate-projects:	 'Total arrecadado em projetos'
+admin-aggretate-projects-format:	 '%CURRENCY% %VALUE% - %TOTAL% projects'
+admin-aggregate-projects-desc:	 'Soma das contribuições por unidade de tempo'
+admin-aggregate-projects-average:	'Coleção média em projetos'
+admin-aggregate-projects-average-desc:	 'Receita média por unidade de tempo'
+admin-stats-invest-totals:	 'Contribuições e comissões'
+admin-stats-project-totals:	 'Estado dos projetos'
+admin-stats-raised:	 'Renda bruta'
+admin-stats-active:	 'Renda líquida'
+admin-stats-refunded:	 'Retorna'
+admin-stats-fees:	 'Comissão de plataforma'
+admin-stats-commissions:	 'Comissão do banco'
+admin-stats-matchfunding:	 'Matchfunding'
+admin-stats-raised-method:	 'Lucro bruto de acordo com o método de pagamento'
+admin-stats-raised-method-desc:	 'O lucro bruto inclui todo o dinheiro que já custou a plataforma em algum momento (contribuições para projetos fracassados incluem, para além das contribuições diretas para a carteira ou de projetos fracassados para retornar a carteira). <br><em> Contribuições da carteira </em> não estão incluídas (a menos que este meio de pagamento seja escolhido)</b> '
+admin-stats-active-method:	 'Lucro líquido de acordo com o método de pagamento'
+admin-stats-active-method-desc:	 'O lucro líquido inclui todo o dinheiro recolhido pela plataforma excluindo devoluções (contribuições para a carteira, e direto de projetos fracassados para devolução a carteira).<br><em>contribuições da carteira não estão incluídas</em> (a menos que seja o método de pagamento escolhido). '
+admin-stats-refunded-method:	 'Devolve de acordo com o método de pagamento'
+admin-stats-refunded-method-desc:	 'As devoluções incluem todos os métodos de pagamento (incluem contribuições da carteira)'
+admin-stats-commissions-method:	 'Comissões bancárias de acordo com o método de pagamento'
+admin-stats-fees-method:	 'Comissão de plataforma de acordo com o método de pagamento'
+admin-stats-from_matchfunding:	 'Detalhe de projetos com o Matchfunding'
+admin-stats-matchfunding-part:	 'Projetos com Matchfunding'
+admin-stats-users-part:	 'Projetos sem Matchfunding'
+admin-stats-match-part:	 'Multiplicador Part'
+admin-stats-citizens-part:	 'Partido dos Cidadãos'
+admin-stats-matcher-part:	 'Part Matcher'
+admin-stats-invest-destination:	 'Destino das contribuições'
+admin-stats-invest-in_wallet:	 'Total acumulado na carteira'
+admin-stats-to_projects:	 'Para projetos'
+admin-stats-to_wallet:	 'Para a carteira'
+admin-stats-to_matcher_wallet:	 'Para a carteira dos Matchers'
+admin-stats-to_fee:	 'Para comissões'
+admin-stats-to_fee-percent:	 Comissão efetiva
+admin-stats-in_wallet:	 'Na carteira'
+admin-stats-in_matcher_wallet:	 'Na carteira dos Matchers'
+admin-stats-in_users_wallet:	 'Na carteira dos usuários'
+admin-stats-matchfunding-global:	 Influência do Matchfunding
+admin-stats-refunded-parts:	 'Breakdown of returns'
+admin-stats-fees-parts:	 'Repartição de comissões'
+admin-stats-invest-active-parts:	 'Receita líquida de destino'
+admin-stats-invest-in_wallet-parts:	 'Repartição da carteira'
+admin-losts:	 Perdas
+admin-raised:	 Levantado
+admin-active:	 Carregado
+admin-refunded:	 Devolvido
+admin-refunded-to_users:	 Devolvido aos usuários
+admin-refunded-to_wallet:	 Voltou para a carteira
+admin-commissions:	 Comissão
+admin-fees:	 Comissão da plataforma
+admin-user-fee:	 Comissão dos Cidadãos
+admin-call-fee:	 Comissão de Matchfunding (sem Matchers)
+admin-matcher-fee:	 Comissão de Matchers
+admin-vat:	 IVA
+admin-diff:	 Diferença
+admin-the_day:	 O dia
+admin-the_week:	 A semana
+admin-the_month:	 O mês
+admin-the_year:	 Ano
+admin-custom:	 De acordo com o filtro
+admin-total:	 Total
+admin-today:	 Hoje
+admin-yesterday:	 Ontem
+admin-week:	 Esta semana
+admin-last_week:	 O mesmo dia da semana passada
+admin-last_week_complete:	 Toda a semana passada
+admin-month:	 Este mês
+admin-last_month:	 No mesmo dia do último mês
+admin-last_month_complete:	 Todo mês passado
+admin-year:	 Este ano
+admin-last_year:	 No mesmo dia do ano passado
+admin-last_year_complete:	 Todo o ano passado
+admin-projects-created-today:	 "Criado hoje"
+admin-projects-created-yesterday:	 "Criado ontem"
+admin-projects-created-week:	 'Criado esta semana'
+admin-projects-created-last_week:	 "Criado na semana passada"
+admin-projects-created-month:	 'Criado este mês'
+admin-projects-created-last_month:	 'Criado no mês passado'
+admin-projects-created-year:	 'Criado este ano'
+admin-projects-created-last_year:	 "Criado no ano passado"
+admin-projects-negotiating-today:	 'Na negociação hoje'
+admin-projects-negotiating-yesterday:	 'Na negociação ontem'
+admin-projects-negotiating-week:	 'Em negociação esta semana'
+admin-projects-negotiating-last_week:	 'Em negociação na semana passada'
+admin-projects-negotiating-month:	 'Em negociação este mês'
+admin-projects-negotiating-last_month:	 'Na negociação no mês passado'
+admin-projects-negotiating-year:	 'Em negociação este ano'
+admin-projects-negotiating-last_year:	 'Em negociação no ano passado'
+admin-projects-published-today:	 'Postado hoje'
+admin-projects-published-yesterday:	 "Publicado ontem"
+admin-projects-published-week:	 "Publicado esta semana"
+admin-projects-published-last_week:	 "Publicado na semana passada"
+admin-projects-published-month:	 'Publicado este mês'
+admin-projects-published-last_month:	 'Publicado no mês passado'
+admin-projects-published-year:	 "Publicado este ano"
+admin-projects-published-last_year:	 "Publicado no ano passado"
+admin-projects-rejected-today:	 'Descartado hoje'
+admin-projects-rejected-yesterday:	 'Descartado ontem'
+admin-projects-rejected-week:	 'Descartado esta semana'
+admin-projects-rejected-last_week:	 'Descartado na semana passada'
+admin-projects-rejected-month:	 'Descartado este mês'
+admin-projects-rejected-year:	 'Descartado este ano'
+admin-projects-rejected-last_year:	 'Descartado no ano passado'
+admin-projects-review-today:	 'Em revisão hoje'
+admin-projects-review-yesterday:	 'Em revisão ontem'
+admin-projects-review-week:	 'Em revisão esta semana'
+admin-projects-review-last_week:	 'Em revisão na semana passada'
+admin-projects-review-month:	 'Em revisão este mês'
+admin-projects-review-last_month:	 'Em revisão no mês passado'
+admin-projects-review-year:	 'Em revisão este ano'
+admin-projects-review-last_year:	 'Em revisão no ano passado'
+admin-invest-raised-amount-today:	 'Criado hoje'
+admin-invest-raised-total-today:	 'Doações hoje'
+admin-invest-raised-amount-yesterday:	 'Criado ontem'
+admin-invest-raised-total-yesterday:	 'Doações ontem'
+admin-invest-raised-amount-week:	 'Criado esta semana'
+admin-invest-raised-amount-last_week:	 'Criado na semana passada'
+admin-invest-raised-total-week:	 'Doações esta semana'
+admin-invest-raised-total-last_week:	 'Doações na semana passada'
+admin-invest-raised-amount-month:	 'Criado este mês'
+admin-invest-raised-amount-last_month:	 'Criado no mês passado'
+admin-invest-raised-total-month:	 'Doações este mês'
+admin-invest-raised-total-last_month:	 'Doações no mês passado'
+admin-invest-raised-amount-year:	 'Criado este ano'
+admin-invest-raised-total-year:	 "Doações este ano"
+admin-invest-raised-amount-last_year:	 'Criado no ano passado'
+admin-invest-raised-total-last_year:	 'Doações no ano passado'
+admin-invest-commissions-today:	 'Comissão do banco hoje'
+admin-invest-commissions-yesterday:	 'Comissão do Banco ontem'
+admin-invest-commissions-week:	 'Banco da Comissão esta semana'
+admin-invest-commissions-last_week:	 'Comissão do banco na semana passada'
+admin-invest-commissions-month:	 'Comissão do banco este mês'
+admin-invest-commissions-last_month:	 'Comissão do banco no mês passado'
+admin-invest-commissions-year:	 'Comissão do banco este ano'
+admin-invest-commissions-last_year:	 'Comissão do banco no ano passado'
+admin-invest-commissions-lost-today:	 'Perda por contribuições retornadas hoje'
+admin-invest-commissions-lost-yesterday:	 'Perda por contribuições devolvidas ontem'
+admin-invest-commissions-lost-week:	 'Perda de contribuições devolvidas esta semana'
+admin-invest-commissions-lost-month:	 'Perda por contribuições devolvidas este mês'
+admin-invest-commissions-lost-year:	 'Perda de contribuições devolvidas este ano'
+admin-invest-commissions-lost-last_year:	 'Perda por contribuições devolvidas no ano passado'
+admin-invest-commissions-tpv-today:	 'Comissão TPV hoje'
+admin-invest-commissions-tpv-yesterday:	 'Comissão TPV ontem'
+admin-invest-commissions-tpv-week:	 'Comissão TPV esta semana'
+admin-invest-commissions-tpv-last_week:	 'Comissão TPV na semana passada'
+admin-invest-commissions-tpv-month:	 'Comissão TPV este mês'
+admin-invest-commissions-tpv-last_month:	 'Comissão TPV no mês passado'
+admin-invest-commissions-tpv-year:	 'Comissão TPV deste ano'
+admin-invest-commissions-tpv-last_year:	 'Comissão TPV no ano passado'
+admin-invest-commissions-paypal-today:	 'Comissão Paypal hoje'
+admin-invest-commissions-paypal-yesterday:	 'Comissão Paypal ontem'
+admin-invest-commissions-paypal-week:	 'Comissão Paypal esta semana'
+admin-invest-commissions-paypal-last_week:	 'Comissão Paypal na semana passada'
+admin-invest-commissions-paypal-month:	 'Comissão Paypal este mês'
+admin-invest-commissions-paypal-last_month:	 'Comissão Paypal no mês passado'
+admin-invest-commissions-paypal-year:	 'Comissão Paypal este ano'
+admin-invest-commissions-paypal-last_year:	 'Comissão Paypal no ano passado'
+admin-invest-fees-today:	 'Drip Commission today'
+admin-invest-fees-yesterday:	 'Drip Commission yesterday'
+admin-invest-fees-week:	 'Drip Commission esta semana'
+admin-invest-fees-last_week:	 'Drip Commission na semana passada'
+admin-invest-fees-month:	 'Drip Commission este mês'
+admin-invest-fees-last_month:	 'Drip Commission no mês passado'
+admin-invest-fees-year:	 'Drip Commission deste ano'
+admin-invest-fees-last_year:	 'Drip Commission no ano passado'
+admin-invest-diff-yesterday:	 'Diferença com o dia anterior'
+admin-invest-diff-last_week:	 'Diferença com a semana anterior'
+admin-invest-diff-last_month:	 'Diferença com o mês anterior'
+admin-invest-diff-last_year:	 'Diferença com o ano anterior'
+admin-stats-projects-channel-desc:	 'Projetos que pertencem ao canal (ou nó)'
+admin-stats-projects-call-desc:	 'Projetos que pertencem à chamada'
+admin-stats-projects-matcher-desc:	 'Projetos que estão ativos no matche'
+admin-stats-projects-consultant-desc:	'Projetos atribuídos a este consultor'
+admin-stats-projects-project-desc: 'Contribuições para o projeto'	
